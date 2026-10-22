@@ -1,0 +1,19 @@
+{
+  "6-digit code": "Código de 6 dígitos",
+  "Admin accounts use an authenticator app code in addition to the password.": "Las cuentas de administrador usan un código de una app de autenticación además de la contraseña.",
+  "Could not start setup. Please try again.": "No se pudo iniciar la configuración. Inténtalo de nuevo.",
+  "Enter the 6-digit code from your authenticator app to open the admin console.": "Introduce el código de 6 dígitos de tu app de autenticación para abrir la consola de administración.",
+  "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).": "¿Perdiste tu app de autenticación? Otro administrador puede eliminar el factor en el panel de Supabase (Authentication › Users).",
+  "Or enter this key manually:": "O introduce esta clave manualmente:",
+  "QR code for your authenticator app": "Código QR para tu app de autenticación",
+  "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).": "Escanea este código QR con tu app de autenticación (por ejemplo, 1Password, Google Authenticator o Microsoft Authenticator).",
+  "Set up authenticator app": "Configurar app de autenticación",
+  "Set up two-step verification to open the admin console.": "Configura la verificación en dos pasos para abrir la consola de administración.",
+  "That code did not work. Check the time on your phone and try again.": "Ese código no funcionó. Comprueba la hora de tu teléfono e inténtalo de nuevo.",
+  "Too many attempts": "Demasiados intentos",
+  "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.": "Demasiados intentos de inicio de sesión fallidos. Inténtalo de nuevo en 15 minutos o restablece tu contraseña.",
+  "Two-step verification": "Verificación en dos pasos",
+  "Two-step verification is on for this account.": "La verificación en dos pasos está activada para esta cuenta.",
+  "Verify": "Verificar",
+  "Verify and turn on": "Verificar y activar"
+}

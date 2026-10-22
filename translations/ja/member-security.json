@@ -1,0 +1,19 @@
+{
+  "6-digit code": "6桁のコード",
+  "Admin accounts use an authenticator app code in addition to the password.": "管理者アカウントでは、パスワードに加えて認証アプリのコードを使用します。",
+  "Could not start setup. Please try again.": "設定を開始できませんでした。もう一度お試しください。",
+  "Enter the 6-digit code from your authenticator app to open the admin console.": "管理コンソールを開くには、認証アプリに表示される6桁のコードを入力してください。",
+  "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).": "認証アプリを紛失した場合は、別の管理者がSupabaseダッシュボード（Authentication › Users）で要素を削除できます。",
+  "Or enter this key manually:": "または、このキーを手動で入力してください：",
+  "QR code for your authenticator app": "認証アプリ用のQRコード",
+  "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).": "このQRコードを認証アプリ（1Password、Google Authenticator、Microsoft Authenticatorなど）でスキャンしてください。",
+  "Set up authenticator app": "認証アプリを設定",
+  "Set up two-step verification to open the admin console.": "管理コンソールを開くには、2段階認証を設定してください。",
+  "That code did not work. Check the time on your phone and try again.": "このコードは使用できませんでした。スマートフォンの時刻を確認して、もう一度お試しください。",
+  "Too many attempts": "試行回数が多すぎます",
+  "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.": "サインインの失敗が多すぎます。15分後にもう一度お試しいただくか、パスワードを再設定してください。",
+  "Two-step verification": "2段階認証",
+  "Two-step verification is on for this account.": "このアカウントでは2段階認証がオンになっています。",
+  "Verify": "確認",
+  "Verify and turn on": "確認してオンにする"
+}

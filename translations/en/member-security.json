@@ -1,0 +1,19 @@
+{
+  "6-digit code": "6-digit code",
+  "Admin accounts use an authenticator app code in addition to the password.": "Admin accounts use an authenticator app code in addition to the password.",
+  "Could not start setup. Please try again.": "Could not start setup. Please try again.",
+  "Enter the 6-digit code from your authenticator app to open the admin console.": "Enter the 6-digit code from your authenticator app to open the admin console.",
+  "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).": "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).",
+  "Or enter this key manually:": "Or enter this key manually:",
+  "QR code for your authenticator app": "QR code for your authenticator app",
+  "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).": "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).",
+  "Set up authenticator app": "Set up authenticator app",
+  "Set up two-step verification to open the admin console.": "Set up two-step verification to open the admin console.",
+  "That code did not work. Check the time on your phone and try again.": "That code did not work. Check the time on your phone and try again.",
+  "Too many attempts": "Too many attempts",
+  "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.": "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.",
+  "Two-step verification": "Two-step verification",
+  "Two-step verification is on for this account.": "Two-step verification is on for this account.",
+  "Verify": "Verify",
+  "Verify and turn on": "Verify and turn on"
+}

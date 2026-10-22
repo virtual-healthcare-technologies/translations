@@ -1,0 +1,19 @@
+{
+  "6-digit code": "6-stelliger Code",
+  "Admin accounts use an authenticator app code in addition to the password.": "Admin-Konten verwenden zusätzlich zum Passwort einen Code aus einer Authenticator-App.",
+  "Could not start setup. Please try again.": "Die Einrichtung konnte nicht gestartet werden. Bitte versuchen Sie es erneut.",
+  "Enter the 6-digit code from your authenticator app to open the admin console.": "Geben Sie den 6-stelligen Code aus Ihrer Authenticator-App ein, um die Admin-Konsole zu öffnen.",
+  "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).": "Authenticator verloren? Ein anderer Admin kann den Faktor im Supabase-Dashboard entfernen (Authentication › Users).",
+  "Or enter this key manually:": "Oder geben Sie diesen Schlüssel manuell ein:",
+  "QR code for your authenticator app": "QR-Code für Ihre Authenticator-App",
+  "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).": "Scannen Sie diesen QR-Code mit Ihrer Authenticator-App (zum Beispiel 1Password, Google Authenticator oder Microsoft Authenticator).",
+  "Set up authenticator app": "Authenticator-App einrichten",
+  "Set up two-step verification to open the admin console.": "Richten Sie die Bestätigung in zwei Schritten ein, um die Admin-Konsole zu öffnen.",
+  "That code did not work. Check the time on your phone and try again.": "Dieser Code hat nicht funktioniert. Prüfen Sie die Uhrzeit auf Ihrem Telefon und versuchen Sie es erneut.",
+  "Too many attempts": "Zu viele Versuche",
+  "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.": "Zu viele fehlgeschlagene Anmeldeversuche. Versuchen Sie es in 15 Minuten erneut oder setzen Sie Ihr Passwort zurück.",
+  "Two-step verification": "Bestätigung in zwei Schritten",
+  "Two-step verification is on for this account.": "Die Bestätigung in zwei Schritten ist für dieses Konto aktiviert.",
+  "Verify": "Bestätigen",
+  "Verify and turn on": "Bestätigen und aktivieren"
+}

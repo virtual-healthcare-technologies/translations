@@ -1,0 +1,19 @@
+{
+  "6-digit code": "Código de 6 dígitos",
+  "Admin accounts use an authenticator app code in addition to the password.": "Contas de administrador usam um código de um app autenticador além da senha.",
+  "Could not start setup. Please try again.": "Não foi possível iniciar a configuração. Tente novamente.",
+  "Enter the 6-digit code from your authenticator app to open the admin console.": "Digite o código de 6 dígitos do seu app autenticador para abrir o console de administração.",
+  "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).": "Perdeu seu autenticador? Outro administrador pode remover o fator no painel do Supabase (Authentication › Users).",
+  "Or enter this key manually:": "Ou digite esta chave manualmente:",
+  "QR code for your authenticator app": "QR code para o seu app autenticador",
+  "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).": "Escaneie este QR code com seu app autenticador (por exemplo, 1Password, Google Authenticator ou Microsoft Authenticator).",
+  "Set up authenticator app": "Configurar app autenticador",
+  "Set up two-step verification to open the admin console.": "Configure a verificação em duas etapas para abrir o console de administração.",
+  "That code did not work. Check the time on your phone and try again.": "Esse código não funcionou. Confira o horário do seu celular e tente novamente.",
+  "Too many attempts": "Tentativas demais",
+  "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.": "Muitas tentativas de login sem sucesso. Tente novamente em 15 minutos ou redefina sua senha.",
+  "Two-step verification": "Verificação em duas etapas",
+  "Two-step verification is on for this account.": "A verificação em duas etapas está ativada para esta conta.",
+  "Verify": "Verificar",
+  "Verify and turn on": "Verificar e ativar"
+}

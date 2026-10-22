@@ -1,0 +1,19 @@
+{
+  "6-digit code": "Code à 6 chiffres",
+  "Admin accounts use an authenticator app code in addition to the password.": "Les comptes administrateur utilisent un code d’application d’authentification en plus du mot de passe.",
+  "Could not start setup. Please try again.": "Impossible de lancer la configuration. Veuillez réessayer.",
+  "Enter the 6-digit code from your authenticator app to open the admin console.": "Saisissez le code à 6 chiffres de votre application d’authentification pour ouvrir la console d’administration.",
+  "Lost your authenticator? Another admin can remove the factor in the Supabase dashboard (Authentication › Users).": "Vous avez perdu votre application d’authentification ? Un autre administrateur peut supprimer le facteur dans le tableau de bord Supabase (Authentication › Users).",
+  "Or enter this key manually:": "Ou saisissez cette clé manuellement :",
+  "QR code for your authenticator app": "QR code pour votre application d’authentification",
+  "Scan this QR code with your authenticator app (for example 1Password, Google Authenticator or Microsoft Authenticator).": "Scannez ce QR code avec votre application d’authentification (par exemple 1Password, Google Authenticator ou Microsoft Authenticator).",
+  "Set up authenticator app": "Configurer l’application d’authentification",
+  "Set up two-step verification to open the admin console.": "Configurez la vérification en deux étapes pour ouvrir la console d’administration.",
+  "That code did not work. Check the time on your phone and try again.": "Ce code n’a pas fonctionné. Vérifiez l’heure de votre téléphone et réessayez.",
+  "Too many attempts": "Trop de tentatives",
+  "Too many failed sign-in attempts. Try again in 15 minutes, or reset your password.": "Trop de tentatives de connexion échouées. Réessayez dans 15 minutes ou réinitialisez votre mot de passe.",
+  "Two-step verification": "Vérification en deux étapes",
+  "Two-step verification is on for this account.": "La vérification en deux étapes est activée pour ce compte.",
+  "Verify": "Vérifier",
+  "Verify and turn on": "Vérifier et activer"
+}
