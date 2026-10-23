@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T08:34:44.337Z",
+  "generatedAt": "2026-10-23T08:58:02.348Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "a56796bdf3ac842a67e9f807798dd8989e80d069",
+  "sourceCommit": "5a034e10a62964552ca947e4b9fed7d84f3802b1",
   "languages": [
     "en",
     "fr",
@@ -44,6 +44,7 @@
     "member-preventive",
     "member-profile-editor",
     "member-quick-log",
+    "member-r0-missing",
     "member-security",
     "member-settings",
     "member-shell",
@@ -88,6 +89,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -97,7 +99,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     },
     "fr": {
       "public": 2547,
@@ -132,6 +134,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -141,7 +144,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     },
     "ja": {
       "public": 2547,
@@ -176,6 +179,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -185,7 +189,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     },
     "zh-CN": {
       "public": 2547,
@@ -220,6 +224,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -229,7 +234,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     },
     "es": {
       "public": 2547,
@@ -264,6 +269,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -273,7 +279,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     },
     "de": {
       "public": 2547,
@@ -308,6 +314,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -317,7 +324,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     },
     "pt": {
       "public": 2547,
@@ -352,6 +359,7 @@
       "member-preventive": 331,
       "member-profile-editor": 412,
       "member-quick-log": 538,
+      "member-r0-missing": 10,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -361,7 +369,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12178
+      "total": 12188
     }
   }
 }
