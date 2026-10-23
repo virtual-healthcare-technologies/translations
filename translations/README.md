@@ -1,6 +1,6 @@
 # VHT.ai UI strings (generated export)
 
-Generated 2026-10-23T07:47:19.320Z from `virtual-healthcare-technologies/vht-ai-production` @ `3bdb38a14dd8`.
+Generated 2026-10-23T08:23:57.427Z from `virtual-healthcare-technologies/vht-ai-production` @ `126a8f9aadc5`.
 Do not edit these files in place: they are overwritten on every export.
 To propose a fix, open an issue or pull request in the public translations repo
 (see its top-level README).
@@ -15,12 +15,12 @@ To propose a fix, open an issue or pull request in the public translations repo
 
 | Language | Public site | Member app | Total |
 |----------|-------------|------------|-------|
-| en | 2548 | 9624 | 12172 |
-| fr | 2548 | 9624 | 12172 |
-| ja | 2548 | 9624 | 12172 |
-| zh-CN | 2548 | 9624 | 12172 |
-| es | 2548 | 9624 | 12172 |
-| de | 2548 | 9624 | 12172 |
-| pt | 2548 | 9624 | 12172 |
+| en | 2547 | 9624 | 12171 |
+| fr | 2547 | 9624 | 12171 |
+| ja | 2547 | 9624 | 12171 |
+| zh-CN | 2547 | 9624 | 12171 |
+| es | 2547 | 9624 | 12171 |
+| de | 2547 | 9624 | 12171 |
+| pt | 2547 | 9624 | 12171 |
 
 Languages: en, fr, ja, zh-CN, es, de, pt. Areas: 40 member-app areas plus the public site.
