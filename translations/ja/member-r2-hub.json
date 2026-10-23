@@ -1,0 +1,22 @@
+{
+  "About BMI": "BMIについて",
+  "About WHR": "WHRについて",
+  "About WHtR": "WHtRについて",
+  "Fat: {{value}}g": "脂質：{{value}} g",
+  "Favorite {{meal}} Combo": "お気に入りの{{meal}}セット",
+  "Functional Threshold Power — the highest power you can sustain for ~1 hour.": "機能的作業閾値パワー（FTP）：約1時間維持できる最大のパワーです。",
+  "Log Beverage": "飲み物を記録",
+  "Member reported no longer allergic": "メンバーよりアレルギー解消の報告",
+  "Member reported resolved": "メンバーより解消の報告",
+  "Member reported stopped": "メンバーより中止の報告",
+  "Pharmacy name": "薬局名",
+  "Protein: {{value}}g": "たんぱく質：{{value}} g",
+  "SPL Set ID": "SPLセットID",
+  "Slow": "遅め",
+  "Sugar: {{value}}g": "糖質：{{value}} g",
+  "Symmetric": "対称",
+  "What is BMI? How to measure": "BMIとは？測り方",
+  "What is WHR? How to measure": "WHRとは？測り方",
+  "What is WHtR? How to measure": "WHtRとは？測り方",
+  "mi": "マイル"
+}

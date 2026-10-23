@@ -1,0 +1,22 @@
+{
+  "About BMI": "À propos de l’IMC",
+  "About WHR": "À propos du RTH",
+  "About WHtR": "À propos du RTT",
+  "Fat: {{value}}g": "Lipides : {{value}} g",
+  "Favorite {{meal}} Combo": "Combinaison favorite : {{meal}}",
+  "Functional Threshold Power — the highest power you can sustain for ~1 hour.": "Puissance au seuil fonctionnel (FTP) : la puissance la plus élevée que vous pouvez maintenir pendant environ 1 heure.",
+  "Log Beverage": "Saisir une boisson",
+  "Member reported no longer allergic": "Plus allergique, selon le membre",
+  "Member reported resolved": "Résolu, selon le membre",
+  "Member reported stopped": "Arrêté, selon le membre",
+  "Pharmacy name": "Nom de la pharmacie",
+  "Protein: {{value}}g": "Protéines : {{value}} g",
+  "SPL Set ID": "Identifiant de jeu SPL",
+  "Slow": "Lente",
+  "Sugar: {{value}}g": "Sucres : {{value}} g",
+  "Symmetric": "Symétrique",
+  "What is BMI? How to measure": "Qu’est-ce que l’IMC ? Comment le mesurer",
+  "What is WHR? How to measure": "Qu’est-ce que le RTH ? Comment le mesurer",
+  "What is WHtR? How to measure": "Qu’est-ce que le RTT ? Comment le mesurer",
+  "mi": "mi"
+}

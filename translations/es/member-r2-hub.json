@@ -1,0 +1,22 @@
+{
+  "About BMI": "Acerca del IMC",
+  "About WHR": "Acerca del ICC",
+  "About WHtR": "Acerca del ICE",
+  "Fat: {{value}}g": "Grasas: {{value}} g",
+  "Favorite {{meal}} Combo": "Combinación favorita: {{meal}}",
+  "Functional Threshold Power — the highest power you can sustain for ~1 hour.": "Potencia umbral funcional (FTP): la potencia más alta que puedes mantener durante aproximadamente 1 hora.",
+  "Log Beverage": "Registrar bebida",
+  "Member reported no longer allergic": "El miembro informó que ya no es alérgico",
+  "Member reported resolved": "El miembro informó que se resolvió",
+  "Member reported stopped": "El miembro informó que lo suspendió",
+  "Pharmacy name": "Nombre de la farmacia",
+  "Protein: {{value}}g": "Proteínas: {{value}} g",
+  "SPL Set ID": "ID de conjunto SPL",
+  "Slow": "Lenta",
+  "Sugar: {{value}}g": "Azúcar: {{value}} g",
+  "Symmetric": "Simétrica",
+  "What is BMI? How to measure": "¿Qué es el IMC? Cómo medirlo",
+  "What is WHR? How to measure": "¿Qué es el ICC? Cómo medirlo",
+  "What is WHtR? How to measure": "¿Qué es el ICE? Cómo medirlo",
+  "mi": "mi"
+}
