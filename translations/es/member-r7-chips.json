@@ -1,0 +1,16 @@
+{
+  "Based on my current diet, health conditions, and existing supplements, what additional supplements would you recommend I consider? Please explain why each would be beneficial for my specific situation.": "Teniendo en cuenta mi alimentación actual, mis afecciones y los suplementos que ya tomo, ¿qué otros suplementos me recomendarías considerar? Explícame por qué cada uno sería útil en mi situación.",
+  "Can you analyze my recent activity and movement data? Please look at my step counts, workout patterns, and calorie burn to give me personalized recommendations.": "¿Puedes analizar mis datos recientes de actividad y movimiento? Revisa mis pasos, mis patrones de ejercicio y las calorías quemadas, y dame recomendaciones personalizadas.",
+  "Can you analyze my recent diet and nutrition data? Please look at my meal patterns, calorie intake, hydration levels, and give me personalized recommendations.": "¿Puedes analizar mis datos recientes de alimentación y nutrición? Revisa mis patrones de comidas, mi ingesta de calorías y mi hidratación, y dame recomendaciones personalizadas.",
+  "I only slept {{hours}} hours last night. What could help me sleep better?": "Anoche solo dormí {{hours}} horas. ¿Qué me podría ayudar a dormir mejor?",
+  "I walked {{steps}} steps today, {{pct}} more than my average. How can I keep this up safely?": "Hoy caminé {{steps}} pasos, {{pct}} más que mi promedio. ¿Cómo puedo mantenerlo de forma segura?",
+  "Keep advice informational and wellness-oriented — not a medical emergency alert.": "Dame consejos informativos y orientados al bienestar; no es una alerta de emergencia médica.",
+  "My resting heart rate is down to {{latest}} bpm from my 14-day average of {{avg}} bpm. What does this mean?": "Mi frecuencia cardíaca en reposo bajó a {{latest}} lpm, frente a mi promedio de 14 días de {{avg}} lpm. ¿Qué significa esto?",
+  "My resting heart rate is up to {{latest}} bpm from my 14-day average of {{avg}} bpm. What could be causing this?": "Mi frecuencia cardíaca en reposo subió a {{latest}} lpm, frente a mi promedio de 14 días de {{avg}} lpm. ¿Qué podría estar causándolo?",
+  "Regional air is currently Unhealthy ({{metrics}}).": "El aire de mi zona no es saludable en este momento ({{metrics}}).",
+  "Regional air is currently Unhealthy.": "El aire de mi zona no es saludable en este momento.",
+  "Regional air near {{place}} is currently Unhealthy ({{metrics}}).": "El aire de mi zona, cerca de {{place}}, no es saludable en este momento ({{metrics}}).",
+  "Regional air near {{place}} is currently Unhealthy.": "El aire de mi zona, cerca de {{place}}, no es saludable en este momento.",
+  "What does my cardiovascular data say about my heart health? Please analyze my recent heart rate, blood pressure, and oxygen saturation readings.": "¿Qué dicen mis datos cardiovasculares sobre la salud de mi corazón? Analiza mi frecuencia cardíaca, mi presión arterial y mi saturación de oxígeno recientes.",
+  "What does this mean for my daily activities and health, and what practical steps should I take?": "¿Qué significa esto para mis actividades diarias y mi salud, y qué medidas prácticas debería tomar?"
+}

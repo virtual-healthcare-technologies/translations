@@ -1,0 +1,16 @@
+{
+  "Based on my current diet, health conditions, and existing supplements, what additional supplements would you recommend I consider? Please explain why each would be beneficial for my specific situation.": "今の食事、持病、すでに飲んでいるサプリメントを踏まえて、ほかにどんなサプリメントを検討するとよいですか？それぞれが私の状況にどう役立つのか説明してください。",
+  "Can you analyze my recent activity and movement data? Please look at my step counts, workout patterns, and calorie burn to give me personalized recommendations.": "最近の活動と運動のデータを分析してもらえますか？歩数、ワークアウトの傾向、消費カロリーを見て、私に合ったアドバイスをください。",
+  "Can you analyze my recent diet and nutrition data? Please look at my meal patterns, calorie intake, hydration levels, and give me personalized recommendations.": "最近の食事と栄養のデータを分析してもらえますか？食事のパターン、摂取カロリー、水分補給を見て、私に合ったアドバイスをください。",
+  "I only slept {{hours}} hours last night. What could help me sleep better?": "昨夜は{{hours}}時間しか眠れませんでした。よく眠るにはどうすればいいですか？",
+  "I walked {{steps}} steps today, {{pct}} more than my average. How can I keep this up safely?": "今日は{{steps}}歩歩きました。平均より{{pct}}多いです。無理なく続けるにはどうすればいいですか？",
+  "Keep advice informational and wellness-oriented — not a medical emergency alert.": "医療上の緊急警報としてではなく、情報提供とウェルネスの観点でアドバイスしてください。",
+  "My resting heart rate is down to {{latest}} bpm from my 14-day average of {{avg}} bpm. What does this mean?": "安静時心拍数が、14日間の平均{{avg}}拍/分から{{latest}}拍/分に下がっています。これはどういう意味ですか？",
+  "My resting heart rate is up to {{latest}} bpm from my 14-day average of {{avg}} bpm. What could be causing this?": "安静時心拍数が、14日間の平均{{avg}}拍/分から{{latest}}拍/分に上がっています。何が原因として考えられますか？",
+  "Regional air is currently Unhealthy ({{metrics}}).": "地域の空気は、現在健康に悪い状態です（{{metrics}}）。",
+  "Regional air is currently Unhealthy.": "地域の空気は、現在健康に悪い状態です。",
+  "Regional air near {{place}} is currently Unhealthy ({{metrics}}).": "{{place}}付近の地域の空気は、現在健康に悪い状態です（{{metrics}}）。",
+  "Regional air near {{place}} is currently Unhealthy.": "{{place}}付近の地域の空気は、現在健康に悪い状態です。",
+  "What does my cardiovascular data say about my heart health? Please analyze my recent heart rate, blood pressure, and oxygen saturation readings.": "心血管のデータから、私の心臓の健康について何がわかりますか？最近の心拍数、血圧、酸素飽和度を分析してください。",
+  "What does this mean for my daily activities and health, and what practical steps should I take?": "これは私の日常の活動や健康にとってどういう意味がありますか？どんな具体的な対策をとればよいですか？"
+}

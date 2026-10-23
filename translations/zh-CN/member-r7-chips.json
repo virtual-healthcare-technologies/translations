@@ -1,0 +1,16 @@
+{
+  "Based on my current diet, health conditions, and existing supplements, what additional supplements would you recommend I consider? Please explain why each would be beneficial for my specific situation.": "根据我目前的饮食、健康状况和正在服用的补充剂，您建议我再考虑哪些补充剂？请说明每一种对我的具体情况有什么好处。",
+  "Can you analyze my recent activity and movement data? Please look at my step counts, workout patterns, and calorie burn to give me personalized recommendations.": "能帮我分析一下最近的活动和运动数据吗？请查看我的步数、锻炼规律和卡路里消耗，并给我个性化建议。",
+  "Can you analyze my recent diet and nutrition data? Please look at my meal patterns, calorie intake, hydration levels, and give me personalized recommendations.": "能帮我分析一下最近的饮食和营养数据吗？请查看我的用餐规律、热量摄入和饮水情况，并给我个性化建议。",
+  "I only slept {{hours}} hours last night. What could help me sleep better?": "我昨晚只睡了 {{hours}} 小时。怎样才能睡得更好？",
+  "I walked {{steps}} steps today, {{pct}} more than my average. How can I keep this up safely?": "我今天走了 {{steps}} 步，比平均水平多 {{pct}}。怎样才能安全地保持下去？",
+  "Keep advice informational and wellness-oriented — not a medical emergency alert.": "请提供信息性、以健康养护为导向的建议，这不是医疗紧急警报。",
+  "My resting heart rate is down to {{latest}} bpm from my 14-day average of {{avg}} bpm. What does this mean?": "我的静息心率降到了 {{latest}} 次/分，而我 14 天的平均值是 {{avg}} 次/分。这说明什么？",
+  "My resting heart rate is up to {{latest}} bpm from my 14-day average of {{avg}} bpm. What could be causing this?": "我的静息心率升到了 {{latest}} 次/分，而我 14 天的平均值是 {{avg}} 次/分。这可能是什么原因？",
+  "Regional air is currently Unhealthy ({{metrics}}).": "区域空气目前不健康（{{metrics}}）。",
+  "Regional air is currently Unhealthy.": "区域空气目前不健康。",
+  "Regional air near {{place}} is currently Unhealthy ({{metrics}}).": "{{place}} 附近的区域空气目前不健康（{{metrics}}）。",
+  "Regional air near {{place}} is currently Unhealthy.": "{{place}} 附近的区域空气目前不健康。",
+  "What does my cardiovascular data say about my heart health? Please analyze my recent heart rate, blood pressure, and oxygen saturation readings.": "我的心血管数据说明了我的心脏健康状况如何？请分析我最近的心率、血压和血氧饱和度读数。",
+  "What does this mean for my daily activities and health, and what practical steps should I take?": "这对我的日常活动和健康意味着什么？我应该采取哪些实际措施？"
+}

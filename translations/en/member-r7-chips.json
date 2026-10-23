@@ -1,0 +1,16 @@
+{
+  "Based on my current diet, health conditions, and existing supplements, what additional supplements would you recommend I consider? Please explain why each would be beneficial for my specific situation.": "Based on my current diet, health conditions, and existing supplements, what additional supplements would you recommend I consider? Please explain why each would be beneficial for my specific situation.",
+  "Can you analyze my recent activity and movement data? Please look at my step counts, workout patterns, and calorie burn to give me personalized recommendations.": "Can you analyze my recent activity and movement data? Please look at my step counts, workout patterns, and calorie burn to give me personalized recommendations.",
+  "Can you analyze my recent diet and nutrition data? Please look at my meal patterns, calorie intake, hydration levels, and give me personalized recommendations.": "Can you analyze my recent diet and nutrition data? Please look at my meal patterns, calorie intake, hydration levels, and give me personalized recommendations.",
+  "I only slept {{hours}} hours last night. What could help me sleep better?": "I only slept {{hours}} hours last night. What could help me sleep better?",
+  "I walked {{steps}} steps today, {{pct}} more than my average. How can I keep this up safely?": "I walked {{steps}} steps today, {{pct}} more than my average. How can I keep this up safely?",
+  "Keep advice informational and wellness-oriented — not a medical emergency alert.": "Keep advice informational and wellness-oriented — not a medical emergency alert.",
+  "My resting heart rate is down to {{latest}} bpm from my 14-day average of {{avg}} bpm. What does this mean?": "My resting heart rate is down to {{latest}} bpm from my 14-day average of {{avg}} bpm. What does this mean?",
+  "My resting heart rate is up to {{latest}} bpm from my 14-day average of {{avg}} bpm. What could be causing this?": "My resting heart rate is up to {{latest}} bpm from my 14-day average of {{avg}} bpm. What could be causing this?",
+  "Regional air is currently Unhealthy ({{metrics}}).": "Regional air is currently Unhealthy ({{metrics}}).",
+  "Regional air is currently Unhealthy.": "Regional air is currently Unhealthy.",
+  "Regional air near {{place}} is currently Unhealthy ({{metrics}}).": "Regional air near {{place}} is currently Unhealthy ({{metrics}}).",
+  "Regional air near {{place}} is currently Unhealthy.": "Regional air near {{place}} is currently Unhealthy.",
+  "What does my cardiovascular data say about my heart health? Please analyze my recent heart rate, blood pressure, and oxygen saturation readings.": "What does my cardiovascular data say about my heart health? Please analyze my recent heart rate, blood pressure, and oxygen saturation readings.",
+  "What does this mean for my daily activities and health, and what practical steps should I take?": "What does this mean for my daily activities and health, and what practical steps should I take?"
+}

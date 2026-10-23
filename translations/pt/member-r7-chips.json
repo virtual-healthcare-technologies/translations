@@ -1,0 +1,16 @@
+{
+  "Based on my current diet, health conditions, and existing supplements, what additional supplements would you recommend I consider? Please explain why each would be beneficial for my specific situation.": "Com base na minha alimentação atual, nas minhas condições de saúde e nos suplementos que já tomo, que outros suplementos você me recomendaria considerar? Explique por que cada um seria útil na minha situação.",
+  "Can you analyze my recent activity and movement data? Please look at my step counts, workout patterns, and calorie burn to give me personalized recommendations.": "Você pode analisar meus dados recentes de atividade e movimento? Veja minha contagem de passos, meus padrões de treino e as calorias gastas e me dê recomendações personalizadas.",
+  "Can you analyze my recent diet and nutrition data? Please look at my meal patterns, calorie intake, hydration levels, and give me personalized recommendations.": "Você pode analisar meus dados recentes de alimentação e nutrição? Veja meus padrões de refeição, minha ingestão de calorias e minha hidratação e me dê recomendações personalizadas.",
+  "I only slept {{hours}} hours last night. What could help me sleep better?": "Dormi só {{hours}} horas na noite passada. O que pode me ajudar a dormir melhor?",
+  "I walked {{steps}} steps today, {{pct}} more than my average. How can I keep this up safely?": "Caminhei {{steps}} passos hoje, {{pct}} a mais que minha média. Como posso manter isso com segurança?",
+  "Keep advice informational and wellness-oriented — not a medical emergency alert.": "Dê orientações informativas e voltadas ao bem-estar — não é um alerta de emergência médica.",
+  "My resting heart rate is down to {{latest}} bpm from my 14-day average of {{avg}} bpm. What does this mean?": "Minha frequência cardíaca em repouso caiu para {{latest}} bpm, contra minha média de 14 dias de {{avg}} bpm. O que isso significa?",
+  "My resting heart rate is up to {{latest}} bpm from my 14-day average of {{avg}} bpm. What could be causing this?": "Minha frequência cardíaca em repouso subiu para {{latest}} bpm, contra minha média de 14 dias de {{avg}} bpm. O que pode estar causando isso?",
+  "Regional air is currently Unhealthy ({{metrics}}).": "O ar da minha região está insalubre no momento ({{metrics}}).",
+  "Regional air is currently Unhealthy.": "O ar da minha região está insalubre no momento.",
+  "Regional air near {{place}} is currently Unhealthy ({{metrics}}).": "O ar da minha região, perto de {{place}}, está insalubre no momento ({{metrics}}).",
+  "Regional air near {{place}} is currently Unhealthy.": "O ar da minha região, perto de {{place}}, está insalubre no momento.",
+  "What does my cardiovascular data say about my heart health? Please analyze my recent heart rate, blood pressure, and oxygen saturation readings.": "O que meus dados cardiovasculares dizem sobre a saúde do meu coração? Analise minha frequência cardíaca, minha pressão arterial e minha saturação de oxigênio recentes.",
+  "What does this mean for my daily activities and health, and what practical steps should I take?": "O que isso significa para minhas atividades diárias e minha saúde, e que medidas práticas devo tomar?"
+}
