@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T08:23:57.427Z",
+  "generatedAt": "2026-10-23T08:34:44.337Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "126a8f9aadc5464fb6571d76d05ce78c86a0f8cf",
+  "sourceCommit": "a56796bdf3ac842a67e9f807798dd8989e80d069",
   "languages": [
     "en",
     "fr",
@@ -73,7 +73,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -90,14 +90,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     },
     "fr": {
       "public": 2547,
@@ -117,7 +117,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -134,14 +134,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     },
     "ja": {
       "public": 2547,
@@ -161,7 +161,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -178,14 +178,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     },
     "zh-CN": {
       "public": 2547,
@@ -205,7 +205,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -222,14 +222,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     },
     "es": {
       "public": 2547,
@@ -249,7 +249,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -266,14 +266,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     },
     "de": {
       "public": 2547,
@@ -293,7 +293,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -310,14 +310,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     },
     "pt": {
       "public": 2547,
@@ -337,7 +337,7 @@
       "medications": 203,
       "member-billing": 35,
       "member-body": 819,
-      "member-chat": 359,
+      "member-chat": 364,
       "member-common": 517,
       "member-digital-twin": 674,
       "member-genetic": 242,
@@ -354,14 +354,14 @@
       "member-quick-log": 538,
       "member-security": 17,
       "member-settings": 287,
-      "member-shell": 132,
+      "member-shell": 134,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12171
+      "total": 12178
     }
   }
 }
