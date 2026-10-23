@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T20:46:46.245Z",
+  "generatedAt": "2026-10-23T21:36:27.498Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "58ebdf6f60b3d9fe6004b2f1a09776e3b162b3d8",
+  "sourceCommit": "0fd17cfd896ce9ebc2ed0ea1952b8d70496e46d6",
   "languages": [
     "en",
     "fr",
@@ -27,6 +27,7 @@
     "instant",
     "lifestyle",
     "medications",
+    "member-beta-offer",
     "member-billing",
     "member-body",
     "member-chat",
@@ -64,7 +65,7 @@
   ],
   "counts": {
     "en": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -79,6 +80,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -113,10 +115,10 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     },
     "fr": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -131,6 +133,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -165,10 +168,10 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     },
     "ja": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -183,6 +186,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -217,10 +221,10 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     },
     "zh-CN": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -235,6 +239,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -269,10 +274,10 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     },
     "es": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -287,6 +292,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -321,10 +327,10 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     },
     "de": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -339,6 +345,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -373,10 +380,10 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     },
     "pt": {
-      "public": 2547,
+      "public": 2548,
       "address": 66,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -391,6 +398,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
       "member-chat": 364,
@@ -425,7 +433,7 @@
       "section-explanations": 167,
       "states": 133,
       "surgeries": 55,
-      "total": 12480
+      "total": 12486
     }
   }
 }
