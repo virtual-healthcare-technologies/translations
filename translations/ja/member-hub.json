@@ -67,6 +67,7 @@
   "Can you suggest healthy meal prep ideas for my busy schedule?": "忙しい私でもできる、健康的な作り置きのアイデアを教えてください",
   "Card visibility preferences updated": "カードの表示設定を更新しました",
   "Card {{n}}": "カード{{n}}",
+  "Card {{n}} of {{total}}": "カード{{n}}/{{total}}",
   "Category strips before Health Index are personalized via pillar cards (flip the Lifestyle, Biometrics, or Medical Profile card). Six pillar overview cards always follow Health Index.": "Health Indexより前のカテゴリーは、柱のカードで個別化されます（生活習慣、生体指標、医療プロフィールのカードを裏返してください）。6つの柱の概要カードは常にHealth Indexの後に表示されます。",
   "Chronic conditions and ongoing health concerns requiring management": "管理が必要な慢性疾患や継続中の健康上の問題",
   "Clinical record": "診療記録",

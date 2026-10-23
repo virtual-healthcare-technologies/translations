@@ -67,6 +67,7 @@
   "Can you suggest healthy meal prep ideas for my busy schedule?": "能为忙碌的我推荐一些健康的备餐方案吗？",
   "Card visibility preferences updated": "卡片显示偏好已更新",
   "Card {{n}}": "第 {{n}} 张卡片",
+  "Card {{n}} of {{total}}": "第 {{n}} 张卡片，共 {{total}} 张",
   "Category strips before Health Index are personalized via pillar cards (flip the Lifestyle, Biometrics, or Medical Profile card). Six pillar overview cards always follow Health Index.": "Health Index 之前的类别条通过支柱卡片个性化（翻转生活方式、生物指标或医疗档案卡片）。六张支柱概览卡片始终显示在 Health Index 之后。",
   "Chronic conditions and ongoing health concerns requiring management": "需要管理的慢性病和持续存在的健康问题",
   "Clinical record": "临床记录",

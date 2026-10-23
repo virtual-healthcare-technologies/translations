@@ -67,6 +67,7 @@
   "Can you suggest healthy meal prep ideas for my busy schedule?": "Pouvez-vous me suggérer des idées de repas sains à préparer à l’avance pour mon emploi du temps chargé ?",
   "Card visibility preferences updated": "Préférences d’affichage des cartes mises à jour",
   "Card {{n}}": "Carte {{n}}",
+  "Card {{n}} of {{total}}": "Carte {{n}} sur {{total}}",
   "Category strips before Health Index are personalized via pillar cards (flip the Lifestyle, Biometrics, or Medical Profile card). Six pillar overview cards always follow Health Index.": "Les bandeaux de catégories avant le Health Index se personnalisent via les cartes de piliers (retournez la carte Mode de vie, Biométrie ou Profil médical). Les six cartes de synthèse des piliers suivent toujours le Health Index.",
   "Chronic conditions and ongoing health concerns requiring management": "Affections chroniques et problèmes de santé en cours nécessitant un suivi",
   "Clinical record": "Dossier clinique",
