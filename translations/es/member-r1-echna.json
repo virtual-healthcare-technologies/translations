@@ -32,6 +32,6 @@
   "Transcription failed": "Error en la transcripción",
   "User": "Usuario",
   "You logged {{hours}} hours. Want to talk through what might help?": "Registraste {{hours}} horas. ¿Quieres hablar sobre qué podría ayudarte?",
-  "Your latest reading is {{latest}} bpm vs your 14-day average of {{avg}} bpm.": "Tu última lectura es de {{latest}} lpm frente a tu promedio de 14 días de {{avg}} lpm.",
+  "Your latest reading is {{latest}} bpm vs your 14-day average of {{avg}} bpm.": "Tu última medición es de {{latest}} lpm, frente a tu promedio de 14 días de {{avg}} lpm.",
   "{{steps}} steps — {{pct}} above your average.": "{{steps}} pasos: {{pct}} por encima de tu promedio."
 }

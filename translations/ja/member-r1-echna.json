@@ -15,7 +15,7 @@
   "Microphone not supported in this browser": "このブラウザはマイクに対応していません",
   "No new insights yet today. I'll surface anything noteworthy as your data updates.": "今日はまだ新しい気づきはありません。データが更新されたら、気になる点をお知らせします。",
   "Open Settings": "設定を開く",
-  "Open iOS Settings → VHT → Microphone to enable.": "iOSの設定 → VHT → マイクをオンにしてください。",
+  "Open iOS Settings → VHT → Microphone to enable.": "iOSの「設定」→「VHT」→「マイク」でオンにしてください。",
   "Profile completion: {{pct}}": "プロフィールの完成度：{{pct}}",
   "Reached 60s limit": "60秒の上限に達しました",
   "Recording interrupted": "録音が中断されました",
@@ -33,5 +33,5 @@
   "User": "ユーザー",
   "You logged {{hours}} hours. Want to talk through what might help?": "記録された睡眠は{{hours}}時間です。改善のヒントについて話してみませんか？",
   "Your latest reading is {{latest}} bpm vs your 14-day average of {{avg}} bpm.": "最新の値は{{latest}}拍/分で、14日間の平均は{{avg}}拍/分です。",
-  "{{steps}} steps — {{pct}} above your average.": "{{steps}}歩 — 平均より{{pct}}多い歩数です。"
+  "{{steps}} steps — {{pct}} above your average.": "{{steps}}歩。平均より{{pct}}多い歩数です。"
 }
