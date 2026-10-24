@@ -1,0 +1,18 @@
+{
+  "Choose \"Add Lab Result\" to record test results": "「検査結果を追加」を選んで結果を記録できます",
+  "Choose a sport tab above to see detailed metrics per activity type.": "上のスポーツのタブを選ぶと、アクティビティの種類別に詳しい指標が表示されます。",
+  "Click to flip": "クリックして裏返す",
+  "Click to see back side": "裏面を見る",
+  "Click to see front side": "表面に戻る",
+  "Click to show QR code": "QRコードを表示",
+  "Log a workout or connect Health Connect to start tracking.": "ワークアウトを記録するか、Health Connectを接続して記録を始めましょう。",
+  "Log a workout, or sync workouts from the VHT phone app, to start tracking.": "ワークアウトを記録するか、スマートフォンのVHTアプリからワークアウトを同期して記録を始めましょう。",
+  "Net kcal/day from dietary energy intake minus active + basal burn (14-day averages from your synced health data). Omitted when intake or burn data is insufficient.": "1日あたりの正味kcal：食事からのエネルギー摂取量から活動消費量と基礎代謝量を引いた値（同期した健康データの14日間の平均）。摂取量または消費量のデータが足りない場合は含まれません。",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Apple Health 14-day averages). Omitted when intake or burn data is insufficient.": "1日あたりの正味kcal：食事からのエネルギー摂取量から活動消費量と基礎代謝量を引いた値（Apple Healthの14日間の平均）。摂取量または消費量のデータが足りない場合は含まれません。",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Health Connect 14-day averages). Omitted when intake or burn data is insufficient.": "1日あたりの正味kcal：食事からのエネルギー摂取量から活動消費量と基礎代謝量を引いた値（Health Connectの14日間の平均）。摂取量または消費量のデータが足りない場合は含まれません。",
+  "Next month": "次の月",
+  "Previous month": "前の月",
+  "Record a workout on your watch and share it with Health Connect to see data here. Or log workouts manually.": "ウォッチでワークアウトを記録してHealth Connectと共有すると、ここにデータが表示されます。手動で記録することもできます。",
+  "Record a workout on your watch and sync it with the VHT phone app to see data here. Or log workouts manually.": "ウォッチでワークアウトを記録してスマートフォンのVHTアプリと同期すると、ここにデータが表示されます。手動で記録することもできます。",
+  "Use the speaker icon on AI responses": "AIの返答にあるスピーカーアイコンを使います"
+}

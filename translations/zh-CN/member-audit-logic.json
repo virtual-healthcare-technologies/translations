@@ -1,0 +1,18 @@
+{
+  "Choose \"Add Lab Result\" to record test results": "选择“添加化验结果”记录检查结果",
+  "Choose a sport tab above to see detailed metrics per activity type.": "选择上方的运动标签，查看各类活动的详细指标。",
+  "Click to flip": "点击翻转",
+  "Click to see back side": "点击查看背面",
+  "Click to see front side": "点击查看正面",
+  "Click to show QR code": "点击显示二维码",
+  "Log a workout or connect Health Connect to start tracking.": "记录一次锻炼或连接 Health Connect 开始跟踪。",
+  "Log a workout, or sync workouts from the VHT phone app, to start tracking.": "记录一次锻炼，或从手机上的 VHT 应用同步锻炼，开始跟踪。",
+  "Net kcal/day from dietary energy intake minus active + basal burn (14-day averages from your synced health data). Omitted when intake or burn data is insufficient.": "每日净热量（kcal/天）= 膳食能量摄入减去活动消耗与基础代谢消耗（已同步健康数据的 14 天平均值）。摄入或消耗数据不足时不计入。",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Apple Health 14-day averages). Omitted when intake or burn data is insufficient.": "每日净热量（kcal/天）= 膳食能量摄入减去活动消耗与基础代谢消耗（Apple Health 14 天平均值）。摄入或消耗数据不足时不计入。",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Health Connect 14-day averages). Omitted when intake or burn data is insufficient.": "每日净热量（kcal/天）= 膳食能量摄入减去活动消耗与基础代谢消耗（Health Connect 14 天平均值）。摄入或消耗数据不足时不计入。",
+  "Next month": "下个月",
+  "Previous month": "上个月",
+  "Record a workout on your watch and share it with Health Connect to see data here. Or log workouts manually.": "在手表上记录一次锻炼并与 Health Connect 共享，即可在此查看数据。也可以手动记录锻炼。",
+  "Record a workout on your watch and sync it with the VHT phone app to see data here. Or log workouts manually.": "在手表上记录一次锻炼并与手机上的 VHT 应用同步，即可在此查看数据。也可以手动记录锻炼。",
+  "Use the speaker icon on AI responses": "使用 AI 回复上的扬声器图标"
+}

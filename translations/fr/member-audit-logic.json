@@ -1,0 +1,18 @@
+{
+  "Choose \"Add Lab Result\" to record test results": "Choisissez « Ajouter un résultat d’analyse » pour enregistrer des résultats",
+  "Choose a sport tab above to see detailed metrics per activity type.": "Choisissez un onglet de sport ci-dessus pour voir les indicateurs détaillés par type d’activité.",
+  "Click to flip": "Cliquez pour retourner",
+  "Click to see back side": "Voir le verso",
+  "Click to see front side": "Voir le recto",
+  "Click to show QR code": "Voir le code QR",
+  "Log a workout or connect Health Connect to start tracking.": "Enregistrez un entraînement ou connectez Health Connect pour commencer le suivi.",
+  "Log a workout, or sync workouts from the VHT phone app, to start tracking.": "Enregistrez un entraînement, ou synchronisez vos entraînements depuis l’app VHT de votre téléphone, pour commencer le suivi.",
+  "Net kcal/day from dietary energy intake minus active + basal burn (14-day averages from your synced health data). Omitted when intake or burn data is insufficient.": "Kcal nettes par jour : apport énergétique alimentaire moins dépense active + basale (moyennes sur 14 jours de vos données de santé synchronisées). Exclu si les données d’apport ou de dépense sont insuffisantes.",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Apple Health 14-day averages). Omitted when intake or burn data is insufficient.": "Kcal nettes par jour : apport énergétique alimentaire moins dépense active + basale (moyennes Apple Health sur 14 jours). Exclu si les données d’apport ou de dépense sont insuffisantes.",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Health Connect 14-day averages). Omitted when intake or burn data is insufficient.": "Kcal nettes par jour : apport énergétique alimentaire moins dépense active + basale (moyennes Health Connect sur 14 jours). Exclu si les données d’apport ou de dépense sont insuffisantes.",
+  "Next month": "Mois suivant",
+  "Previous month": "Mois précédent",
+  "Record a workout on your watch and share it with Health Connect to see data here. Or log workouts manually.": "Enregistrez un entraînement sur votre montre et partagez-le avec Health Connect pour voir les données ici. Vous pouvez aussi saisir vos entraînements manuellement.",
+  "Record a workout on your watch and sync it with the VHT phone app to see data here. Or log workouts manually.": "Enregistrez un entraînement sur votre montre et synchronisez-le avec l’app VHT de votre téléphone pour voir les données ici. Vous pouvez aussi saisir vos entraînements manuellement.",
+  "Use the speaker icon on AI responses": "Utilisez l’icône haut-parleur des réponses de l’IA"
+}

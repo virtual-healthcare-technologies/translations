@@ -1,0 +1,18 @@
+{
+  "Choose \"Add Lab Result\" to record test results": "Elige «Añadir resultado de laboratorio» para registrar resultados",
+  "Choose a sport tab above to see detailed metrics per activity type.": "Elige una pestaña de deporte arriba para ver métricas detalladas por tipo de actividad.",
+  "Click to flip": "Haz clic para girar",
+  "Click to see back side": "Haz clic para ver el reverso",
+  "Click to see front side": "Haz clic para ver el anverso",
+  "Click to show QR code": "Haz clic para mostrar el código QR",
+  "Log a workout or connect Health Connect to start tracking.": "Registra un entrenamiento o conecta Health Connect para empezar a hacer seguimiento.",
+  "Log a workout, or sync workouts from the VHT phone app, to start tracking.": "Registra un entrenamiento, o sincroniza tus entrenamientos desde la app VHT del teléfono, para empezar a hacer seguimiento.",
+  "Net kcal/day from dietary energy intake minus active + basal burn (14-day averages from your synced health data). Omitted when intake or burn data is insufficient.": "Kcal netas al día: energía ingerida menos gasto activo + basal (promedios de 14 días de tus datos de salud sincronizados). Se omite cuando los datos de ingesta o gasto son insuficientes.",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Apple Health 14-day averages). Omitted when intake or burn data is insufficient.": "Kcal netas al día: energía ingerida menos gasto activo + basal (promedios de 14 días de Apple Health). Se omite cuando los datos de ingesta o gasto son insuficientes.",
+  "Net kcal/day from dietary energy intake minus active + basal burn (Health Connect 14-day averages). Omitted when intake or burn data is insufficient.": "Kcal netas al día: energía ingerida menos gasto activo + basal (promedios de 14 días de Health Connect). Se omite cuando los datos de ingesta o gasto son insuficientes.",
+  "Next month": "Mes siguiente",
+  "Previous month": "Mes anterior",
+  "Record a workout on your watch and share it with Health Connect to see data here. Or log workouts manually.": "Registra un entrenamiento en tu reloj y compártelo con Health Connect para ver los datos aquí. También puedes registrar entrenamientos manualmente.",
+  "Record a workout on your watch and sync it with the VHT phone app to see data here. Or log workouts manually.": "Registra un entrenamiento en tu reloj y sincronízalo con la app VHT del teléfono para ver los datos aquí. También puedes registrar entrenamientos manualmente.",
+  "Use the speaker icon on AI responses": "Usa el icono del altavoz en las respuestas de la IA"
+}

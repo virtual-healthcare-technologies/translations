@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T12:42:26.222Z",
+  "generatedAt": "2026-10-24T13:35:47.488Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "7b78f6900abc01c77c1e03e736f453258bcb5c09",
+  "sourceCommit": "4567c127371deb636b8a3e710e4b2e866bfe7037",
   "languages": [
     "en",
     "fr",
@@ -27,6 +27,7 @@
     "instant",
     "lifestyle",
     "medications",
+    "member-audit-logic",
     "member-beta-offer",
     "member-billing",
     "member-body",
@@ -86,6 +87,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -127,7 +129,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     },
     "fr": {
       "public": 2552,
@@ -145,6 +147,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -186,7 +189,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     },
     "ja": {
       "public": 2552,
@@ -204,6 +207,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -245,7 +249,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     },
     "zh-CN": {
       "public": 2552,
@@ -263,6 +267,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -304,7 +309,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     },
     "es": {
       "public": 2552,
@@ -322,6 +327,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -363,7 +369,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     },
     "de": {
       "public": 2552,
@@ -381,6 +387,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -422,7 +429,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     },
     "pt": {
       "public": 2552,
@@ -440,6 +447,7 @@
       "instant": 112,
       "lifestyle": 102,
       "medications": 203,
+      "member-audit-logic": 16,
       "member-beta-offer": 5,
       "member-billing": 35,
       "member-body": 819,
@@ -481,7 +489,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12705
+      "total": 12721
     }
   }
 }
