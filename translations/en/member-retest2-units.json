@@ -1,0 +1,19 @@
+{
+  "Height ({{unit}})": "Height ({{unit}})",
+  "Hip Circumference ({{unit}})": "Hip Circumference ({{unit}})",
+  "Hip {{value}}": "Hip {{value}}",
+  "Lean Body Mass ({{unit}})": "Lean Body Mass ({{unit}})",
+  "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.": "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.",
+  "Pair a device from the VHT app on your phone. It will appear here after the next sync.": "Pair a device from the VHT app on your phone. It will appear here after the next sync.",
+  "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.": "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.",
+  "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.": "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.",
+  "Permissions needed": "Permissions needed",
+  "Previous: {{value}}": "Previous: {{value}}",
+  "Reconnect": "Reconnect",
+  "Some types off": "Some types off",
+  "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.": "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.",
+  "Waist Circumference ({{unit}})": "Waist Circumference ({{unit}})",
+  "Waist {{value}}": "Waist {{value}}",
+  "{{n}} of {{total}} types allowed": "{{n}} of {{total}} types allowed",
+  "{{value}} lean": "{{value}} lean"
+}

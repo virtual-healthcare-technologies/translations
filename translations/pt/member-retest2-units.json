@@ -1,0 +1,19 @@
+{
+  "Height ({{unit}})": "Altura ({{unit}})",
+  "Hip Circumference ({{unit}})": "Circunferência do quadril ({{unit}})",
+  "Hip {{value}}": "Quadril {{value}}",
+  "Lean Body Mass ({{unit}})": "Massa magra ({{unit}})",
+  "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.": "No Android, os dispositivos enviam dados ao app VHT pelo Health Connect. Pareie seu anel, medidor de pressão, balança, oxímetro ou relógio no app dele, permita que esse app compartilhe com o Health Connect, e o app VHT lerá os dados na próxima sincronização.",
+  "Pair a device from the VHT app on your phone. It will appear here after the next sync.": "Pareie um dispositivo pelo app VHT no seu celular. Ele aparecerá aqui após a próxima sincronização.",
+  "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.": "Pareie um dispositivo no app dele e ative o compartilhamento com o Health Connect. As medições aparecem após a próxima sincronização.",
+  "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.": "Para parear um dispositivo, você precisa do app VHT no celular. No iPhone, pareie no app VHT (os dados do Apple Health também são sincronizados). No Android, pareie no app do dispositivo e compartilhe com o Health Connect. Depois, suas medições aparecem aqui.",
+  "Permissions needed": "Permissões necessárias",
+  "Previous: {{value}}": "Anterior: {{value}}",
+  "Reconnect": "Reconectar",
+  "Some types off": "Alguns tipos desativados",
+  "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.": "O app VHT não tem acesso ao Health Connect no momento, então nenhum dado novo pode ser sincronizado. Reconecte e permita os dados que você quer compartilhar.",
+  "Waist Circumference ({{unit}})": "Circunferência da cintura ({{unit}})",
+  "Waist {{value}}": "Cintura {{value}}",
+  "{{n}} of {{total}} types allowed": "{{n}} de {{total}} tipos permitidos",
+  "{{value}} lean": "{{value}} de massa magra"
+}

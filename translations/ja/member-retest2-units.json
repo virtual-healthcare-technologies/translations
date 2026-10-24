@@ -1,0 +1,19 @@
+{
+  "Height ({{unit}})": "身長（{{unit}}）",
+  "Hip Circumference ({{unit}})": "ヒップ周囲径（{{unit}}）",
+  "Hip {{value}}": "ヒップ {{value}}",
+  "Lean Body Mass ({{unit}})": "除脂肪体重（{{unit}}）",
+  "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.": "Androidでは、機器のデータはHealth Connect経由でVHTに届きます。リング、血圧計、体重計、パルスオキシメーター、ウォッチをそれぞれのアプリでペアリングし、そのアプリからHealth Connectへの共有を許可すると、次回の同期でVHTが読み取ります。",
+  "Pair a device from the VHT app on your phone. It will appear here after the next sync.": "スマートフォンのVHTアプリから機器をペアリングしてください。次回の同期後にここに表示されます。",
+  "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.": "機器をそれぞれのアプリでペアリングし、Health Connectへの共有をオンにしてください。次回の同期後に測定値が表示されます。",
+  "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.": "機器のペアリングにはスマートフォンのVHTアプリが必要です。iPhoneではVHTアプリでペアリングします（Apple Healthのデータも同期されます）。Androidでは機器のアプリでペアリングし、Health Connectと共有します。その後、測定値がここに表示されます。",
+  "Permissions needed": "許可が必要です",
+  "Previous: {{value}}": "前回：{{value}}",
+  "Reconnect": "再接続",
+  "Some types off": "一部のデータがオフ",
+  "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.": "現在、VHTはHealth Connectにアクセスできないため、新しいデータを同期できません。再接続して、共有したいデータを許可してください。",
+  "Waist Circumference ({{unit}})": "ウエスト周囲径（{{unit}}）",
+  "Waist {{value}}": "ウエスト {{value}}",
+  "{{n}} of {{total}} types allowed": "{{total}}種類中{{n}}種類を許可",
+  "{{value}} lean": "除脂肪 {{value}}"
+}

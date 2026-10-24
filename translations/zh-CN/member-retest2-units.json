@@ -1,0 +1,19 @@
+{
+  "Height ({{unit}})": "身高（{{unit}}）",
+  "Hip Circumference ({{unit}})": "臀围（{{unit}}）",
+  "Hip {{value}}": "臀围 {{value}}",
+  "Lean Body Mass ({{unit}})": "去脂体重（{{unit}}）",
+  "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.": "在 Android 上，设备数据通过 Health Connect 传到 VHT。请在设备自己的应用中配对您的戒指、血压计、体重秤、血氧仪或手表，允许该应用与 Health Connect 共享，VHT 会在下次同步时读取。",
+  "Pair a device from the VHT app on your phone. It will appear here after the next sync.": "请在手机上的 VHT 应用中配对设备。下次同步后会显示在这里。",
+  "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.": "请在设备自己的应用中配对，并开启与 Health Connect 的共享。下次同步后会显示测量数据。",
+  "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.": "配对设备需要使用手机上的 VHT 应用。在 iPhone 上，请在 VHT 应用中配对（Apple Health 数据也会同步）。在 Android 上，请在设备自己的应用中配对并与 Health Connect 共享。之后您的测量数据会显示在这里。",
+  "Permissions needed": "需要授权",
+  "Previous: {{value}}": "上次：{{value}}",
+  "Reconnect": "重新连接",
+  "Some types off": "部分类型已关闭",
+  "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.": "VHT 目前无法访问 Health Connect，因此无法同步新数据。请重新连接，并允许您想共享的数据。",
+  "Waist Circumference ({{unit}})": "腰围（{{unit}}）",
+  "Waist {{value}}": "腰围 {{value}}",
+  "{{n}} of {{total}} types allowed": "已允许 {{n}}/{{total}} 种类型",
+  "{{value}} lean": "去脂体重 {{value}}"
+}

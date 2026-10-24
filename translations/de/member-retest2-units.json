@@ -1,0 +1,19 @@
+{
+  "Height ({{unit}})": "Größe ({{unit}})",
+  "Hip Circumference ({{unit}})": "Hüftumfang ({{unit}})",
+  "Hip {{value}}": "Hüfte {{value}}",
+  "Lean Body Mass ({{unit}})": "Fettfreie Masse ({{unit}})",
+  "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.": "Unter Android gelangen Gerätedaten über Health Connect zu VHT. Koppeln Sie Ihren Ring, Ihr Blutdruckmessgerät, Ihre Waage, Ihr Pulsoximeter oder Ihre Uhr in der jeweiligen App, erlauben Sie dieser App das Teilen mit Health Connect, und VHT liest die Daten bei der nächsten Synchronisierung.",
+  "Pair a device from the VHT app on your phone. It will appear here after the next sync.": "Koppeln Sie ein Gerät über die VHT-App auf Ihrem Smartphone. Es erscheint hier nach der nächsten Synchronisierung.",
+  "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.": "Koppeln Sie ein Gerät in seiner eigenen App und aktivieren Sie das Teilen mit Health Connect. Die Messwerte erscheinen nach der nächsten Synchronisierung.",
+  "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.": "Zum Koppeln eines Geräts brauchen Sie die VHT-App auf Ihrem Smartphone. Auf dem iPhone koppeln Sie es in der VHT-App (Apple-Health-Daten werden ebenfalls synchronisiert). Unter Android koppeln Sie es in seiner eigenen App und teilen es mit Health Connect. Danach erscheinen Ihre Messwerte hier.",
+  "Permissions needed": "Berechtigungen erforderlich",
+  "Previous: {{value}}": "Zuletzt: {{value}}",
+  "Reconnect": "Erneut verbinden",
+  "Some types off": "Einige Typen aus",
+  "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.": "VHT hat zurzeit keinen Zugriff auf Health Connect, daher können keine neuen Daten synchronisiert werden. Verbinden Sie erneut und erlauben Sie die Daten, die Sie teilen möchten.",
+  "Waist Circumference ({{unit}})": "Taillenumfang ({{unit}})",
+  "Waist {{value}}": "Taille {{value}}",
+  "{{n}} of {{total}} types allowed": "{{n}} von {{total}} Typen erlaubt",
+  "{{value}} lean": "{{value}} fettfreie Masse"
+}

@@ -1,0 +1,19 @@
+{
+  "Height ({{unit}})": "Taille ({{unit}})",
+  "Hip Circumference ({{unit}})": "Tour de hanches ({{unit}})",
+  "Hip {{value}}": "Tour de hanches {{value}}",
+  "Lean Body Mass ({{unit}})": "Masse maigre ({{unit}})",
+  "On Android, devices reach VHT through Health Connect. Pair your ring, cuff, scale, oximeter, or watch in its own app, let that app share with Health Connect, and VHT reads it on the next sync.": "Sur Android, les appareils transmettent leurs données à VHT via Health Connect. Associez votre bague, tensiomètre, balance, oxymètre ou montre dans son application, autorisez celle-ci à partager avec Health Connect, et VHT lira les données à la prochaine synchronisation.",
+  "Pair a device from the VHT app on your phone. It will appear here after the next sync.": "Associez un appareil depuis l’application VHT sur votre téléphone. Il apparaîtra ici après la prochaine synchronisation.",
+  "Pair a device in its own app and turn on Health Connect sharing. Its readings appear after the next sync.": "Associez un appareil dans son application et activez le partage avec Health Connect. Ses mesures apparaîtront après la prochaine synchronisation.",
+  "Pairing a device needs the VHT phone app. On iPhone, pair it in the VHT app (Apple Health data syncs too). On Android, pair it in its own app and share it with Health Connect. Your readings then show up here.": "Pour associer un appareil, il faut l’application VHT sur votre téléphone. Sur iPhone, associez-le dans l’application VHT (les données Apple Health sont aussi synchronisées). Sur Android, associez-le dans son application et partagez-le avec Health Connect. Vos mesures s’afficheront ensuite ici.",
+  "Permissions needed": "Autorisations requises",
+  "Previous: {{value}}": "Précédent : {{value}}",
+  "Reconnect": "Reconnecter",
+  "Some types off": "Certains types désactivés",
+  "VHT has no Health Connect access right now, so nothing new can sync. Reconnect and allow the data you want to share.": "VHT n’a actuellement aucun accès à Health Connect : aucune nouvelle donnée ne peut être synchronisée. Reconnectez-vous et autorisez les données que vous souhaitez partager.",
+  "Waist Circumference ({{unit}})": "Tour de taille ({{unit}})",
+  "Waist {{value}}": "Tour de taille {{value}}",
+  "{{n}} of {{total}} types allowed": "{{n}} types autorisés sur {{total}}",
+  "{{value}} lean": "{{value}} de masse maigre"
+}
