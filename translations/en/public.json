@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "Healthcare Facilities",
   "pages.globalAccess.types[2].description": "Consult with specialized healthcare providers including surgeons, therapists, and medical experts.",
   "pages.globalAccess.types[2].title": "Specialists",
+  "pages.legalNotice.notice": "This translation is provisional pending counsel review. English remains the compliance source of truth.",
+  "pages.legalNotice.readEnglish": "Read the English version",
   "pages.news.allArticles": "All articles",
   "pages.news.allCategory": "All",
   "pages.news.articleMany": "{0} articles",

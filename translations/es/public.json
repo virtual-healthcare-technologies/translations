@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "Centros de salud",
   "pages.globalAccess.types[2].description": "Consulta con profesionales de la salud especializados, como cirujanos, terapeutas y expertos médicos.",
   "pages.globalAccess.types[2].title": "Especialistas",
+  "pages.legalNotice.notice": "El texto legal en español es provisional hasta que lo revise el asesor jurídico. La versión en inglés sigue siendo la fuente oficial de cumplimiento.",
+  "pages.legalNotice.readEnglish": "Leer la versión en inglés",
   "pages.news.allArticles": "Todos los artículos",
   "pages.news.allCategory": "Todas",
   "pages.news.articleMany": "{0} artículos",

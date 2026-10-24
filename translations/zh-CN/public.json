@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "医疗机构",
   "pages.globalAccess.types[2].description": "咨询外科医生、治疗师和医学专家等专科医疗服务提供者。",
   "pages.globalAccess.types[2].title": "专科医生",
+  "pages.legalNotice.notice": "中文法律文本为暂定版本，有待法律顾问审核。英文版本仍是合规的正式依据。",
+  "pages.legalNotice.readEnglish": "阅读英文版",
   "pages.news.allArticles": "全部文章",
   "pages.news.allCategory": "全部",
   "pages.news.articleMany": "{0} 篇文章",

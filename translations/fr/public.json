@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "Établissements de santé",
   "pages.globalAccess.types[2].description": "Consultez des professionnels spécialisés, notamment des chirurgiens, des thérapeutes et des experts médicaux.",
   "pages.globalAccess.types[2].title": "Spécialistes",
+  "pages.legalNotice.notice": "Le texte juridique français est provisoire en attendant la validation du conseil juridique. L’anglais reste la source de conformité.",
+  "pages.legalNotice.readEnglish": "Lire la version anglaise",
   "pages.news.allArticles": "Tous les articles",
   "pages.news.allCategory": "Tous",
   "pages.news.articleMany": "{0} articles",

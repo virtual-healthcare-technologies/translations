@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "Gesundheitseinrichtungen",
   "pages.globalAccess.types[2].description": "Lassen Sie sich von spezialisierten medizinischen Fachkräften beraten, darunter Chirurginnen und Chirurgen, Therapeutinnen und Therapeuten sowie weitere Expertinnen und Experten.",
   "pages.globalAccess.types[2].title": "Fachärztinnen und Fachärzte",
+  "pages.legalNotice.notice": "Der deutsche Rechtstext ist vorläufig und wird noch rechtlich geprüft. Maßgeblich für die Compliance bleibt die englische Fassung.",
+  "pages.legalNotice.readEnglish": "Englische Fassung lesen",
   "pages.news.allArticles": "Alle Artikel",
   "pages.news.allCategory": "Alle",
   "pages.news.articleMany": "{0} Artikel",

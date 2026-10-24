@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "医療機関",
   "pages.globalAccess.types[2].description": "外科医、セラピスト、医療の専門家など、専門の医療提供者に相談できます。",
   "pages.globalAccess.types[2].title": "専門医",
+  "pages.legalNotice.notice": "日本語の法的文書は、顧問弁護士による確認が済むまでの暫定版です。コンプライアンスの正本は英語です。",
+  "pages.legalNotice.readEnglish": "英語版を読む",
   "pages.news.allArticles": "すべての記事",
   "pages.news.allCategory": "すべて",
   "pages.news.articleMany": "{0}件の記事",

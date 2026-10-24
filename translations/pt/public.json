@@ -1649,6 +1649,8 @@
   "pages.globalAccess.types[1].title": "Instituições de saúde",
   "pages.globalAccess.types[2].description": "Consulte profissionais de saúde especializados, incluindo cirurgiões, terapeutas e outros especialistas médicos.",
   "pages.globalAccess.types[2].title": "Especialistas",
+  "pages.legalNotice.notice": "O texto jurídico em português é provisório até a revisão da assessoria jurídica. A versão em inglês continua sendo a referência oficial de conformidade.",
+  "pages.legalNotice.readEnglish": "Ler a versão em inglês",
   "pages.news.allArticles": "Todos os artigos",
   "pages.news.allCategory": "Todas",
   "pages.news.articleMany": "{0} artigos",
