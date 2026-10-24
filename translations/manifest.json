@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T06:42:16.392Z",
+  "generatedAt": "2026-10-24T09:30:02.695Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "bb236c1a49ae4e2936c2c13fd6d5cb5ddf95cbdd",
+  "sourceCommit": "ccd5305b788ed31f86ebc27cf9719999e6f8cb69",
   "languages": [
     "en",
     "fr",
@@ -55,6 +55,7 @@
     "member-r7-chips",
     "member-retest2-misc",
     "member-retest2-units",
+    "member-retest4-wizards",
     "member-security",
     "member-settings",
     "member-shell",
@@ -110,6 +111,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -119,7 +121,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     },
     "fr": {
       "public": 2548,
@@ -165,6 +167,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -174,7 +177,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     },
     "ja": {
       "public": 2548,
@@ -220,6 +223,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -229,7 +233,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     },
     "zh-CN": {
       "public": 2548,
@@ -275,6 +279,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -284,7 +289,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     },
     "es": {
       "public": 2548,
@@ -330,6 +335,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -339,7 +345,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     },
     "de": {
       "public": 2548,
@@ -385,6 +391,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -394,7 +401,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     },
     "pt": {
       "public": 2548,
@@ -440,6 +447,7 @@
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
+      "member-retest4-wizards": 2,
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
@@ -449,7 +457,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12580
+      "total": 12582
     }
   }
 }
