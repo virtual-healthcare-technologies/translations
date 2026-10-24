@@ -1,0 +1,16 @@
+{
+  "Forget this device": "Dieses Gerät vergessen",
+  "I already have an account · Sign in": "Ich habe bereits ein Konto · Anmelden",
+  "New to VHT?": "Neu bei VHT?",
+  "Not you? Use another account": "Nicht Sie? Anderes Konto verwenden",
+  "Other sign-in options": "Weitere Anmeldeoptionen",
+  "This device": "Dieses Gerät",
+  "This device no longer remembers your account.": "Dieses Gerät merkt sich Ihr Konto nicht mehr.",
+  "Use password instead": "Stattdessen Passwort verwenden",
+  "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHT merkt sich auf diesem Gerät Ihren Vornamen und wie Sie sich zuletzt angemeldet haben, damit die erneute Anmeldung mit einem Tippen gelingt. Ihr Passwort wird nie gespeichert.",
+  "Welcome back": "Willkommen zurück",
+  "Welcome back, {{name}}": "Willkommen zurück, {{name}}",
+  "You last signed in with Apple.": "Zuletzt angemeldet mit Apple.",
+  "You last signed in with Google.": "Zuletzt angemeldet mit Google.",
+  "You last signed in with email.": "Zuletzt angemeldet mit E-Mail."
+}

@@ -1,0 +1,16 @@
+{
+  "Forget this device": "忘记此设备",
+  "I already have an account · Sign in": "已有账户 · 登录",
+  "New to VHT?": "初次使用 VHT？",
+  "Not you? Use another account": "不是您？使用其他账户",
+  "Other sign-in options": "其他登录方式",
+  "This device": "此设备",
+  "This device no longer remembers your account.": "此设备已不再记住您的账户。",
+  "Use password instead": "改用密码",
+  "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHT 会在此设备上记住您的名字和上次的登录方式，让您一键重新登录。您的密码绝不会被保存。",
+  "Welcome back": "欢迎回来",
+  "Welcome back, {{name}}": "欢迎回来，{{name}}",
+  "You last signed in with Apple.": "您上次使用 Apple 登录。",
+  "You last signed in with Google.": "您上次使用 Google 登录。",
+  "You last signed in with email.": "您上次使用电子邮件登录。"
+}

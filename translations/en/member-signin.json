@@ -1,0 +1,16 @@
+{
+  "Forget this device": "Forget this device",
+  "I already have an account · Sign in": "I already have an account · Sign in",
+  "New to VHT?": "New to VHT?",
+  "Not you? Use another account": "Not you? Use another account",
+  "Other sign-in options": "Other sign-in options",
+  "This device": "This device",
+  "This device no longer remembers your account.": "This device no longer remembers your account.",
+  "Use password instead": "Use password instead",
+  "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.",
+  "Welcome back": "Welcome back",
+  "Welcome back, {{name}}": "Welcome back, {{name}}",
+  "You last signed in with Apple.": "You last signed in with Apple.",
+  "You last signed in with Google.": "You last signed in with Google.",
+  "You last signed in with email.": "You last signed in with email."
+}

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T09:53:27.021Z",
+  "generatedAt": "2026-10-24T10:19:50.207Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "f3662ad63ec7da65aa908340b821a9aac96eb5d4",
+  "sourceCommit": "f82315d73c216464cffb26d7b15a03bb413af852",
   "languages": [
     "en",
     "fr",
@@ -60,6 +60,7 @@
     "member-security",
     "member-settings",
     "member-shell",
+    "member-signin",
     "member-sweep",
     "occupation",
     "occupation-catalog",
@@ -69,7 +70,7 @@
   ],
   "counts": {
     "en": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -117,16 +118,17 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     },
     "fr": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -174,16 +176,17 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     },
     "ja": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -231,16 +234,17 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     },
     "zh-CN": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -288,16 +292,17 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     },
     "es": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -345,16 +350,17 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     },
     "de": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -402,16 +408,17 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     },
     "pt": {
-      "public": 2548,
+      "public": 2550,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -459,13 +466,14 @@
       "member-security": 17,
       "member-settings": 287,
       "member-shell": 134,
+      "member-signin": 14,
       "member-sweep": 55,
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12652
+      "total": 12668
     }
   }
 }

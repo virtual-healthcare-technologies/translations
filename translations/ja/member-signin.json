@@ -1,0 +1,16 @@
+{
+  "Forget this device": "このデバイスの記憶を消去",
+  "I already have an account · Sign in": "アカウントをお持ちの方 · サインイン",
+  "New to VHT?": "VHTは初めてですか？",
+  "Not you? Use another account": "ご本人ではありませんか？別のアカウントを使用",
+  "Other sign-in options": "その他のサインイン方法",
+  "This device": "このデバイス",
+  "This device no longer remembers your account.": "このデバイスはアカウントを記憶しなくなりました。",
+  "Use password instead": "パスワードを使用",
+  "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHTはこのデバイスにお名前（名）と前回のサインイン方法を記憶し、ワンタップで再びサインインできるようにします。パスワードが保存されることはありません。",
+  "Welcome back": "おかえりなさい",
+  "Welcome back, {{name}}": "おかえりなさい、{{name}}さん",
+  "You last signed in with Apple.": "前回はAppleでサインインしました。",
+  "You last signed in with Google.": "前回はGoogleでサインインしました。",
+  "You last signed in with email.": "前回はメールでサインインしました。"
+}
