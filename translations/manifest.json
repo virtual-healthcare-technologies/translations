@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T11:13:19.683Z",
+  "generatedAt": "2026-10-24T12:29:08.354Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "f3e20556d9e09f12c2c09ae450aea9b64ac6e53c",
+  "sourceCommit": "6156ef720ce8f61f69daf7535f6e18a6a0de8810",
   "languages": [
     "en",
     "fr",
@@ -35,6 +35,7 @@
     "member-digital-twin",
     "member-genetic",
     "member-health-sync",
+    "member-health-sync-access",
     "member-health-sync-live",
     "member-hub",
     "member-leftovers",
@@ -93,6 +94,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -125,7 +127,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     },
     "fr": {
       "public": 2552,
@@ -151,6 +153,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -183,7 +186,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     },
     "ja": {
       "public": 2552,
@@ -209,6 +212,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -241,7 +245,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     },
     "zh-CN": {
       "public": 2552,
@@ -267,6 +271,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -299,7 +304,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     },
     "es": {
       "public": 2552,
@@ -325,6 +330,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -357,7 +363,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     },
     "de": {
       "public": 2552,
@@ -383,6 +389,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -415,7 +422,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     },
     "pt": {
       "public": 2552,
@@ -441,6 +448,7 @@
       "member-digital-twin": 674,
       "member-genetic": 242,
       "member-health-sync": 323,
+      "member-health-sync-access": 33,
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
@@ -473,7 +481,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12672
+      "total": 12705
     }
   }
 }
