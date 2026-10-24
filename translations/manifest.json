@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-24T16:12:53.507Z",
+  "generatedAt": "2026-10-24T20:46:07.046Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "4e22c17478fbf2830effc734cbb790d6f60f9204",
+  "sourceCommit": "263626e4b5837ee45c3471f14a8f81aafd85553c",
   "languages": [
     "en",
     "fr",
@@ -47,6 +47,7 @@
     "member-notifications",
     "member-occupational",
     "member-preventive",
+    "member-pricing-v4",
     "member-profile-editor",
     "member-quick-log",
     "member-r0-missing",
@@ -73,7 +74,7 @@
   ],
   "counts": {
     "en": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -108,6 +109,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -131,10 +133,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     },
     "fr": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -169,6 +171,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -192,10 +195,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     },
     "ja": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -230,6 +233,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -253,10 +257,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     },
     "zh-CN": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -291,6 +295,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -314,10 +319,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     },
     "es": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -352,6 +357,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -375,10 +381,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     },
     "de": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -413,6 +419,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -436,10 +443,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     },
     "pt": {
-      "public": 2642,
+      "public": 2645,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -474,6 +481,7 @@
       "member-notifications": 33,
       "member-occupational": 238,
       "member-preventive": 331,
+      "member-pricing-v4": 16,
       "member-profile-editor": 412,
       "member-quick-log": 538,
       "member-r0-missing": 10,
@@ -497,7 +505,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 12830
+      "total": 12849
     }
   }
 }
