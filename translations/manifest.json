@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-23T21:55:51.839Z",
+  "generatedAt": "2026-10-24T03:58:52.301Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "f9f85350ad302126e90075b0d63632d23cefc83a",
+  "sourceCommit": "cb6ca1b356b05891a14a475092e2db503149477c",
   "languages": [
     "en",
     "fr",
@@ -66,7 +66,7 @@
   "counts": {
     "en": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -113,13 +113,13 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     },
     "fr": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -166,13 +166,13 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     },
     "ja": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -219,13 +219,13 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     },
     "zh-CN": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -272,13 +272,13 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     },
     "es": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -325,13 +325,13 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     },
     "de": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -378,13 +378,13 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     },
     "pt": {
       "public": 2548,
-      "address": 66,
+      "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
       "allergies": 66,
@@ -431,9 +431,9 @@
       "occupation": 139,
       "occupation-catalog": 299,
       "section-explanations": 167,
-      "states": 133,
+      "states": 180,
       "surgeries": 55,
-      "total": 12486
+      "total": 12534
     }
   }
 }
