@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T01:24:37.067Z",
+  "generatedAt": "2026-10-25T02:20:43.649Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "ac0b0acff1b7d2261ff8d0436889a0524727e001",
+  "sourceCommit": "f63fd6cd4753e79bc09841cc67299629e1923b54",
   "languages": [
     "en",
     "fr",
@@ -91,7 +91,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -141,7 +141,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     },
     "fr": {
       "public": 2656,
@@ -157,7 +157,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -207,7 +207,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     },
     "ja": {
       "public": 2656,
@@ -223,7 +223,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -273,7 +273,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     },
     "zh-CN": {
       "public": 2656,
@@ -289,7 +289,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -339,7 +339,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     },
     "es": {
       "public": 2656,
@@ -355,7 +355,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -405,7 +405,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     },
     "de": {
       "public": 2656,
@@ -421,7 +421,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -471,7 +471,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     },
     "pt": {
       "public": 2656,
@@ -487,7 +487,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 102,
-      "instant": 112,
+      "instant": 114,
       "lifestyle": 102,
       "medications": 203,
       "member-audit-logic": 16,
@@ -537,7 +537,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13117
+      "total": 13119
     }
   }
 }
