@@ -8,6 +8,8 @@
   "This device no longer remembers your account.": "このデバイスはアカウントを記憶しなくなりました。",
   "Use password instead": "パスワードを使用",
   "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHTはこのデバイスにお名前（名）と前回のサインイン方法を記憶し、ワンタップで再びサインインできるようにします。パスワードが保存されることはありません。",
+  "We can't reach VHT right now. Check your connection and try again.": "現在VHTに接続できません。接続を確認して、もう一度お試しください。",
+  "We couldn't open your account. Please sign in again.": "アカウントを開けませんでした。もう一度サインインしてください。",
   "Welcome back": "おかえりなさい",
   "Welcome back, {{name}}": "おかえりなさい、{{name}}さん",
   "You last signed in with Apple.": "前回はAppleでサインインしました。",

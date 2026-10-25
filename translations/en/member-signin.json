@@ -8,6 +8,8 @@
   "This device no longer remembers your account.": "This device no longer remembers your account.",
   "Use password instead": "Use password instead",
   "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.",
+  "We can't reach VHT right now. Check your connection and try again.": "We can't reach VHT right now. Check your connection and try again.",
+  "We couldn't open your account. Please sign in again.": "We couldn't open your account. Please sign in again.",
   "Welcome back": "Welcome back",
   "Welcome back, {{name}}": "Welcome back, {{name}}",
   "You last signed in with Apple.": "You last signed in with Apple.",

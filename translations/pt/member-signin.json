@@ -8,6 +8,8 @@
   "This device no longer remembers your account.": "Este dispositivo não lembra mais sua conta.",
   "Use password instead": "Usar senha",
   "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "O app VHT lembra seu primeiro nome e como você entrou da última vez neste dispositivo, para você voltar com um toque. Sua senha nunca é armazenada.",
+  "We can't reach VHT right now. Check your connection and try again.": "Não conseguimos acessar o VHT agora. Verifique sua conexão e tente novamente.",
+  "We couldn't open your account. Please sign in again.": "Não foi possível abrir sua conta. Entre novamente.",
   "Welcome back": "Olá de novo",
   "Welcome back, {{name}}": "Olá de novo, {{name}}",
   "You last signed in with Apple.": "Da última vez, você entrou com a Apple.",

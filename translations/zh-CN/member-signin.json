@@ -8,6 +8,8 @@
   "This device no longer remembers your account.": "此设备已不再记住您的账户。",
   "Use password instead": "改用密码",
   "VHT remembers your first name and how you last signed in on this device, so signing back in takes one tap. Your password is never stored.": "VHT 会在此设备上记住您的名字和上次的登录方式，让您一键重新登录。您的密码绝不会被保存。",
+  "We can't reach VHT right now. Check your connection and try again.": "目前无法连接到 VHT。请检查网络连接后重试。",
+  "We couldn't open your account. Please sign in again.": "无法打开您的账户。请重新登录。",
   "Welcome back": "欢迎回来",
   "Welcome back, {{name}}": "欢迎回来，{{name}}",
   "You last signed in with Apple.": "您上次使用 Apple 登录。",
