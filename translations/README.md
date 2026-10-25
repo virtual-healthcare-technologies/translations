@@ -1,6 +1,6 @@
 # VHT.ai UI strings (generated export)
 
-Generated 2026-10-25T02:20:43.649Z from `virtual-healthcare-technologies/vht-ai-production` @ `f63fd6cd4753`.
+Generated 2026-10-25T03:34:12.965Z from `virtual-healthcare-technologies/vht-ai-production` @ `204785ef92f3`.
 Do not edit these files in place: they are overwritten on every export.
 To propose a fix, open an issue or pull request in the public translations repo
 (see its top-level README).
