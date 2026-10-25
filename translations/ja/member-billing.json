@@ -1,7 +1,8 @@
 {
+  "15 ECHNA messages a day": "ECHNA メッセージ 1日15件",
+  "5 minutes of voice a day": "音声会話 1日5分",
   "Acknowledged": "確認済み",
   "All medical devices supported": "すべての医療機器に対応",
-  "Chat with ECHNA (limited)": "ECHNA とのチャット（制限あり）",
   "Could not generate PDF": "PDFを作成できませんでした",
   "DNA & genomic analysis": "DNA・ゲノム解析",
   "Digital Twin — future modeling & prediction": "Digital Twin — 将来のモデリングと予測",
@@ -18,7 +19,6 @@
   "Issued": "発行済み",
   "Issued {{date}}": "{{date}} 発行",
   "Lab analysis & trend interpretation": "検査結果の分析と推移の解釈",
-  "Limited voice conversations": "音声会話（制限あり）",
   "No dosing info": "用量の情報はありません",
   "No prescriptions have been issued to you yet.": "まだ処方は発行されていません。",
   "No referrals have been issued to you yet.": "まだ紹介状は発行されていません。",

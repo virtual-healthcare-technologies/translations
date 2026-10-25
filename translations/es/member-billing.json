@@ -1,7 +1,8 @@
 {
+  "15 ECHNA messages a day": "15 mensajes de ECHNA al día",
+  "5 minutes of voice a day": "5 minutos de voz al día",
   "Acknowledged": "Recibida",
   "All medical devices supported": "Compatible con todos los dispositivos médicos",
-  "Chat with ECHNA (limited)": "Chat con ECHNA (limitado)",
   "Could not generate PDF": "No se pudo generar el PDF",
   "DNA & genomic analysis": "Análisis de ADN y genómico",
   "Digital Twin — future modeling & prediction": "Digital Twin: modelado y predicción del futuro",
@@ -18,7 +19,6 @@
   "Issued": "Emitida",
   "Issued {{date}}": "Emitida el {{date}}",
   "Lab analysis & trend interpretation": "Análisis de laboratorio e interpretación de tendencias",
-  "Limited voice conversations": "Conversaciones de voz limitadas",
   "No dosing info": "Sin información de dosis",
   "No prescriptions have been issued to you yet.": "Todavía no se te ha emitido ninguna receta.",
   "No referrals have been issued to you yet.": "Todavía no se te ha emitido ninguna derivación.",

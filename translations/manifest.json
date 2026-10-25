@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-25T01:13:55.539Z",
+  "generatedAt": "2026-10-25T01:24:37.067Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "3dd8582b1595117ec5e70bd16d3974b3b8f90f83",
+  "sourceCommit": "ac0b0acff1b7d2261ff8d0436889a0524727e001",
   "languages": [
     "en",
     "fr",
@@ -46,6 +46,7 @@
     "member-messaging",
     "member-notifications",
     "member-occupational",
+    "member-paywall",
     "member-play-billing",
     "member-preventive",
     "member-pricing-v4",
@@ -77,7 +78,7 @@
   ],
   "counts": {
     "en": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -111,6 +112,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -139,10 +141,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     },
     "fr": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -176,6 +178,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -204,10 +207,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     },
     "ja": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -241,6 +244,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -269,10 +273,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     },
     "zh-CN": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -306,6 +310,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -334,10 +339,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     },
     "es": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -371,6 +376,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -399,10 +405,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     },
     "de": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -436,6 +442,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -464,10 +471,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     },
     "pt": {
-      "public": 2654,
+      "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -501,6 +508,7 @@
       "member-messaging": 323,
       "member-notifications": 33,
       "member-occupational": 238,
+      "member-paywall": 23,
       "member-play-billing": 51,
       "member-preventive": 331,
       "member-pricing-v4": 16,
@@ -529,7 +537,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13092
+      "total": 13117
     }
   }
 }

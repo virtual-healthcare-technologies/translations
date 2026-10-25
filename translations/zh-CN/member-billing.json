@@ -1,7 +1,8 @@
 {
+  "15 ECHNA messages a day": "每天 15 条 ECHNA 消息",
+  "5 minutes of voice a day": "每天 5 分钟语音",
   "Acknowledged": "已确认收到",
   "All medical devices supported": "支持所有医疗设备",
-  "Chat with ECHNA (limited)": "与 ECHNA 聊天（有限）",
   "Could not generate PDF": "无法生成 PDF",
   "DNA & genomic analysis": "DNA 与基因组分析",
   "Digital Twin — future modeling & prediction": "Digital Twin — 未来建模与预测",
@@ -18,7 +19,6 @@
   "Issued": "已签发",
   "Issued {{date}}": "签发于 {{date}}",
   "Lab analysis & trend interpretation": "化验分析与趋势解读",
-  "Limited voice conversations": "有限的语音对话",
   "No dosing info": "无剂量信息",
   "No prescriptions have been issued to you yet.": "目前还没有为您开具处方。",
   "No referrals have been issued to you yet.": "目前还没有为您开具转诊。",
