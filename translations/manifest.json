@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T08:50:31.068Z",
+  "generatedAt": "2026-10-26T08:59:45.369Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "167fa3e560b407218675f51f39671d63fbbd8307",
+  "sourceCommit": "a9fcacbae2bfef747b04305cbcdc4593da183bbd",
   "languages": [
     "en",
     "fr",
@@ -108,7 +108,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -143,7 +143,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     },
     "fr": {
       "public": 2656,
@@ -175,7 +175,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -210,7 +210,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     },
     "ja": {
       "public": 2656,
@@ -242,7 +242,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -277,7 +277,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     },
     "zh-CN": {
       "public": 2656,
@@ -309,7 +309,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -344,7 +344,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     },
     "es": {
       "public": 2656,
@@ -376,7 +376,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -411,7 +411,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     },
     "de": {
       "public": 2656,
@@ -443,7 +443,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -478,7 +478,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     },
     "pt": {
       "public": 2656,
@@ -510,7 +510,7 @@
       "member-health-sync-live": 70,
       "member-hub": 404,
       "member-leftovers": 6,
-      "member-lifestyle": 639,
+      "member-lifestyle": 649,
       "member-medical": 870,
       "member-messaging": 323,
       "member-notifications": 33,
@@ -545,7 +545,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13145
+      "total": 13155
     }
   }
 }
