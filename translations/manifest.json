@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-26T17:52:45.052Z",
+  "generatedAt": "2026-10-26T18:02:34.488Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "0c77d221fafb8d8847d3bc369b0a5d1535f6866a",
+  "sourceCommit": "e6d3aa0902096090232b899188e0a0b3973418b3",
   "languages": [
     "en",
     "fr",
@@ -83,7 +83,7 @@
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -102,7 +102,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -143,14 +143,14 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     },
     "fr": {
       "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -169,7 +169,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -210,14 +210,14 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     },
     "ja": {
       "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -236,7 +236,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -277,14 +277,14 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     },
     "zh-CN": {
       "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -303,7 +303,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -344,14 +344,14 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     },
     "es": {
       "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -370,7 +370,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -411,14 +411,14 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     },
     "de": {
       "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -437,7 +437,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -478,14 +478,14 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     },
     "pt": {
       "public": 2656,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
-      "allergies": 66,
+      "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
       "conditions": 223,
@@ -504,7 +504,7 @@
       "member-chat": 366,
       "member-common": 522,
       "member-digital-twin": 674,
-      "member-genetic": 242,
+      "member-genetic": 244,
       "member-health-sync": 323,
       "member-health-sync-access": 33,
       "member-health-sync-live": 70,
@@ -545,7 +545,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 13159
+      "total": 13162
     }
   }
 }
