@@ -1,7 +1,7 @@
 {
   "Close image": "Fermer l’image",
   "Could not save body metrics. Please try again.": "Impossible d’enregistrer vos mesures. Veuillez réessayer.",
-  "Enlarge: {{alt}}": "Agrandir : {{alt}}",
+  "Enlarge: {{alt}}": "Agrandir : {{alt}}",
   "Female height measurement diagram": "Schéma de mesure de la taille (femme)",
   "Female hip measurement": "Mesure du tour de hanches (femme)",
   "Female waist measurement": "Mesure du tour de taille (femme)",
@@ -17,8 +17,8 @@
   "Male hip measurement": "Mesure du tour de hanches (homme)",
   "Male waist measurement": "Mesure du tour de taille (homme)",
   "Neck circumference measurement tips": "Conseils pour mesurer le tour de cou",
-  "Risk thresholds: Men >102cm (40in), Women >88cm (35in)": "Seuils de risque : hommes >102 cm (40 po), femmes >88 cm (35 po)",
-  "Sleep apnea risk: Men ≥43cm (17in), Women ≥38cm (15in)": "Risque d’apnée du sommeil : hommes ≥43 cm (17 po), femmes ≥38 cm (15 po)",
+  "Risk thresholds: Men >102cm (40in), Women >88cm (35in)": "Seuils de risque : hommes >102 cm (40 po), femmes >88 cm (35 po)",
+  "Sleep apnea risk: Men ≥43cm (17in), Women ≥38cm (15in)": "Risque d’apnée du sommeil : hommes ≥43 cm (17 po), femmes ≥38 cm (15 po)",
   "Strong predictor of obstructive sleep apnea risk.": "Bon indicateur du risque d’apnée obstructive du sommeil.",
   "Tap to zoom": "Touchez pour agrandir",
   "Unit": "Unité",
@@ -38,7 +38,7 @@
   "• Measure at end of normal exhalation": "• Mesurez à la fin d’une expiration normale",
   "• Measure just below the Adam's apple": "• Mesurez juste sous la pomme d’Adam",
   "• Midpoint between lowest rib and iliac crest": "• À mi-chemin entre la dernière côte et la crête iliaque",
-  "• Place a flat book on your head and mark the wall; measure from floor to mark": "• Posez un livre à plat sur votre tête et marquez le mur ; mesurez du sol à la marque",
+  "• Place a flat book on your head and mark the wall; measure from floor to mark": "• Posez un livre à plat sur votre tête et marquez le mur ; mesurez du sol à la marque",
   "• Stand barefoot on a flat floor against a wall": "• Tenez-vous pieds nus sur un sol plat, dos au mur",
   "• Stand still with feet centred on the platform": "• Restez immobile, les pieds au centre du plateau",
   "• Stand upright, breathe normally": "• Tenez-vous droit(e), respirez normalement",
@@ -48,7 +48,7 @@
   "• Tape snug but comfortable at narrowest point": "• Ruban ajusté mais confortable, à l’endroit le plus étroit",
   "• Tape snug, not compressing skin": "• Ruban ajusté, sans comprimer la peau",
   "• Use a digital scale on a hard, flat floor": "• Utilisez une balance numérique sur un sol dur et plat",
-  "• Wear minimal clothing; no shoes": "• Portez un minimum de vêtements ; sans chaussures",
+  "• Wear minimal clothing; no shoes": "• Portez un minimum de vêtements ; sans chaussures",
   "• Weigh yourself first thing in the morning, after using the bathroom": "• Pesez-vous le matin au réveil, après être allé(e) aux toilettes",
   "• Widest part of buttocks/hips": "• À l’endroit le plus large des fesses/hanches"
 }

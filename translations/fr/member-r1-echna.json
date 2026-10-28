@@ -16,7 +16,7 @@
   "No new insights yet today. I'll surface anything noteworthy as your data updates.": "Pas encore de nouvelles informations aujourd’hui. Je vous signalerai tout élément notable à mesure que vos données se mettent à jour.",
   "Open Settings": "Ouvrir les Réglages",
   "Open iOS Settings → VHT → Microphone to enable.": "Ouvrez les Réglages iOS → VHT → Micro pour l’activer.",
-  "Profile completion: {{pct}}": "Profil complété : {{pct}}",
+  "Profile completion: {{pct}}": "Profil complété : {{pct}}",
   "Reached 60s limit": "Limite de 60 s atteinte",
   "Recording interrupted": "Enregistrement interrompu",
   "Recording not supported on this device": "Enregistrement non pris en charge sur cet appareil",
@@ -31,7 +31,7 @@
   "Transcribing now…": "Transcription en cours…",
   "Transcription failed": "Échec de la transcription",
   "User": "Utilisateur",
-  "You logged {{hours}} hours. Want to talk through what might help?": "Vous avez enregistré {{hours}} heures. Voulez-vous en parler pour voir ce qui pourrait vous aider ?",
+  "You logged {{hours}} hours. Want to talk through what might help?": "Vous avez enregistré {{hours}} heures. Voulez-vous en parler pour voir ce qui pourrait vous aider ?",
   "Your latest reading is {{latest}} bpm vs your 14-day average of {{avg}} bpm.": "Votre dernière mesure est de {{latest}} bpm, contre une moyenne sur 14 jours de {{avg}} bpm.",
   "{{steps}} steps — {{pct}} above your average.": "{{steps}} pas — {{pct}} au-dessus de votre moyenne."
 }
