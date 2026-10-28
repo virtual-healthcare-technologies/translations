@@ -59,6 +59,7 @@
   "Any relevant notes about this vaccination...": "この予防接種に関するメモ…",
   "Applicable": "対象",
   "Ask ECHNA about this": "ECHNAにこの件を質問",
+  "Ask ECHNA about this result": "この結果についてECHNAに質問",
   "Aspartate Aminotransferase": "AST（GOT）",
   "At least once (15-65)": "少なくとも1回（15〜65歳）",
   "At or above the level guidelines describe as very high ({{threshold}} mg/dL).": "ガイドラインで「非常に高い」とされる水準（{{threshold}} mg/dL）以上です。",
