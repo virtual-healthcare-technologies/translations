@@ -11,6 +11,7 @@
   "Add DNA Test": "添加 DNA 检测",
   "Add Family History": "添加家族史",
   "Add a target to track progress for this contributor.": "为此因素添加目标以追踪进度。",
+  "Add anyway": "仍然添加",
   "Add condition": "添加疾病",
   "Add occupation": "添加职业",
   "Add procedure": "添加手术或操作",
@@ -391,6 +392,7 @@
   "Test Date": "检测日期",
   "Test Information": "检测信息",
   "This action cannot be undone.": "此操作无法撤销。",
+  "This looks like a report already in your record": "这看起来是您记录中已有的报告",
   "This may take a moment": "这可能需要一点时间",
   "This month": "本月",
   "This week": "本周",
@@ -520,5 +522,6 @@
   "{{n}} year": "{{n}} 年",
   "{{n}} years": "{{n}} 年",
   "{{n}}% complete": "已完成 {{n}}%",
+  "{{panel}} from {{date}} has the same results.": "{{date}}的{{panel}}结果相同。",
   "{{role}} at {{employer}}": "{{employer}} {{role}}"
 }

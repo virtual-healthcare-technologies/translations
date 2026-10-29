@@ -11,6 +11,7 @@
   "Add DNA Test": "Add DNA Test",
   "Add Family History": "Add Family History",
   "Add a target to track progress for this contributor.": "Add a target to track progress for this contributor.",
+  "Add anyway": "Add anyway",
   "Add condition": "Add condition",
   "Add occupation": "Add occupation",
   "Add procedure": "Add procedure",
@@ -391,6 +392,7 @@
   "Test Date": "Test Date",
   "Test Information": "Test Information",
   "This action cannot be undone.": "This action cannot be undone.",
+  "This looks like a report already in your record": "This looks like a report already in your record",
   "This may take a moment": "This may take a moment",
   "This month": "This month",
   "This week": "This week",
@@ -520,5 +522,6 @@
   "{{n}} year": "{{n}} year",
   "{{n}} years": "{{n}} years",
   "{{n}}% complete": "{{n}}% complete",
+  "{{panel}} from {{date}} has the same results.": "{{panel}} from {{date}} has the same results.",
   "{{role}} at {{employer}}": "{{role}} at {{employer}}"
 }

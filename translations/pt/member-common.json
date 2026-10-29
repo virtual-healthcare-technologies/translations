@@ -11,6 +11,7 @@
   "Add DNA Test": "Adicionar teste de DNA",
   "Add Family History": "Adicionar histórico familiar",
   "Add a target to track progress for this contributor.": "Adicione uma meta para acompanhar o progresso deste fator.",
+  "Add anyway": "Adicionar mesmo assim",
   "Add condition": "Adicionar condição",
   "Add occupation": "Adicionar ocupação",
   "Add procedure": "Adicionar procedimento",
@@ -391,6 +392,7 @@
   "Test Date": "Data do teste",
   "Test Information": "Informações do teste",
   "This action cannot be undone.": "Esta ação não pode ser desfeita.",
+  "This looks like a report already in your record": "Parece um laudo que já está no seu histórico",
   "This may take a moment": "Isso pode levar um momento",
   "This month": "Este mês",
   "This week": "Esta semana",
@@ -520,5 +522,6 @@
   "{{n}} year": "{{n}} ano",
   "{{n}} years": "{{n}} anos",
   "{{n}}% complete": "{{n}}% concluído",
+  "{{panel}} from {{date}} has the same results.": "{{panel}} de {{date}} tem os mesmos resultados.",
   "{{role}} at {{employer}}": "{{role}} em {{employer}}"
 }

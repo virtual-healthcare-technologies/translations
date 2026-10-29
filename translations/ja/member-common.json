@@ -11,6 +11,7 @@
   "Add DNA Test": "DNA検査を追加",
   "Add Family History": "家族歴を追加",
   "Add a target to track progress for this contributor.": "この項目の進み具合を追うには目標を追加してください。",
+  "Add anyway": "それでも追加する",
   "Add condition": "疾患を追加",
   "Add occupation": "職業を追加",
   "Add procedure": "処置を追加",
@@ -391,6 +392,7 @@
   "Test Date": "検査日",
   "Test Information": "検査情報",
   "This action cannot be undone.": "この操作は元に戻せません。",
+  "This looks like a report already in your record": "これはすでに記録にある報告書のようです",
   "This may take a moment": "少し時間がかかる場合があります",
   "This month": "今月",
   "This week": "今週",
@@ -520,5 +522,6 @@
   "{{n}} year": "{{n}}年",
   "{{n}} years": "{{n}}年",
   "{{n}}% complete": "{{n}}% 完了",
+  "{{panel}} from {{date}} has the same results.": "{{date}}の{{panel}}は同じ結果です。",
   "{{role}} at {{employer}}": "{{employer}}の{{role}}"
 }
