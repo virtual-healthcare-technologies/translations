@@ -1,0 +1,22 @@
+{
+  "AI data sharing": "AI 数据共享",
+  "Agree and continue": "同意并继续",
+  "Cancel": "取消",
+  "Couldn’t save your choice. Please try again.": "未能保存您的选择，请重试。",
+  "ECHNA sends your messages and health context to AI providers": "ECHNA 会将您的消息和健康背景发送给 AI 服务商",
+  "ECHNA uses AI providers": "ECHNA 使用 AI 服务商",
+  "ECHNA’s AI is paused.": "ECHNA 的 AI 已暂停。",
+  "ECHNA’s chat, voice, suggestions and insights pause until you turn it back on.": "在您重新开启之前，ECHNA 的聊天、语音、建议和洞察将保持暂停。",
+  "How ECHNA’s AI features work": "ECHNA 的 AI 功能如何运作",
+  "Not now": "以后再说",
+  "Off": "关",
+  "On": "开",
+  "Our AI providers process it only to create ECHNA’s replies, under data-processing agreements. We never sell your data.": "我们的 AI 服务商仅在数据处理协议下处理这些信息，用于生成 ECHNA 的回复。我们绝不会出售您的数据。",
+  "Privacy policy": "隐私政策",
+  "This covers chat, voice, suggestions and health insights.": "这包括聊天、语音、建议和健康洞察。",
+  "To answer you, ECHNA sends your message and the health information it needs, such as your profile, conditions, medications and recent readings, to our AI providers.": "为了回答您，ECHNA 会将您的消息和所需健康信息（如您的档案、病症、用药和最近的读数）发送给我们的 AI 服务商。",
+  "Turn off": "关闭",
+  "Turn off AI data sharing?": "要关闭 AI 数据共享吗？",
+  "Turn on": "开启",
+  "You can turn this off any time in Settings → Legal & Privacy. ECHNA’s AI features pause until you turn it back on.": "您可以随时在“设置 → 法律与隐私”中关闭。在重新开启之前，ECHNA 的 AI 功能将保持暂停。"
+}

@@ -1,0 +1,22 @@
+{
+  "AI data sharing": "Partage des données avec l’IA",
+  "Agree and continue": "Accepter et continuer",
+  "Cancel": "Annuler",
+  "Couldn’t save your choice. Please try again.": "Votre choix n’a pas pu être enregistré. Veuillez réessayer.",
+  "ECHNA sends your messages and health context to AI providers": "ECHNA envoie vos messages et votre contexte de santé à des fournisseurs d’IA",
+  "ECHNA uses AI providers": "ECHNA utilise des fournisseurs d’IA",
+  "ECHNA’s AI is paused.": "L’IA d’ECHNA est en pause.",
+  "ECHNA’s chat, voice, suggestions and insights pause until you turn it back on.": "Le chat, la voix, les suggestions et les analyses d’ECHNA sont mis en pause jusqu’à ce que vous les réactiviez.",
+  "How ECHNA’s AI features work": "Fonctionnement des fonctions d’IA d’ECHNA",
+  "Not now": "Pas maintenant",
+  "Off": "Désactivé",
+  "On": "Activé",
+  "Our AI providers process it only to create ECHNA’s replies, under data-processing agreements. We never sell your data.": "Nos fournisseurs d’IA traitent ces données uniquement pour créer les réponses d’ECHNA, dans le cadre d’accords de traitement des données. Nous ne vendons jamais vos données.",
+  "Privacy policy": "Politique de confidentialité",
+  "This covers chat, voice, suggestions and health insights.": "Cela couvre le chat, la voix, les suggestions et les analyses de santé.",
+  "To answer you, ECHNA sends your message and the health information it needs, such as your profile, conditions, medications and recent readings, to our AI providers.": "Pour vous répondre, ECHNA envoie votre message et les informations de santé nécessaires — comme votre profil, vos pathologies, vos médicaments et vos dernières mesures — à nos fournisseurs d’IA.",
+  "Turn off": "Désactiver",
+  "Turn off AI data sharing?": "Désactiver le partage des données avec l’IA ?",
+  "Turn on": "Activer",
+  "You can turn this off any time in Settings → Legal & Privacy. ECHNA’s AI features pause until you turn it back on.": "Vous pouvez le désactiver à tout moment dans Réglages → Mentions légales et confidentialité. Les fonctions d’IA d’ECHNA sont mises en pause jusqu’à ce que vous les réactiviez."
+}

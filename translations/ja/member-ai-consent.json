@@ -1,0 +1,22 @@
+{
+  "AI data sharing": "AIとのデータ共有",
+  "Agree and continue": "同意して続ける",
+  "Cancel": "キャンセル",
+  "Couldn’t save your choice. Please try again.": "選択を保存できませんでした。もう一度お試しください。",
+  "ECHNA sends your messages and health context to AI providers": "ECHNAはあなたのメッセージと健康情報をAIプロバイダーに送信します",
+  "ECHNA uses AI providers": "ECHNAはAIプロバイダーを利用します",
+  "ECHNA’s AI is paused.": "ECHNAのAIは一時停止中です。",
+  "ECHNA’s chat, voice, suggestions and insights pause until you turn it back on.": "再びオンにするまで、ECHNAのチャット・音声・提案・インサイトは一時停止します。",
+  "How ECHNA’s AI features work": "ECHNAのAI機能のしくみ",
+  "Not now": "今はしない",
+  "Off": "オフ",
+  "On": "オン",
+  "Our AI providers process it only to create ECHNA’s replies, under data-processing agreements. We never sell your data.": "弊社のAIプロバイダーは、データ処理契約に基づき、ECHNAの返答を作成するためだけにこれらを処理します。お客様のデータを販売することは決してありません。",
+  "Privacy policy": "プライバシーポリシー",
+  "This covers chat, voice, suggestions and health insights.": "チャット、音声、提案、健康インサイトが対象です。",
+  "To answer you, ECHNA sends your message and the health information it needs, such as your profile, conditions, medications and recent readings, to our AI providers.": "回答するために、ECHNAはあなたのメッセージと、回答に必要な健康情報（プロフィール、病状、服用中の薬、最近の測定値など）を弊社のAIプロバイダーに送信します。",
+  "Turn off": "オフにする",
+  "Turn off AI data sharing?": "AIとのデータ共有をオフにしますか？",
+  "Turn on": "オンにする",
+  "You can turn this off any time in Settings → Legal & Privacy. ECHNA’s AI features pause until you turn it back on.": "「設定 → 法務とプライバシー」からいつでもオフにできます。再びオンにするまで、ECHNAのAI機能は一時停止します。"
+}

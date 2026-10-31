@@ -1,0 +1,22 @@
+{
+  "AI data sharing": "Compartilhamento de dados com IA",
+  "Agree and continue": "Concordar e continuar",
+  "Cancel": "Cancelar",
+  "Couldn’t save your choice. Please try again.": "Não foi possível salvar a sua escolha. Tente novamente.",
+  "ECHNA sends your messages and health context to AI providers": "A ECHNA envia as suas mensagens e o seu contexto de saúde para provedores de IA",
+  "ECHNA uses AI providers": "A ECHNA usa provedores de IA",
+  "ECHNA’s AI is paused.": "A IA da ECHNA está pausada.",
+  "ECHNA’s chat, voice, suggestions and insights pause until you turn it back on.": "O chat, a voz, as sugestões e os insights da ECHNA ficam pausados até você ativá-los novamente.",
+  "How ECHNA’s AI features work": "Como funcionam os recursos de IA da ECHNA",
+  "Not now": "Agora não",
+  "Off": "Desativado",
+  "On": "Ativado",
+  "Our AI providers process it only to create ECHNA’s replies, under data-processing agreements. We never sell your data.": "Os nossos provedores de IA processam esses dados apenas para criar as respostas da ECHNA, sob acordos de tratamento de dados. Nunca vendemos os seus dados.",
+  "Privacy policy": "Política de privacidade",
+  "This covers chat, voice, suggestions and health insights.": "Isso abrange o chat, a voz, as sugestões e os insights de saúde.",
+  "To answer you, ECHNA sends your message and the health information it needs, such as your profile, conditions, medications and recent readings, to our AI providers.": "Para responder, a ECHNA envia a sua mensagem e as informações de saúde necessárias — como seu perfil, condições, medicamentos e medições recentes — para os nossos provedores de IA.",
+  "Turn off": "Desativar",
+  "Turn off AI data sharing?": "Desativar o compartilhamento de dados com IA?",
+  "Turn on": "Ativar",
+  "You can turn this off any time in Settings → Legal & Privacy. ECHNA’s AI features pause until you turn it back on.": "Você pode desativar isso a qualquer momento em Ajustes → Jurídico e privacidade. Os recursos de IA da ECHNA ficam pausados até você ativá-los novamente."
+}

@@ -1,0 +1,22 @@
+{
+  "AI data sharing": "KI-Datenfreigabe",
+  "Agree and continue": "Zustimmen und fortfahren",
+  "Cancel": "Abbrechen",
+  "Couldn’t save your choice. Please try again.": "Ihre Auswahl ließ sich nicht speichern. Bitte versuchen Sie es erneut.",
+  "ECHNA sends your messages and health context to AI providers": "ECHNA sendet Ihre Nachrichten und Gesundheitsdaten an KI-Anbieter",
+  "ECHNA uses AI providers": "ECHNA nutzt KI-Anbieter",
+  "ECHNA’s AI is paused.": "ECHNAs KI ist pausiert.",
+  "ECHNA’s chat, voice, suggestions and insights pause until you turn it back on.": "ECHNAs Chat, Sprache, Vorschläge und Einblicke pausieren, bis Sie sie wieder aktivieren.",
+  "How ECHNA’s AI features work": "Wie ECHNAs KI-Funktionen funktionieren",
+  "Not now": "Jetzt nicht",
+  "Off": "Aus",
+  "On": "Ein",
+  "Our AI providers process it only to create ECHNA’s replies, under data-processing agreements. We never sell your data.": "Unsere KI-Anbieter verarbeiten die Daten nur, um ECHNAs Antworten zu erstellen — auf Grundlage von Datenverarbeitungsvereinbarungen. Wir verkaufen Ihre Daten niemals.",
+  "Privacy policy": "Datenschutzerklärung",
+  "This covers chat, voice, suggestions and health insights.": "Das gilt für Chat, Sprache, Vorschläge und Gesundheitseinblicke.",
+  "To answer you, ECHNA sends your message and the health information it needs, such as your profile, conditions, medications and recent readings, to our AI providers.": "Um Ihnen zu antworten, sendet ECHNA Ihre Nachricht und die dafür benötigten Gesundheitsinformationen — etwa Profil, Erkrankungen, Medikamente und aktuelle Werte — an unsere KI-Anbieter.",
+  "Turn off": "Deaktivieren",
+  "Turn off AI data sharing?": "KI-Datenfreigabe deaktivieren?",
+  "Turn on": "Aktivieren",
+  "You can turn this off any time in Settings → Legal & Privacy. ECHNA’s AI features pause until you turn it back on.": "Sie können dies jederzeit unter Einstellungen → Rechtliches und Datenschutz deaktivieren. ECHNAs KI-Funktionen pausieren, bis Sie es wieder aktivieren."
+}

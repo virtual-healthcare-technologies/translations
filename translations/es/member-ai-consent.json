@@ -1,0 +1,22 @@
+{
+  "AI data sharing": "Compartición de datos con IA",
+  "Agree and continue": "Aceptar y continuar",
+  "Cancel": "Cancelar",
+  "Couldn’t save your choice. Please try again.": "No se pudo guardar tu elección. Inténtalo de nuevo.",
+  "ECHNA sends your messages and health context to AI providers": "ECHNA envía tus mensajes y tu contexto de salud a proveedores de IA",
+  "ECHNA uses AI providers": "ECHNA usa proveedores de IA",
+  "ECHNA’s AI is paused.": "La IA de ECHNA está en pausa.",
+  "ECHNA’s chat, voice, suggestions and insights pause until you turn it back on.": "El chat, la voz, las sugerencias y los análisis de ECHNA se pausan hasta que vuelvas a activarlos.",
+  "How ECHNA’s AI features work": "Cómo funcionan las funciones de IA de ECHNA",
+  "Not now": "Ahora no",
+  "Off": "Desactivado",
+  "On": "Activado",
+  "Our AI providers process it only to create ECHNA’s replies, under data-processing agreements. We never sell your data.": "Nuestros proveedores de IA procesan esos datos únicamente para crear las respuestas de ECHNA, bajo acuerdos de tratamiento de datos. Nunca vendemos tus datos.",
+  "Privacy policy": "Política de privacidad",
+  "This covers chat, voice, suggestions and health insights.": "Esto abarca el chat, la voz, las sugerencias y los análisis de salud.",
+  "To answer you, ECHNA sends your message and the health information it needs, such as your profile, conditions, medications and recent readings, to our AI providers.": "Para responderte, ECHNA envía tu mensaje y la información de salud que necesita —como tu perfil, tus condiciones, tus medicamentos y tus últimas mediciones— a nuestros proveedores de IA.",
+  "Turn off": "Desactivar",
+  "Turn off AI data sharing?": "¿Desactivar la compartición de datos con IA?",
+  "Turn on": "Activar",
+  "You can turn this off any time in Settings → Legal & Privacy. ECHNA’s AI features pause until you turn it back on.": "Puedes desactivarlo en cualquier momento en Ajustes → Legal y privacidad. Las funciones de IA de ECHNA se pausan hasta que vuelvas a activarlas."
+}
