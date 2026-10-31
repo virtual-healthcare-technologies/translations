@@ -643,6 +643,8 @@
   "meals/day": "meals/day",
   "meals/month": "meals/month",
   "meals/week": "meals/week",
+  "mi/month": "mi/month",
+  "mi/week": "mi/week",
   "min/month": "min/month",
   "min/week": "min/week",
   "readings/day": "readings/day",
