@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-01T22:45:09.939Z",
+  "generatedAt": "2026-11-02T09:23:12.668Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "5d575016b45dd5717ae386b6bee408dfb89bd32e",
+  "sourceCommit": "8c644e4041ab39163393eddb8deb0f8cc56d70f7",
   "languages": [
     "en",
     "fr",
@@ -81,7 +81,7 @@
   ],
   "counts": {
     "en": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -147,10 +147,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     },
     "fr": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -216,10 +216,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     },
     "ja": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -285,10 +285,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     },
     "zh-CN": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -354,10 +354,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     },
     "es": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -423,10 +423,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     },
     "de": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -492,10 +492,10 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     },
     "pt": {
-      "public": 3800,
+      "public": 3803,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -561,7 +561,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14653
+      "total": 14656
     }
   }
 }
