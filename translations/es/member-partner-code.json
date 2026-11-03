@@ -1,0 +1,16 @@
+{
+  "A partner code is already linked to your account.": "Ya hay un código de socio vinculado a tu cuenta.",
+  "Apply code": "Aplicar código",
+  "Applying code…": "Aplicando código…",
+  "Code applied. Enjoy {{n}} days of Premium, no card needed.": "Código aplicado. Disfruta de {{n}} días de Premium, sin tarjeta.",
+  "Enter a partner code": "Escribe un código de socio",
+  "Got a partner code?": "¿Tienes un código de socio?",
+  "Have a partner code?": "¿Tienes un código de socio?",
+  "Partner code: {{code}}": "Código de socio: {{code}}",
+  "Partner codes are for members who have not started a paid plan yet.": "Los códigos de socio son para miembros que aún no han empezado un plan de pago.",
+  "Partner codes are for new members, within their first two weeks.": "Los códigos de socio son para miembros nuevos, en sus dos primeras semanas.",
+  "Premium pass: {{n}} days left. After that, Founding price.": "Pase Premium: quedan {{n}} días. Después, precio Founding.",
+  "Something went wrong applying your code. Please try again.": "Algo salió mal al aplicar el código. Inténtalo de nuevo.",
+  "That code doesn't look right. Check it and try again.": "Ese código no parece correcto. Compruébalo e inténtalo de nuevo.",
+  "This code is not available right now.": "Este código no está disponible ahora mismo."
+}
