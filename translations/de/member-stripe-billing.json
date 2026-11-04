@@ -4,6 +4,7 @@
   "Change plan, update your card, see invoices or cancel. Secure page by Stripe.": "Tarif wechseln, Karte aktualisieren, Rechnungen ansehen oder kündigen. Sichere Seite von Stripe.",
   "Checkout canceled. You were not charged.": "Zahlung abgebrochen. Ihnen wurde nichts berechnet.",
   "Continue to secure checkout": "Weiter zur sicheren Zahlung",
+  "Free for {{days}} days, then {{intro}} for the first year and {{price}} per year after that. Cancel before the trial ends in Membership settings and you won’t be charged.": "{{days}} Tage kostenlos, dann {{intro}} im ersten Jahr und danach {{price}} pro Jahr. Wenn Sie vor Ende des Testzeitraums in den Mitgliedschaftseinstellungen kündigen, wird nichts berechnet.",
   "Free for {{days}} days, then {{price}} per month. Cancel before the trial ends in Membership settings and you won’t be charged.": "{{days}} Tage kostenlos, danach {{price}} pro Monat. Wenn Sie vor Ende des Testzeitraums in den Mitgliedschaftseinstellungen kündigen, wird nichts berechnet.",
   "Free for {{days}} days, then {{price}} per year. Cancel before the trial ends in Membership settings and you won’t be charged.": "{{days}} Tage kostenlos, danach {{price}} pro Jahr. Wenn Sie vor Ende des Testzeitraums in den Mitgliedschaftseinstellungen kündigen, wird nichts berechnet.",
   "Manage billing": "Abrechnung verwalten",

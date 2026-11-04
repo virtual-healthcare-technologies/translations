@@ -4,6 +4,7 @@
   "Change plan, update your card, see invoices or cancel. Secure page by Stripe.": "更改方案、更新银行卡、查看发票或取消。由 Stripe 提供的安全页面。",
   "Checkout canceled. You were not charged.": "结账已取消。您未被扣费。",
   "Continue to secure checkout": "前往安全结账",
+  "Free for {{days}} days, then {{intro}} for the first year and {{price}} per year after that. Cancel before the trial ends in Membership settings and you won’t be charged.": "免费 {{days}} 天，之后第一年 {{intro}}，此后每年 {{price}}。在试用结束前于会员资格设置中取消，即不会扣费。",
   "Free for {{days}} days, then {{price}} per month. Cancel before the trial ends in Membership settings and you won’t be charged.": "免费 {{days}} 天，之后每月 {{price}}。在试用结束前于会员资格设置中取消，即不会扣费。",
   "Free for {{days}} days, then {{price}} per year. Cancel before the trial ends in Membership settings and you won’t be charged.": "免费 {{days}} 天，之后每年 {{price}}。在试用结束前于会员资格设置中取消，即不会扣费。",
   "Manage billing": "管理账单",

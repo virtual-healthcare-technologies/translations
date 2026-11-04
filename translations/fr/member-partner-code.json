@@ -12,7 +12,7 @@
   "Partner code: {{code}}": "Code partenaire : {{code}}",
   "Partner codes are for members who have not started a paid plan yet.": "Les codes partenaires sont réservés aux membres n’ayant pas encore souscrit d’abonnement payant.",
   "Partner codes are for new members, within their first two weeks.": "Les codes partenaires sont réservés aux nouveaux membres, dans leurs deux premières semaines.",
-  "Premium pass: {{n}} days left. After that, Founding price.": "Pass Premium : plus que {{n}} jours. Ensuite, le tarif Founding s’applique.",
+  "Premium pass: {{n}} days left. After that, choose a plan; current offers apply.": "Pass Premium : plus que {{n}} jours. Ensuite, choisissez une formule ; les offres en cours s’appliquent.",
   "Something went wrong applying your code. Please try again.": "Une erreur est survenue lors de l’application du code. Veuillez réessayer.",
   "That code doesn't look right. Check it and try again.": "Ce code ne semble pas correct. Vérifiez-le et réessayez.",
   "This code has reached its limit.": "Ce code a atteint sa limite d’utilisation.",

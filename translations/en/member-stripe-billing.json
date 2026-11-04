@@ -4,6 +4,7 @@
   "Change plan, update your card, see invoices or cancel. Secure page by Stripe.": "Change plan, update your card, see invoices or cancel. Secure page by Stripe.",
   "Checkout canceled. You were not charged.": "Checkout canceled. You were not charged.",
   "Continue to secure checkout": "Continue to secure checkout",
+  "Free for {{days}} days, then {{intro}} for the first year and {{price}} per year after that. Cancel before the trial ends in Membership settings and you won’t be charged.": "Free for {{days}} days, then {{intro}} for the first year and {{price}} per year after that. Cancel before the trial ends in Membership settings and you won’t be charged.",
   "Free for {{days}} days, then {{price}} per month. Cancel before the trial ends in Membership settings and you won’t be charged.": "Free for {{days}} days, then {{price}} per month. Cancel before the trial ends in Membership settings and you won’t be charged.",
   "Free for {{days}} days, then {{price}} per year. Cancel before the trial ends in Membership settings and you won’t be charged.": "Free for {{days}} days, then {{price}} per year. Cancel before the trial ends in Membership settings and you won’t be charged.",
   "Manage billing": "Manage billing",

@@ -4,6 +4,7 @@
   "Change plan, update your card, see invoices or cancel. Secure page by Stripe.": "プランの変更、カードの更新、請求書の確認、解約ができます。Stripeによる安全なページです。",
   "Checkout canceled. You were not charged.": "決済はキャンセルされました。料金は発生していません。",
   "Continue to secure checkout": "安全な決済へ進む",
+  "Free for {{days}} days, then {{intro}} for the first year and {{price}} per year after that. Cancel before the trial ends in Membership settings and you won’t be charged.": "{{days}}日間無料、その後1年目は{{intro}}、2年目以降は年額{{price}}です。トライアル終了前に会員種別の設定で解約すれば、料金はかかりません。",
   "Free for {{days}} days, then {{price}} per month. Cancel before the trial ends in Membership settings and you won’t be charged.": "{{days}}日間無料、その後は月額{{price}}です。トライアル終了前に会員種別の設定で解約すれば、料金はかかりません。",
   "Free for {{days}} days, then {{price}} per year. Cancel before the trial ends in Membership settings and you won’t be charged.": "{{days}}日間無料、その後は年額{{price}}です。トライアル終了前に会員種別の設定で解約すれば、料金はかかりません。",
   "Manage billing": "お支払いの管理",

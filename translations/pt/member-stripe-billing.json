@@ -4,6 +4,7 @@
   "Change plan, update your card, see invoices or cancel. Secure page by Stripe.": "Mude de plano, atualize seu cartão, veja faturas ou cancele. Página segura da Stripe.",
   "Checkout canceled. You were not charged.": "Pagamento cancelado. Você não foi cobrado.",
   "Continue to secure checkout": "Continuar para o pagamento seguro",
+  "Free for {{days}} days, then {{intro}} for the first year and {{price}} per year after that. Cancel before the trial ends in Membership settings and you won’t be charged.": "Grátis por {{days}} dias, depois {{intro}} no primeiro ano e {{price}} por ano em seguida. Cancele nos Ajustes da assinatura antes do fim do teste e você não será cobrado.",
   "Free for {{days}} days, then {{price}} per month. Cancel before the trial ends in Membership settings and you won’t be charged.": "Grátis por {{days}} dias, depois {{price}} por mês. Cancele nos Ajustes da assinatura antes do fim do teste e você não será cobrado.",
   "Free for {{days}} days, then {{price}} per year. Cancel before the trial ends in Membership settings and you won’t be charged.": "Grátis por {{days}} dias, depois {{price}} por ano. Cancele nos Ajustes da assinatura antes do fim do teste e você não será cobrado.",
   "Manage billing": "Gerenciar cobrança",
