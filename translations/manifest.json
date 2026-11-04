@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T12:59:50.303Z",
+  "generatedAt": "2026-11-04T22:27:02.420Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "651d8fbb5f280edd7019c34dc6251aa03747e589",
+  "sourceCommit": "523511db6a8a31c4409f9b8dfca5e73801ffe1d6",
   "languages": [
     "en",
     "fr",
@@ -123,7 +123,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -151,7 +151,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     },
     "fr": {
       "public": 3929,
@@ -194,7 +194,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -222,7 +222,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     },
     "ja": {
       "public": 3929,
@@ -265,7 +265,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -293,7 +293,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     },
     "zh-CN": {
       "public": 3929,
@@ -336,7 +336,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -364,7 +364,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     },
     "es": {
       "public": 3929,
@@ -407,7 +407,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -435,7 +435,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     },
     "de": {
       "public": 3929,
@@ -478,7 +478,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -506,7 +506,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     },
     "pt": {
       "public": 3929,
@@ -549,7 +549,7 @@
       "member-partner-code": 18,
       "member-paywall": 23,
       "member-play-billing": 51,
-      "member-preventive": 465,
+      "member-preventive": 475,
       "member-pricing-v4": 17,
       "member-profile-editor": 412,
       "member-quick-log": 574,
@@ -577,7 +577,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14852
+      "total": 14862
     }
   }
 }
