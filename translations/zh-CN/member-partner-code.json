@@ -3,6 +3,9 @@
   "Apply code": "应用代码",
   "Applying code…": "正在应用代码…",
   "Code applied. Enjoy {{n}} days of Premium, no card needed.": "代码已应用。无需银行卡，畅享 {{n}} 天 Premium。",
+  "Code linked. Beta members already have their own offer, so no pass was added.": "代码已关联。Beta 会员已享有专属优惠，因此未添加通行证。",
+  "Code linked. Partner passes are one per person, so no pass was added.": "代码已关联。合作伙伴通行证每人限一次，因此未添加通行证。",
+  "Code linked. You already have a membership, so no pass was added.": "代码已关联。您已有会员资格，因此未添加通行证。",
   "Enter a partner code": "输入合作伙伴代码",
   "Got a partner code?": "有合作伙伴代码吗？",
   "Have a partner code?": "有合作伙伴代码吗？",
@@ -12,5 +15,6 @@
   "Premium pass: {{n}} days left. After that, Founding price.": "Premium 通行证：剩 {{n}} 天。之后按 Founding 价格计算。",
   "Something went wrong applying your code. Please try again.": "应用代码时出现问题。请重试。",
   "That code doesn't look right. Check it and try again.": "该代码似乎不正确。请核对后重试。",
+  "This code has reached its limit.": "此代码已达到使用上限。",
   "This code is not available right now.": "该代码目前不可用。"
 }

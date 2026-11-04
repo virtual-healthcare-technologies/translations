@@ -3,6 +3,9 @@
   "Apply code": "Aplicar código",
   "Applying code…": "Aplicando código…",
   "Code applied. Enjoy {{n}} days of Premium, no card needed.": "Código aplicado. Disfruta de {{n}} días de Premium, sin tarjeta.",
+  "Code linked. Beta members already have their own offer, so no pass was added.": "Código vinculado. Los miembros beta ya tienen su propia oferta, así que no se añadió ningún pase.",
+  "Code linked. Partner passes are one per person, so no pass was added.": "Código vinculado. Los pases de socio son uno por persona, así que no se añadió ningún pase.",
+  "Code linked. You already have a membership, so no pass was added.": "Código vinculado. Ya tienes una membresía, así que no se añadió ningún pase.",
   "Enter a partner code": "Escribe un código de socio",
   "Got a partner code?": "¿Tienes un código de socio?",
   "Have a partner code?": "¿Tienes un código de socio?",
@@ -12,5 +15,6 @@
   "Premium pass: {{n}} days left. After that, Founding price.": "Pase Premium: quedan {{n}} días. Después, precio Founding.",
   "Something went wrong applying your code. Please try again.": "Algo salió mal al aplicar el código. Inténtalo de nuevo.",
   "That code doesn't look right. Check it and try again.": "Ese código no parece correcto. Compruébalo e inténtalo de nuevo.",
+  "This code has reached its limit.": "Este código ha alcanzado su límite.",
   "This code is not available right now.": "Este código no está disponible ahora mismo."
 }
