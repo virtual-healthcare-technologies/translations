@@ -177,6 +177,7 @@
   "This will permanently remove this medical condition from your records. This action cannot be undone.": "此疾病将从您的记录中永久移除，且无法撤销。",
   "Tip: Consider scheduling an appointment for a formal diagnosis.": "提示：建议预约就诊以获得正式诊断。",
   "Tip: Self-diagnosis can be inaccurate. A clinician can help confirm.": "提示：自我诊断可能不准确，医护人员可以帮助确认。",
+  "Translated names: {{source}}, updated {{date}}": "译名来源：{{source}}（更新于 {{date}}）",
   "Typically an acute condition": "通常为急性疾病",
   "UMLS + ICD-10-CM medical terminology": "UMLS + ICD-10-CM 医学术语",
   "UMLS API unavailable - using ICD-10-CM fallback": "UMLS API 不可用——改用 ICD-10-CM",

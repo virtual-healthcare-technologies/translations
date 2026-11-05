@@ -177,6 +177,7 @@
   "This will permanently remove this medical condition from your records. This action cannot be undone.": "This will permanently remove this medical condition from your records. This action cannot be undone.",
   "Tip: Consider scheduling an appointment for a formal diagnosis.": "Tip: Consider scheduling an appointment for a formal diagnosis.",
   "Tip: Self-diagnosis can be inaccurate. A clinician can help confirm.": "Tip: Self-diagnosis can be inaccurate. A clinician can help confirm.",
+  "Translated names: {{source}}, updated {{date}}": "Translated names: {{source}}, updated {{date}}",
   "Typically an acute condition": "Typically an acute condition",
   "UMLS + ICD-10-CM medical terminology": "UMLS + ICD-10-CM medical terminology",
   "UMLS API unavailable - using ICD-10-CM fallback": "UMLS API unavailable - using ICD-10-CM fallback",

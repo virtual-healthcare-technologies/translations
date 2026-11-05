@@ -177,6 +177,7 @@
   "This will permanently remove this medical condition from your records. This action cannot be undone.": "Diese Erkrankung wird dauerhaft aus Ihren Unterlagen entfernt. Dies kann nicht rückgängig gemacht werden.",
   "Tip: Consider scheduling an appointment for a formal diagnosis.": "Tipp: Vereinbaren Sie gegebenenfalls einen Termin für eine offizielle Diagnose.",
   "Tip: Self-diagnosis can be inaccurate. A clinician can help confirm.": "Tipp: Selbstdiagnosen können ungenau sein. Eine medizinische Fachkraft kann helfen, sie zu bestätigen.",
+  "Translated names: {{source}}, updated {{date}}": "Übersetzte Bezeichnungen: {{source}}, Stand {{date}}",
   "Typically an acute condition": "In der Regel eine akute Erkrankung",
   "UMLS + ICD-10-CM medical terminology": "Medizinische Terminologie UMLS + ICD-10-CM",
   "UMLS API unavailable - using ICD-10-CM fallback": "UMLS-API nicht verfügbar – ICD-10-CM wird verwendet",

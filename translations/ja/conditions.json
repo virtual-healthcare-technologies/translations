@@ -177,6 +177,7 @@
   "This will permanently remove this medical condition from your records. This action cannot be undone.": "この疾患は記録から完全に削除されます。この操作は元に戻せません。",
   "Tip: Consider scheduling an appointment for a formal diagnosis.": "ヒント：正式な診断のため、受診の予約をご検討ください。",
   "Tip: Self-diagnosis can be inaccurate. A clinician can help confirm.": "ヒント：自己診断は不正確なことがあります。医療従事者に確認してもらうと安心です。",
+  "Translated names: {{source}}, updated {{date}}": "翻訳名：{{source}}（更新日 {{date}}）",
   "Typically an acute condition": "通常は急性の疾患です",
   "UMLS + ICD-10-CM medical terminology": "UMLS + ICD-10-CM 医学用語",
   "UMLS API unavailable - using ICD-10-CM fallback": "UMLS APIを利用できません — ICD-10-CMで代替しています",

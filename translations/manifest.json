@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-04T22:27:02.420Z",
+  "generatedAt": "2026-11-05T08:05:47.811Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "523511db6a8a31c4409f9b8dfca5e73801ffe1d6",
+  "sourceCommit": "d13579f0effaa5bb7e01a6728dd465b776e0513e",
   "languages": [
     "en",
     "fr",
@@ -90,7 +90,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -151,7 +151,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     },
     "fr": {
       "public": 3929,
@@ -161,7 +161,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -222,7 +222,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     },
     "ja": {
       "public": 3929,
@@ -232,7 +232,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -293,7 +293,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     },
     "zh-CN": {
       "public": 3929,
@@ -303,7 +303,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -364,7 +364,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     },
     "es": {
       "public": 3929,
@@ -374,7 +374,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -435,7 +435,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     },
     "de": {
       "public": 3929,
@@ -445,7 +445,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -506,7 +506,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     },
     "pt": {
       "public": 3929,
@@ -516,7 +516,7 @@
       "allergies": 67,
       "auth-beta-agreement": 19,
       "body": 52,
-      "conditions": 223,
+      "conditions": 224,
       "coverage": 57,
       "describe-help": 73,
       "dosage": 139,
@@ -577,7 +577,7 @@
       "section-explanations": 167,
       "states": 180,
       "surgeries": 55,
-      "total": 14862
+      "total": 14863
     }
   }
 }

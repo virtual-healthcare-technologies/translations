@@ -177,6 +177,7 @@
   "This will permanently remove this medical condition from your records. This action cannot be undone.": "Esta condição será removida permanentemente dos seus registros. Esta ação não pode ser desfeita.",
   "Tip: Consider scheduling an appointment for a formal diagnosis.": "Dica: considere agendar uma consulta para um diagnóstico formal.",
   "Tip: Self-diagnosis can be inaccurate. A clinician can help confirm.": "Dica: o autodiagnóstico pode ser impreciso. Um profissional de saúde pode ajudar a confirmar.",
+  "Translated names: {{source}}, updated {{date}}": "Nomes traduzidos: {{source}}, atualizado em {{date}}",
   "Typically an acute condition": "Geralmente uma condição aguda",
   "UMLS + ICD-10-CM medical terminology": "Terminologia médica UMLS + ICD-10-CM",
   "UMLS API unavailable - using ICD-10-CM fallback": "API do UMLS indisponível — usando ICD-10-CM",

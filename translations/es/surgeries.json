@@ -45,7 +45,7 @@
   "Surgical procedure #{{n}} completed": "Procedimiento quirúrgico n.º {{n}} completado",
   "Surgical procedure removed": "Procedimiento quirúrgico eliminado",
   "This will permanently remove this surgical procedure from your records. This action cannot be undone.": "Este procedimiento quirúrgico se eliminará de forma permanente de tus registros. Esta acción no se puede deshacer.",
-  "Try plain words like \"breast implant\", \"gallbladder removal\", \"knee replacement\", \"wisdom teeth\"": "Prueba con palabras sencillas en inglés, como \"breast implant\", \"gallbladder removal\", \"knee replacement\", \"wisdom teeth\"",
+  "Try plain words like \"breast implant\", \"gallbladder removal\", \"knee replacement\", \"wisdom teeth\"": "Prueba con palabras sencillas, como \"implantes mamarios\", \"quitar la vesícula\", \"prótesis de rodilla\", \"muelas del juicio\"",
   "Unnamed Procedure": "Procedimiento sin nombre",
   "You can edit this procedure later by clicking on it": "Puedes editar este procedimiento más tarde haciendo clic en él",
   "Your MRN is a unique identifier assigned by the surgical facility. It can be found on discharge papers, your patient portal, or billing statements.": "Tu MRN es un identificador único asignado por el centro donde te operaron. Puedes encontrarlo en los documentos del alta, tu portal de paciente o tus facturas.",
