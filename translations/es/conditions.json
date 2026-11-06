@@ -93,6 +93,7 @@
   "Manually entered condition": "Afección introducida manualmente",
   "Medical Record Number (MRN)": "Número de historia clínica (MRN)",
   "Medical condition removed": "Afección eliminada",
+  "Medical condition with ICD-10 code: {{code}}": "Afección médica con código ICD-10: {{code}}",
   "Medication name is required": "El nombre del medicamento es obligatorio",
   "Misdiagnosis - never had condition": "Diagnóstico erróneo: nunca tuve la afección",
   "Most syndromes/diseases are chronic conditions": "La mayoría de los síndromes/enfermedades son afecciones crónicas",

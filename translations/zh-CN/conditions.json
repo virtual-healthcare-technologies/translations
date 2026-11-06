@@ -93,6 +93,7 @@
   "Manually entered condition": "手动输入的疾病",
   "Medical Record Number (MRN)": "病历号（MRN）",
   "Medical condition removed": "已移除疾病",
+  "Medical condition with ICD-10 code: {{code}}": "ICD-10 编码为 {{code}} 的疾病",
   "Medication name is required": "请填写药物名称",
   "Misdiagnosis - never had condition": "误诊——实际上从未患此病",
   "Most syndromes/diseases are chronic conditions": "大多数综合征/疾病属于慢性疾病",

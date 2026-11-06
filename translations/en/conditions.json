@@ -93,6 +93,7 @@
   "Manually entered condition": "Manually entered condition",
   "Medical Record Number (MRN)": "Medical Record Number (MRN)",
   "Medical condition removed": "Medical condition removed",
+  "Medical condition with ICD-10 code: {{code}}": "Medical condition with ICD-10 code: {{code}}",
   "Medication name is required": "Medication name is required",
   "Misdiagnosis - never had condition": "Misdiagnosis - never had condition",
   "Most syndromes/diseases are chronic conditions": "Most syndromes/diseases are chronic conditions",

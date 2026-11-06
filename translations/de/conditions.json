@@ -93,6 +93,7 @@
   "Manually entered condition": "Manuell eingegebene Erkrankung",
   "Medical Record Number (MRN)": "Patientennummer (MRN)",
   "Medical condition removed": "Erkrankung entfernt",
+  "Medical condition with ICD-10 code: {{code}}": "Erkrankung mit ICD-10-Code: {{code}}",
   "Medication name is required": "Name des Medikaments ist erforderlich",
   "Misdiagnosis - never had condition": "Fehldiagnose – Erkrankung bestand nie",
   "Most syndromes/diseases are chronic conditions": "Die meisten Syndrome/Krankheiten sind chronisch",

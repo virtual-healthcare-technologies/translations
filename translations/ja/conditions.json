@@ -93,6 +93,7 @@
   "Manually entered condition": "手入力した疾患",
   "Medical Record Number (MRN)": "カルテ番号（MRN）",
   "Medical condition removed": "疾患を削除しました",
+  "Medical condition with ICD-10 code: {{code}}": "ICD-10コード {{code}} の疾患",
   "Medication name is required": "薬の名前は必須です",
   "Misdiagnosis - never had condition": "誤診 — 実際にはこの疾患ではなかった",
   "Most syndromes/diseases are chronic conditions": "多くの症候群・疾患は慢性疾患です",
