@@ -59,6 +59,7 @@
   "Among U.S. adults ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Unter Erwachsenen von {{band}} Jahren in den USA liegt das etwa beim {{ordinal}} Perzentil (Median der Altersgruppe ~{{median}}).",
   "Among U.S. men ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Unter Männern von {{band}} Jahren in den USA liegt das etwa beim {{ordinal}} Perzentil (Median der Altersgruppe ~{{median}}).",
   "Among U.S. women ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Unter Frauen von {{band}} Jahren in den USA liegt das etwa beim {{ordinal}} Perzentil (Median der Altersgruppe ~{{median}}).",
+  "Answered {{date}}": "Beantwortet am {{date}}",
   "Any additional notes…": "Weitere Notizen…",
   "Apple Health fertility-category events": "Fruchtbarkeitsereignisse aus Apple Health",
   "Apple Health “pregnancy” category labels only—not a standalone diagnosis here.": "Nur Bezeichnungen der Apple-Health-Kategorie „Schwangerschaft“ – hier keine eigenständige Diagnose.",

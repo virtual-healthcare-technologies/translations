@@ -59,6 +59,7 @@
   "Among U.S. adults ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "米国の{{band}}歳の成人では、約{{ordinal}}パーセンタイルにあたります（同年代の中央値 約{{median}}）。",
   "Among U.S. men ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "米国の{{band}}歳の男性では、約{{ordinal}}パーセンタイルにあたります（同年代の中央値 約{{median}}）。",
   "Among U.S. women ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "米国の{{band}}歳の女性では、約{{ordinal}}パーセンタイルにあたります（同年代の中央値 約{{median}}）。",
+  "Answered {{date}}": "{{date}}に回答",
   "Any additional notes…": "その他のメモ…",
   "Apple Health fertility-category events": "Apple Healthの妊娠しやすさに関するイベント",
   "Apple Health “pregnancy” category labels only—not a standalone diagnosis here.": "Apple Healthの「妊娠」カテゴリの表示のみで、ここでの単独の診断ではありません。",

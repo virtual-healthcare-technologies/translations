@@ -59,6 +59,7 @@
   "Among U.S. adults ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Among U.S. adults ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).",
   "Among U.S. men ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Among U.S. men ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).",
   "Among U.S. women ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Among U.S. women ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).",
+  "Answered {{date}}": "Answered {{date}}",
   "Any additional notes…": "Any additional notes…",
   "Apple Health fertility-category events": "Apple Health fertility-category events",
   "Apple Health “pregnancy” category labels only—not a standalone diagnosis here.": "Apple Health “pregnancy” category labels only—not a standalone diagnosis here.",

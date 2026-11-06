@@ -59,6 +59,7 @@
   "Among U.S. adults ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "在美国 {{band}} 岁成人中，约处于第 {{ordinal}} 百分位（同年龄组中位数约 {{median}}）。",
   "Among U.S. men ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "在美国 {{band}} 岁男性中，约处于第 {{ordinal}} 百分位（同年龄组中位数约 {{median}}）。",
   "Among U.S. women ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "在美国 {{band}} 岁女性中，约处于第 {{ordinal}} 百分位（同年龄组中位数约 {{median}}）。",
+  "Answered {{date}}": "{{date}} 回答",
   "Any additional notes…": "其他备注…",
   "Apple Health fertility-category events": "Apple Health 生育类别事件",
   "Apple Health “pregnancy” category labels only—not a standalone diagnosis here.": "仅为 Apple Health 中的“妊娠”类别标签——此处不构成独立诊断。",

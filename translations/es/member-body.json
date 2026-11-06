@@ -59,6 +59,7 @@
   "Among U.S. adults ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Entre adultos de {{band}} años en EE. UU., eso está aproximadamente en el percentil {{ordinal}} (mediana del grupo de edad ~{{median}}).",
   "Among U.S. men ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Entre hombres de {{band}} años en EE. UU., eso está aproximadamente en el percentil {{ordinal}} (mediana del grupo de edad ~{{median}}).",
   "Among U.S. women ages {{band}}, that sits roughly near the {{ordinal}} percentile (age-group median ~{{median}}).": "Entre mujeres de {{band}} años en EE. UU., eso está aproximadamente en el percentil {{ordinal}} (mediana del grupo de edad ~{{median}}).",
+  "Answered {{date}}": "Respondido el {{date}}",
   "Any additional notes…": "Otras notas…",
   "Apple Health fertility-category events": "Eventos de fertilidad de Apple Health",
   "Apple Health “pregnancy” category labels only—not a standalone diagnosis here.": "Solo etiquetas de la categoría «embarazo» de Apple Health: no son un diagnóstico por sí solas.",
