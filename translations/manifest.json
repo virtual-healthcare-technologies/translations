@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-06T07:53:32.782Z",
+  "generatedAt": "2026-11-06T19:12:00.482Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "f97e16e6cf3cee87c42034c8901ad61385ea125d",
+  "sourceCommit": "1b2af0463d9de10d469f92a0a0d6b64f1bc43db2",
   "languages": [
     "en",
     "fr",
@@ -79,6 +79,7 @@
     "occupation-catalog",
     "section-explanations",
     "states",
+    "supplement-ingredients",
     "surgeries"
   ],
   "counts": {
@@ -150,8 +151,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     },
     "fr": {
       "public": 3929,
@@ -221,8 +223,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     },
     "ja": {
       "public": 3929,
@@ -292,8 +295,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     },
     "zh-CN": {
       "public": 3929,
@@ -363,8 +367,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     },
     "es": {
       "public": 3929,
@@ -434,8 +439,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     },
     "de": {
       "public": 3929,
@@ -505,8 +511,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     },
     "pt": {
       "public": 3929,
@@ -576,8 +583,9 @@
       "occupation-catalog": 299,
       "section-explanations": 167,
       "states": 180,
+      "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14903
+      "total": 14923
     }
   }
 }
