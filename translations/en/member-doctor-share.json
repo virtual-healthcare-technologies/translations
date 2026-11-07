@@ -1,6 +1,7 @@
 {
   "24 hours": "24 hours",
   "Anyone with the link can open it. Send it only to your doctor’s office.": "Anyone with the link can open it. Send it only to your doctor’s office.",
+  "Archive this document?": "Archive this document?",
   "Cancel share": "Cancel share",
   "Cancel this share? {{name}} will not be able to receive these reports. You can send again later.": "Cancel this share? {{name}} will not be able to receive these reports. You can send again later.",
   "Cancelled": "Cancelled",
@@ -12,7 +13,10 @@
   "Doctor or clinic (optional)": "Doctor or clinic (optional)",
   "Doctor’s email": "Doctor’s email",
   "Doctor’s name": "Doctor’s name",
+  "Document archived": "Document archived",
+  "Document restored": "Document restored",
   "Dr Patel": "Dr Patel",
+  "ECHNA will no longer use this document. You can restore it from Archived.": "ECHNA will no longer use this document. You can restore it from Archived.",
   "Email my doctor": "Email my doctor",
   "Expired": "Expired",
   "Expired {{date}}": "Expired {{date}}",
@@ -60,6 +64,8 @@
   "VHT emails your doctor. They sign in to view your lab reports.": "VHT emails your doctor. They sign in to view your lab reports.",
   "VHT sends the email. Your name and date of birth are included so the doctor knows whose record it is.": "VHT sends the email. Your name and date of birth are included so the doctor knows whose record it is.",
   "Waiting (share)": "Waiting (share)",
+  "We couldn't archive this document. Please try again.": "We couldn't archive this document. Please try again.",
+  "We couldn't restore this document. Please try again.": "We couldn't restore this document. Please try again.",
   "We couldn’t cancel. Check your connection and try again.": "We couldn’t cancel. Check your connection and try again.",
   "We couldn’t create the PDF. Try again.": "We couldn’t create the PDF. Try again.",
   "We couldn’t create the link. Check your connection and try again.": "We couldn’t create the link. Check your connection and try again.",
@@ -85,5 +91,6 @@
   "{{n}} of {{max}} selected": "{{n}} of {{max}} selected",
   "{{n}} report": "{{n}} report",
   "{{n}} reports": "{{n}} reports",
-  "{{n}}/80": "{{n}}/80"
+  "{{n}}/80": "{{n}}/80",
+  "“{{name}}” moves to Archived. ECHNA will no longer use this document in your assessments. You can restore it any time.": "“{{name}}” moves to Archived. ECHNA will no longer use this document in your assessments. You can restore it any time."
 }

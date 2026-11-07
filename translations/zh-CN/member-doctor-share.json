@@ -1,6 +1,7 @@
 {
   "24 hours": "24 小时",
   "Anyone with the link can open it. Send it only to your doctor’s office.": "任何拥有此链接的人都可以打开。请仅发送给您医生的诊所。",
+  "Archive this document?": "归档这份文档？",
   "Cancel share": "取消分享",
   "Cancel this share? {{name}} will not be able to receive these reports. You can send again later.": "取消此分享？{{name}} 将无法收到这些报告。您可以稍后重新发送。",
   "Cancelled": "已取消",
@@ -12,7 +13,10 @@
   "Doctor or clinic (optional)": "医生或诊所（可选）",
   "Doctor’s email": "医生邮箱",
   "Doctor’s name": "医生姓名",
+  "Document archived": "文档已归档",
+  "Document restored": "文档已恢复",
   "Dr Patel": "Patel 医生",
+  "ECHNA will no longer use this document. You can restore it from Archived.": "ECHNA 将不再使用此文档。您可以从“已归档”中恢复它。",
   "Email my doctor": "邮件发送",
   "Expired": "已过期",
   "Expired {{date}}": "已于 {{date}} 到期",
@@ -60,6 +64,8 @@
   "VHT emails your doctor. They sign in to view your lab reports.": "VHT 会向您的医生发送邮件。医生将登录 VHT 查看您的化验报告。",
   "VHT sends the email. Your name and date of birth are included so the doctor knows whose record it is.": "VHT 会发送邮件。为方便医生确认记录归属，其中包含您的姓名和出生日期。",
   "Waiting (share)": "等待中",
+  "We couldn't archive this document. Please try again.": "无法归档这份文档，请重试。",
+  "We couldn't restore this document. Please try again.": "无法恢复这份文档，请重试。",
   "We couldn’t cancel. Check your connection and try again.": "无法取消。请检查网络连接后重试。",
   "We couldn’t create the PDF. Try again.": "无法创建 PDF，请重试。",
   "We couldn’t create the link. Check your connection and try again.": "无法创建链接。请检查网络连接后重试。",
@@ -85,5 +91,6 @@
   "{{n}} of {{max}} selected": "已选 {{n}}/{{max}}",
   "{{n}} report": "{{n}} 份报告",
   "{{n}} reports": "{{n}} 份报告",
-  "{{n}}/80": "{{n}}/80"
+  "{{n}}/80": "{{n}}/80",
+  "“{{name}}” moves to Archived. ECHNA will no longer use this document in your assessments. You can restore it any time.": "“{{name}}”将移入“已归档”。ECHNA 将不再在您的评估中使用此文档。您可以随时恢复。"
 }

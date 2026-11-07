@@ -1,6 +1,7 @@
 {
   "24 hours": "24時間",
   "Anyone with the link can open it. Send it only to your doctor’s office.": "リンクを知る人は誰でも開けます。送り先は医院のみにしてください。",
+  "Archive this document?": "このドキュメントをアーカイブしますか？",
   "Cancel share": "共有をキャンセル",
   "Cancel this share? {{name}} will not be able to receive these reports. You can send again later.": "この共有をキャンセルしますか？{{name}}はこれらの検査結果を受け取れなくなります。後で再度送信できます。",
   "Cancelled": "キャンセル済み",
@@ -12,7 +13,10 @@
   "Doctor or clinic (optional)": "医師またはクリニック（任意）",
   "Doctor’s email": "医師のメールアドレス",
   "Doctor’s name": "医師のお名前",
+  "Document archived": "ドキュメントをアーカイブしました",
+  "Document restored": "ドキュメントを復元しました",
   "Dr Patel": "パテル先生",
+  "ECHNA will no longer use this document. You can restore it from Archived.": "ECHNAはこのドキュメントを使用しなくなります。「アーカイブ」から復元できます。",
   "Email my doctor": "メールで送る",
   "Expired": "期限切れ",
   "Expired {{date}}": "{{date}}に期限切れ",
@@ -60,6 +64,8 @@
   "VHT emails your doctor. They sign in to view your lab reports.": "VHTが主治医にメールを送信します。主治医はサインインして検査結果を確認します。",
   "VHT sends the email. Your name and date of birth are included so the doctor knows whose record it is.": "VHTがメールを送信します。誰の記録か分かるように、お名前と生年月日が含まれます。",
   "Waiting (share)": "送信待ち",
+  "We couldn't archive this document. Please try again.": "このドキュメントをアーカイブできませんでした。もう一度お試しください。",
+  "We couldn't restore this document. Please try again.": "このドキュメントを復元できませんでした。もう一度お試しください。",
   "We couldn’t cancel. Check your connection and try again.": "キャンセルできませんでした。接続を確認して、もう一度お試しください。",
   "We couldn’t create the PDF. Try again.": "PDFを作成できませんでした。もう一度お試しください。",
   "We couldn’t create the link. Check your connection and try again.": "リンクを作成できませんでした。接続を確認して、もう一度お試しください。",
@@ -85,5 +91,6 @@
   "{{n}} of {{max}} selected": "{{max}}件中{{n}}件を選択中",
   "{{n}} report": "{{n}}件の報告",
   "{{n}} reports": "{{n}}件の報告",
-  "{{n}}/80": "{{n}}/80"
+  "{{n}}/80": "{{n}}/80",
+  "“{{name}}” moves to Archived. ECHNA will no longer use this document in your assessments. You can restore it any time.": "「{{name}}」をアーカイブに移動します。ECHNAはあなたの評価ではもうこのドキュメントを使用しません。いつでも復元できます。"
 }

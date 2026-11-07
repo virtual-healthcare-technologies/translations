@@ -1,6 +1,7 @@
 {
   "24 hours": "24 heures",
   "Anyone with the link can open it. Send it only to your doctor’s office.": "Toute personne disposant du lien peut l’ouvrir. Envoyez-le uniquement au cabinet de votre médecin.",
+  "Archive this document?": "Archiver ce document ?",
   "Cancel share": "Annuler l’envoi",
   "Cancel this share? {{name}} will not be able to receive these reports. You can send again later.": "Annuler cet envoi ? {{name}} ne pourra pas recevoir ces rapports. Vous pourrez renvoyer plus tard.",
   "Cancelled": "Annulé",
@@ -12,7 +13,10 @@
   "Doctor or clinic (optional)": "Médecin ou clinique (facultatif)",
   "Doctor’s email": "E-mail du médecin",
   "Doctor’s name": "Nom du médecin",
+  "Document archived": "Document archivé",
+  "Document restored": "Document restauré",
   "Dr Patel": "Dr Patel",
+  "ECHNA will no longer use this document. You can restore it from Archived.": "ECHNA n’utilisera plus ce document. Vous pouvez le restaurer depuis « Archivées ».",
   "Email my doctor": "Envoyer par e-mail",
   "Expired": "Expiré",
   "Expired {{date}}": "Expiré le {{date}}",
@@ -60,6 +64,8 @@
   "VHT emails your doctor. They sign in to view your lab reports.": "VHT envoie l’e-mail à votre médecin. Il se connectera à VHT pour consulter vos résultats d’analyses.",
   "VHT sends the email. Your name and date of birth are included so the doctor knows whose record it is.": "VHT envoie l’e-mail. Votre nom et votre date de naissance sont inclus pour que le médecin sache de qui il s’agit.",
   "Waiting (share)": "En attente",
+  "We couldn't archive this document. Please try again.": "Impossible d’archiver ce document. Veuillez réessayer.",
+  "We couldn't restore this document. Please try again.": "Impossible de restaurer ce document. Veuillez réessayer.",
   "We couldn’t cancel. Check your connection and try again.": "Nous n’avons pas pu annuler. Vérifiez votre connexion et réessayez.",
   "We couldn’t create the PDF. Try again.": "Impossible de créer le PDF. Réessayez.",
   "We couldn’t create the link. Check your connection and try again.": "Impossible de créer le lien. Vérifiez votre connexion et réessayez.",
@@ -85,5 +91,6 @@
   "{{n}} of {{max}} selected": "{{n}} sur {{max}} sélectionnés",
   "{{n}} report": "{{n}} rapport",
   "{{n}} reports": "{{n}} rapports",
-  "{{n}}/80": "{{n}}/80"
+  "{{n}}/80": "{{n}}/80",
+  "“{{name}}” moves to Archived. ECHNA will no longer use this document in your assessments. You can restore it any time.": "« {{name}} » sera déplacé vers « Archivées ». ECHNA n’utilisera plus ce document dans vos évaluations. Vous pouvez le restaurer à tout moment."
 }
