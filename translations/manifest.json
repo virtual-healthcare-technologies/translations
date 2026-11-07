@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T20:59:28.020Z",
+  "generatedAt": "2026-11-07T22:10:14.205Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "d0ab9751f2c7953703db26a13dfcc45c3732a1a4",
+  "sourceCommit": "0a115f3bd522c0267e1a9d14de0c54a3674e8f85",
   "languages": [
     "en",
     "fr",
@@ -73,7 +73,6 @@
     "member-signin",
     "member-stripe-billing",
     "member-sweep",
-    "member-text-size",
     "member-twin-path",
     "occupation",
     "occupation-catalog",
@@ -85,7 +84,7 @@
   ],
   "counts": {
     "en": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -146,19 +145,18 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     },
     "fr": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -219,19 +217,18 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     },
     "ja": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -292,19 +289,18 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     },
     "zh-CN": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -365,19 +361,18 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     },
     "es": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -438,19 +433,18 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     },
     "de": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -511,19 +505,18 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     },
     "pt": {
-      "public": 3931,
+      "public": 3934,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -584,16 +577,15 @@
       "member-signin": 22,
       "member-stripe-billing": 23,
       "member-sweep": 55,
-      "member-text-size": 3,
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 96,
+      "provider-basic": 97,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15087
+      "total": 15088
     }
   }
 }
