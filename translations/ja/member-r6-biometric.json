@@ -5,6 +5,7 @@
   "Could not turn on unlock with {{method}}": "{{method}}でのロック解除をオンにできませんでした",
   "Don't ask again": "今後表示しない",
   "Face ID": "Face ID",
+  "Locked after {{minutes}} minutes without use.": "{{minutes}}分間操作がなかったため、ロックしました。",
   "Not now": "今はしない",
   "This does not replace your password or Apple Sign-In.": "パスワードやAppleでサインインの代わりにはなりません。",
   "This does not replace your password or Google sign-in.": "パスワードやGoogleでのサインインの代わりにはなりません。",

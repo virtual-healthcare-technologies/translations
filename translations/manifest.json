@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T03:02:26.592Z",
+  "generatedAt": "2026-11-07T08:29:47.976Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "d3b1f13f7044be7654a4a5cbbeee59116261cfc8",
+  "sourceCommit": "a32bb099f531e6da683640e45a4330f4a331dfa2",
   "languages": [
     "en",
     "fr",
@@ -135,7 +135,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -155,7 +155,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     },
     "fr": {
       "public": 3929,
@@ -208,7 +208,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -228,7 +228,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     },
     "ja": {
       "public": 3929,
@@ -281,7 +281,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -301,7 +301,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     },
     "zh-CN": {
       "public": 3929,
@@ -354,7 +354,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -374,7 +374,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     },
     "es": {
       "public": 3929,
@@ -427,7 +427,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -447,7 +447,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     },
     "de": {
       "public": 3929,
@@ -500,7 +500,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -520,7 +520,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     },
     "pt": {
       "public": 3929,
@@ -573,7 +573,7 @@
       "member-r3-medical": 98,
       "member-r4-settings": 93,
       "member-r5-final": 2,
-      "member-r6-biometric": 26,
+      "member-r6-biometric": 27,
       "member-r7-chips": 14,
       "member-retest2-misc": 29,
       "member-retest2-units": 17,
@@ -593,7 +593,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15001
+      "total": 15002
     }
   }
 }

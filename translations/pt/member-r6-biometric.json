@@ -5,6 +5,7 @@
   "Could not turn on unlock with {{method}}": "Não foi possível ativar o desbloqueio com {{method}}",
   "Don't ask again": "Não perguntar novamente",
   "Face ID": "Face ID",
+  "Locked after {{minutes}} minutes without use.": "Bloqueado após {{minutes}} minutos sem uso.",
   "Not now": "Agora não",
   "This does not replace your password or Apple Sign-In.": "Não substitui sua senha nem o login com a Apple.",
   "This does not replace your password or Google sign-in.": "Não substitui sua senha nem o login com o Google.",

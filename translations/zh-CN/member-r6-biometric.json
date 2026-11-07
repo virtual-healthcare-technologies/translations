@@ -5,6 +5,7 @@
   "Could not turn on unlock with {{method}}": "无法开启{{method}}解锁",
   "Don't ask again": "不再询问",
   "Face ID": "Face ID",
+  "Locked after {{minutes}} minutes without use.": "{{minutes}}分钟未使用，已锁定。",
   "Not now": "以后再说",
   "This does not replace your password or Apple Sign-In.": "这不会取代您的密码或“通过 Apple 登录”。",
   "This does not replace your password or Google sign-in.": "这不会取代您的密码或 Google 登录。",

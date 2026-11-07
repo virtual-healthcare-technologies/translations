@@ -5,6 +5,7 @@
   "Could not turn on unlock with {{method}}": "Could not turn on unlock with {{method}}",
   "Don't ask again": "Don't ask again",
   "Face ID": "Face ID",
+  "Locked after {{minutes}} minutes without use.": "Locked after {{minutes}} minutes without use.",
   "Not now": "Not now",
   "This does not replace your password or Apple Sign-In.": "This does not replace your password or Apple Sign-In.",
   "This does not replace your password or Google sign-in.": "This does not replace your password or Google sign-in.",
