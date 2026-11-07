@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T01:41:27.711Z",
+  "generatedAt": "2026-11-07T02:12:34.750Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "c5c92cf2ee7c27280eb0e1d03bffdd9ef2c29c05",
+  "sourceCommit": "06fab380082a170900901f9a16871cea18750941",
   "languages": [
     "en",
     "fr",
@@ -150,12 +150,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     },
     "fr": {
       "public": 3929,
@@ -223,12 +223,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     },
     "ja": {
       "public": 3929,
@@ -296,12 +296,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     },
     "zh-CN": {
       "public": 3929,
@@ -369,12 +369,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     },
     "es": {
       "public": 3929,
@@ -442,12 +442,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     },
     "de": {
       "public": 3929,
@@ -515,12 +515,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     },
     "pt": {
       "public": 3929,
@@ -588,12 +588,12 @@
       "member-twin-path": 161,
       "occupation": 140,
       "occupation-catalog": 299,
-      "provider-basic": 22,
+      "provider-basic": 57,
       "section-explanations": 167,
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 14948
+      "total": 14983
     }
   }
 }
