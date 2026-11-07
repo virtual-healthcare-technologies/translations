@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-07T11:43:26.161Z",
+  "generatedAt": "2026-11-07T19:19:09.254Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "b9c7076e8e5b320f22488788f7399bc079361f17",
+  "sourceCommit": "a21bc9e78adf593fd8349810ad3c67d5846dfc92",
   "languages": [
     "en",
     "fr",
@@ -85,7 +85,7 @@
   ],
   "counts": {
     "en": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -155,10 +155,10 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     },
     "fr": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -228,10 +228,10 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     },
     "ja": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -301,10 +301,10 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     },
     "zh-CN": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -374,10 +374,10 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     },
     "es": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -447,10 +447,10 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     },
     "de": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -520,10 +520,10 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     },
     "pt": {
-      "public": 3929,
+      "public": 3931,
       "address": 67,
       "advanced-forms": 108,
       "allergen-catalog": 165,
@@ -593,7 +593,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15078
+      "total": 15080
     }
   }
 }
