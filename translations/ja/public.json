@@ -3754,7 +3754,7 @@
   "pages.security.title": "エンタープライズ級のセキュリティとHIPAAの保護措置",
   "pages.security.viewHipaa": "HIPAAの詳細を見る",
   "pages.status.authentication": "認証",
-  "pages.status.autoUpdating": "リアルタイムで自動更新",
+  "pages.status.autoUpdating": "5分ごとに自動更新",
   "pages.status.backupMode": "バックアップモード",
   "pages.status.checking": "状況を確認しています...",
   "pages.status.contactSupport": "サポートに連絡",

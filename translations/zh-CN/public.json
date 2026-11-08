@@ -3754,7 +3754,7 @@
   "pages.security.title": "企业级安全与 HIPAA 保障措施",
   "pages.security.viewHipaa": "查看 HIPAA 详情",
   "pages.status.authentication": "身份验证",
-  "pages.status.autoUpdating": "实时自动更新",
+  "pages.status.autoUpdating": "每 5 分钟自动更新",
   "pages.status.backupMode": "备用模式",
   "pages.status.checking": "正在检查状态……",
   "pages.status.contactSupport": "联系支持",

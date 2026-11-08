@@ -3754,7 +3754,7 @@
   "pages.security.title": "Enterprise-Grade Security & HIPAA Safeguards",
   "pages.security.viewHipaa": "View HIPAA Details",
   "pages.status.authentication": "Authentication",
-  "pages.status.autoUpdating": "Auto-updating in real-time",
+  "pages.status.autoUpdating": "Updates every 5 minutes",
   "pages.status.backupMode": "Backup Mode",
   "pages.status.checking": "Checking status...",
   "pages.status.contactSupport": "Contact Support",

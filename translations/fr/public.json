@@ -3754,7 +3754,7 @@
   "pages.security.title": "Sécurité de niveau entreprise et mesures de protection HIPAA",
   "pages.security.viewHipaa": "Voir les détails HIPAA",
   "pages.status.authentication": "Authentification",
-  "pages.status.autoUpdating": "Mise à jour automatique en temps réel",
+  "pages.status.autoUpdating": "Mise à jour toutes les 5 minutes",
   "pages.status.backupMode": "Mode secours",
   "pages.status.checking": "Vérification de l'état...",
   "pages.status.contactSupport": "Contacter le soutien",

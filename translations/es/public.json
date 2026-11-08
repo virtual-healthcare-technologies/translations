@@ -3754,7 +3754,7 @@
   "pages.security.title": "Seguridad de nivel empresarial y salvaguardas HIPAA",
   "pages.security.viewHipaa": "Ver detalles de HIPAA",
   "pages.status.authentication": "Autenticación",
-  "pages.status.autoUpdating": "Actualización automática en tiempo real",
+  "pages.status.autoUpdating": "Se actualiza cada 5 minutos",
   "pages.status.backupMode": "Modo de respaldo",
   "pages.status.checking": "Comprobando el estado...",
   "pages.status.contactSupport": "Contactar a soporte",
