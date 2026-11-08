@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T23:14:16.546Z",
+  "generatedAt": "2026-11-08T23:28:48.754Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "a10ff2406ddb24de75c9aea0d6510b999a67570c",
+  "sourceCommit": "74e94e190737b90f08cdcb39f1892935078abe5e",
   "languages": [
     "en",
     "fr",
@@ -35,6 +35,7 @@
     "member-body",
     "member-chat",
     "member-common",
+    "member-communication-consent",
     "member-digital-twin",
     "member-doctor-share",
     "member-genetic",
@@ -107,6 +108,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -153,7 +155,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     },
     "fr": {
       "public": 3934,
@@ -179,6 +181,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -225,7 +228,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     },
     "ja": {
       "public": 3934,
@@ -251,6 +254,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -297,7 +301,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     },
     "zh-CN": {
       "public": 3934,
@@ -323,6 +327,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -369,7 +374,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     },
     "es": {
       "public": 3934,
@@ -395,6 +400,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -441,7 +447,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     },
     "de": {
       "public": 3934,
@@ -467,6 +473,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -513,7 +520,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     },
     "pt": {
       "public": 3934,
@@ -539,6 +546,7 @@
       "member-body": 854,
       "member-chat": 366,
       "member-common": 539,
+      "member-communication-consent": 4,
       "member-digital-twin": 676,
       "member-doctor-share": 94,
       "member-genetic": 246,
@@ -585,7 +593,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15104
+      "total": 15108
     }
   }
 }
