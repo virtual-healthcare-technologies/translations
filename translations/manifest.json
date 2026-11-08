@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-08T21:25:10.240Z",
+  "generatedAt": "2026-11-08T23:14:16.546Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "6b0c506d20d5b4b89a0b1e8f7f00e07590fc7e12",
+  "sourceCommit": "a10ff2406ddb24de75c9aea0d6510b999a67570c",
   "languages": [
     "en",
     "fr",
@@ -96,7 +96,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -153,7 +153,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     },
     "fr": {
       "public": 3934,
@@ -168,7 +168,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -225,7 +225,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     },
     "ja": {
       "public": 3934,
@@ -240,7 +240,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -297,7 +297,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     },
     "zh-CN": {
       "public": 3934,
@@ -312,7 +312,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -369,7 +369,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     },
     "es": {
       "public": 3934,
@@ -384,7 +384,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -441,7 +441,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     },
     "de": {
       "public": 3934,
@@ -456,7 +456,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -513,7 +513,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     },
     "pt": {
       "public": 3934,
@@ -528,7 +528,7 @@
       "describe-help": 73,
       "dosage": 139,
       "family": 110,
-      "healthcare-catalog": 102,
+      "healthcare-catalog": 110,
       "instant": 116,
       "lifestyle": 102,
       "medications": 208,
@@ -585,7 +585,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15096
+      "total": 15104
     }
   }
 }
