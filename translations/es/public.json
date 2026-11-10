@@ -3271,6 +3271,7 @@
   "pages.pricing.promises.titleAccent": "nunca",
   "pages.pricing.promises.titleAfter": " haremos.",
   "pages.pricing.promises.titleBefore": "Lo que ",
+  "pages.pricing.salesPausedNote": "Los planes de pago no están a la venta por ahora.",
   "pages.pricing.savePercent": "Ahorra {0}% frente al mensual",
   "pages.pricing.saveUpTo": "Ahorra hasta {0}%",
   "pages.pricing.tiers.basic.audience": "Miembro gratuito",

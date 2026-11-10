@@ -3271,6 +3271,7 @@
   "pages.pricing.promises.titleAccent": "never",
   "pages.pricing.promises.titleAfter": " do.",
   "pages.pricing.promises.titleBefore": "What we will ",
+  "pages.pricing.salesPausedNote": "Paid plans are not on sale right now.",
   "pages.pricing.savePercent": "Save {0}% vs monthly",
   "pages.pricing.saveUpTo": "Save up to {0}%",
   "pages.pricing.tiers.basic.audience": "Free Member",

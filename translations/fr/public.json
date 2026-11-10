@@ -3271,6 +3271,7 @@
   "pages.pricing.promises.titleAccent": "jamais",
   "pages.pricing.promises.titleAfter": ".",
   "pages.pricing.promises.titleBefore": "Ce que nous ne ferons ",
+  "pages.pricing.salesPausedNote": "Les formules payantes ne sont pas en vente pour le moment.",
   "pages.pricing.savePercent": "{0} % d’économie par rapport au mensuel",
   "pages.pricing.saveUpTo": "Jusqu’à {0} % d’économie",
   "pages.pricing.tiers.basic.audience": "Membre gratuit",

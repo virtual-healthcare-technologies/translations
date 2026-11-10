@@ -3271,6 +3271,7 @@
   "pages.pricing.promises.titleAccent": "永远不会",
   "pages.pricing.promises.titleAfter": "做的事。",
   "pages.pricing.promises.titleBefore": "我们",
+  "pages.pricing.salesPausedNote": "付费方案目前暂不销售。",
   "pages.pricing.savePercent": "比按月付费节省 {0}%",
   "pages.pricing.saveUpTo": "最多节省 {0}%",
   "pages.pricing.tiers.basic.audience": "Free 会员",

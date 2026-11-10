@@ -12,6 +12,7 @@
   "Partner code: {{code}}": "合作伙伴代码：{{code}}",
   "Partner codes are for members who have not started a paid plan yet.": "合作伙伴代码仅适用于尚未开始付费计划的会员。",
   "Partner codes are for new members, within their first two weeks.": "合作伙伴代码仅适用于注册两周内的新会员。",
+  "Premium pass: {{n}} days left.": "Premium 通行证：剩 {{n}} 天。",
   "Premium pass: {{n}} days left. After that, choose a plan; current offers apply.": "Premium 通行证：剩 {{n}} 天。之后请选择方案；当前优惠适用。",
   "Something went wrong applying your code. Please try again.": "应用代码时出现问题。请重试。",
   "That code doesn't look right. Check it and try again.": "该代码似乎不正确。请核对后重试。",

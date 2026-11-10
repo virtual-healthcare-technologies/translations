@@ -12,6 +12,7 @@
   "Partner code: {{code}}": "Código de parceiro: {{code}}",
   "Partner codes are for members who have not started a paid plan yet.": "Os códigos de parceiro são para membros que ainda não começaram um plano pago.",
   "Partner codes are for new members, within their first two weeks.": "Os códigos de parceiro são para membros novos, nas duas primeiras semanas.",
+  "Premium pass: {{n}} days left.": "Passe Premium: restam {{n}} dias.",
   "Premium pass: {{n}} days left. After that, choose a plan; current offers apply.": "Passe Premium: restam {{n}} dias. Depois, escolha um plano; as ofertas atuais se aplicam.",
   "Something went wrong applying your code. Please try again.": "Algo deu errado ao aplicar o código. Tente novamente.",
   "That code doesn't look right. Check it and try again.": "Esse código não parece correto. Confira e tente de novo.",
