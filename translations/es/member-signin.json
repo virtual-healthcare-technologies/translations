@@ -8,6 +8,7 @@
   "If LINE doesn't open, open this page in Safari or Chrome and try again.": "Si LINE no se abre, abre esta página en Safari o Chrome e inténtalo de nuevo.",
   "If you continue with LINE, VHT receives your name and profile picture from LINE. You then add your email address, which we use to sign you in and send you messages about your account.": "Si continúas con LINE, VHT recibe de LINE tu nombre y tu foto de perfil. Después añades tu dirección de correo electrónico, que usamos para que inicies sesión y para enviarte mensajes sobre tu cuenta.",
   "LINE did not share an email address. Add one so we can send you messages about your account and help you sign in if you lose access to LINE.": "LINE no compartió un correo electrónico. Añade uno para que podamos enviarte mensajes sobre tu cuenta y ayudarte a iniciar sesión si pierdes el acceso a LINE.",
+  "LINE sign-in could not finish": "No se pudo completar el inicio de sesión con LINE",
   "LINE sign-in is not available in the app yet. Use the website.": "El inicio de sesión con LINE aún no está disponible en la app. Usa el sitio web.",
   "New password": "Nueva contraseña",
   "New to VHT?": "¿Es tu primera vez en VHT?",
@@ -17,6 +18,7 @@
   "Save new password": "Guardar nueva contraseña",
   "Send confirmation link": "Enviar enlace de confirmación",
   "Set a new password": "Crea una nueva contraseña",
+  "Sign in another way": "Iniciar sesión de otra forma",
   "This device": "Este dispositivo",
   "This device no longer remembers your account.": "Este dispositivo ya no recuerda tu cuenta.",
   "This reset link has expired or was already used. Request a new one.": "Este enlace de restablecimiento caducó o ya se usó. Solicita uno nuevo.",
@@ -31,5 +33,6 @@
   "You last signed in with Apple.": "La última vez iniciaste sesión con Apple.",
   "You last signed in with Google.": "La última vez iniciaste sesión con Google.",
   "You last signed in with LINE.": "La última vez iniciaste sesión con LINE.",
-  "You last signed in with email.": "La última vez iniciaste sesión con tu correo electrónico."
+  "You last signed in with email.": "La última vez iniciaste sesión con tu correo electrónico.",
+  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. LINE sign-in works only on the website for now. Sign in here another way, or use LINE on a computer.": "Tu teléfono abrió la app de VHT en lugar del navegador donde empezaste, así que no se pudo completar el inicio de sesión con LINE. Por ahora, el inicio de sesión con LINE solo funciona en el sitio web. Inicia sesión aquí de otra forma, o usa LINE en una computadora."
 }

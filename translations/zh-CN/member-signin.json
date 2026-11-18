@@ -8,6 +8,7 @@
   "If LINE doesn't open, open this page in Safari or Chrome and try again.": "如果 LINE 没有打开，请在 Safari 或 Chrome 中打开此页面后重试。",
   "If you continue with LINE, VHT receives your name and profile picture from LINE. You then add your email address, which we use to sign you in and send you messages about your account.": "如果您选择使用 LINE 继续，VHT 会从 LINE 获取您的姓名和头像。随后请添加您的电子邮箱地址，我们会用它来让您登录，并向您发送有关账户的消息。",
   "LINE did not share an email address. Add one so we can send you messages about your account and help you sign in if you lose access to LINE.": "LINE 未分享电子邮件地址。请添加一个，以便我们向您发送与账户有关的消息，并在您无法使用 LINE 时帮助您登录。",
+  "LINE sign-in could not finish": "LINE 登录未能完成",
   "LINE sign-in is not available in the app yet. Use the website.": "应用内暂不支持 LINE 登录。请使用网站。",
   "New password": "新密码",
   "New to VHT?": "初次使用 VHT？",
@@ -17,6 +18,7 @@
   "Save new password": "保存新密码",
   "Send confirmation link": "发送确认链接",
   "Set a new password": "设置新密码",
+  "Sign in another way": "使用其他方式登录",
   "This device": "此设备",
   "This device no longer remembers your account.": "此设备已不再记住您的账户。",
   "This reset link has expired or was already used. Request a new one.": "此重置链接已过期或已被使用。请重新申请。",
@@ -31,5 +33,6 @@
   "You last signed in with Apple.": "您上次使用 Apple 登录。",
   "You last signed in with Google.": "您上次使用 Google 登录。",
   "You last signed in with LINE.": "您上次使用 LINE 登录。",
-  "You last signed in with email.": "您上次使用电子邮件登录。"
+  "You last signed in with email.": "您上次使用电子邮件登录。",
+  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. LINE sign-in works only on the website for now. Sign in here another way, or use LINE on a computer.": "您的手机打开了 VHT 应用，而不是您开始登录的浏览器，因此 LINE 登录未能完成。LINE 登录目前仅支持网站。请在此使用其他方式登录，或在电脑上使用 LINE 登录。"
 }
