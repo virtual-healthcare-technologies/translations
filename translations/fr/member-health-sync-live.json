@@ -29,6 +29,7 @@
   "I found {{n}} days of steps — you average {{steps}} steps a day. Want me to look at the trend?": "J’ai trouvé {{n}} jours de pas — vous faites en moyenne {{steps}} pas par jour. Voulez-vous que j’examine la tendance ?",
   "I found {{n}} night of sleep — your average is {{hours}} h. Want me to look at the trend?": "J’ai trouvé {{n}} nuit de sommeil — votre moyenne est de {{hours}} h. Voulez-vous que j’examine la tendance ?",
   "I found {{n}} nights of sleep — your average is {{hours}} h. Want me to look at the trend?": "J’ai trouvé {{n}} nuits de sommeil — votre moyenne est de {{hours}} h. Voulez-vous que j’examine la tendance ?",
+  "Keep VHT open until your first sync finishes. It can take a few minutes.": "Gardez VHT ouvert jusqu’à la fin de votre première synchronisation. Cela peut prendre quelques minutes.",
   "Keep using the app": "Continuer à utiliser l’app",
   "Keeps Biometrics up to date without typing.": "Garde Biométrie à jour sans saisie.",
   "My Health Sync just finished. What stands out in my new health data?": "Ma synchro santé vient de se terminer. Qu’est-ce qui ressort de mes nouvelles données de santé ?",

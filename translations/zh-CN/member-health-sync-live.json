@@ -29,6 +29,7 @@
   "I found {{n}} days of steps — you average {{steps}} steps a day. Want me to look at the trend?": "我找到了 {{n}} 天的步数数据，您平均每天走 {{steps}} 步。要我帮您看看趋势吗？",
   "I found {{n}} night of sleep — your average is {{hours}} h. Want me to look at the trend?": "我找到了 {{n}} 晚的睡眠数据，您的平均睡眠时长为 {{hours}} 小时。要我帮您看看趋势吗？",
   "I found {{n}} nights of sleep — your average is {{hours}} h. Want me to look at the trend?": "我找到了 {{n}} 晚的睡眠数据，您的平均睡眠时长为 {{hours}} 小时。要我帮您看看趋势吗？",
+  "Keep VHT open until your first sync finishes. It can take a few minutes.": "首次同步完成前，请保持 VHT 打开。这可能需要几分钟。",
   "Keep using the app": "继续使用应用",
   "Keeps Biometrics up to date without typing.": "无需手动输入即可保持生物指标最新。",
   "My Health Sync just finished. What stands out in my new health data?": "我的健康同步刚刚完成。我的新健康数据中有哪些值得关注的地方？",

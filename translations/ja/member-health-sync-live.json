@@ -29,6 +29,7 @@
   "I found {{n}} days of steps — you average {{steps}} steps a day. Want me to look at the trend?": "歩数データが{{n}}日分見つかりました。1日平均{{steps}}歩です。傾向を一緒に見てみましょうか？",
   "I found {{n}} night of sleep — your average is {{hours}} h. Want me to look at the trend?": "睡眠データが{{n}}晩分見つかりました。平均は{{hours}}時間です。傾向を一緒に見てみましょうか？",
   "I found {{n}} nights of sleep — your average is {{hours}} h. Want me to look at the trend?": "睡眠データが{{n}}晩分見つかりました。平均は{{hours}}時間です。傾向を一緒に見てみましょうか？",
+  "Keep VHT open until your first sync finishes. It can take a few minutes.": "初回の同期が完了するまで、VHTを開いたままにしてください。数分かかることがあります。",
   "Keep using the app": "アプリを使い続ける",
   "Keeps Biometrics up to date without typing.": "入力しなくても生体指標が最新に保たれます。",
   "My Health Sync just finished. What stands out in my new health data?": "ヘルスシンクが完了しました。新しい健康データで気になる点は何ですか？",
