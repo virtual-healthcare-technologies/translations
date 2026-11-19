@@ -19,6 +19,7 @@
   "Unlocking…": "Unlocking…",
   "Use a different account": "Use a different account",
   "You can change this anytime in Settings → Security.": "You can change this anytime in Settings → Security.",
+  "You were signed out after 30 minutes of inactivity to protect your health data. Turn this on to unlock quickly with {{method}} next time.": "You were signed out after 30 minutes of inactivity to protect your health data. Turn this on to unlock quickly with {{method}} next time.",
   "You'll be asked once when you open the app — not while you're using it.": "You'll be asked once when you open the app — not while you're using it.",
   "Your health account is protected on this device. Unlock with {{method}} to continue.": "Your health account is protected on this device. Unlock with {{method}} to continue.",
   "biometrics": "biometrics",

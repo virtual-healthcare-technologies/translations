@@ -19,6 +19,7 @@
   "Unlocking…": "ロックを解除しています…",
   "Use a different account": "別のアカウントを使う",
   "You can change this anytime in Settings → Security.": "この設定は「設定 → セキュリティ」でいつでも変更できます。",
+  "You were signed out after 30 minutes of inactivity to protect your health data. Turn this on to unlock quickly with {{method}} next time.": "30分間操作がなかったため、健康データの保護を目的としてサインアウトしました。この機能を有効にすると、次回は{{method}}ですばやくロックを解除できます。",
   "You'll be asked once when you open the app — not while you're using it.": "確認はアプリを開くときに1回だけです。使用中には求められません。",
   "Your health account is protected on this device. Unlock with {{method}} to continue.": "このデバイスでは健康アカウントが保護されています。続けるには{{method}}でロックを解除してください。",
   "biometrics": "生体認証",

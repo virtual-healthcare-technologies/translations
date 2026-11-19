@@ -19,6 +19,7 @@
   "Unlocking…": "Wird entsperrt…",
   "Use a different account": "Anderes Konto verwenden",
   "You can change this anytime in Settings → Security.": "Sie können dies jederzeit unter Einstellungen → Sicherheit ändern.",
+  "You were signed out after 30 minutes of inactivity to protect your health data. Turn this on to unlock quickly with {{method}} next time.": "Zum Schutz Ihrer Gesundheitsdaten wurden Sie nach 30 Minuten Inaktivität abgemeldet. Aktivieren Sie diese Funktion, um die App beim nächsten Mal schnell mit {{method}} zu entsperren.",
   "You'll be asked once when you open the app — not while you're using it.": "Sie werden nur einmal beim Öffnen der App gefragt, nicht während der Nutzung.",
   "Your health account is protected on this device. Unlock with {{method}} to continue.": "Ihr Gesundheitskonto ist auf diesem Gerät geschützt. Entsperren Sie mit {{method}}, um fortzufahren.",
   "biometrics": "Biometrie",

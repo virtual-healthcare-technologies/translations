@@ -19,6 +19,7 @@
   "Unlocking…": "正在解锁…",
   "Use a different account": "使用其他账户",
   "You can change this anytime in Settings → Security.": "您可以随时在“设置 → 安全”中更改此设置。",
+  "You were signed out after 30 minutes of inactivity to protect your health data. Turn this on to unlock quickly with {{method}} next time.": "为保护您的健康数据，您在 30 分钟无操作后已退出登录。开启此功能后，下次即可使用{{method}}快速解锁。",
   "You'll be asked once when you open the app — not while you're using it.": "仅在打开应用时验证一次，使用过程中不会要求验证。",
   "Your health account is protected on this device. Unlock with {{method}} to continue.": "您的健康账户在此设备上受到保护。请使用{{method}}解锁以继续。",
   "biometrics": "生物识别",
