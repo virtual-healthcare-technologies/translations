@@ -632,6 +632,7 @@
   "{{value}} h": "{{value}}時間",
   "{{value}} hours": "{{value}}時間",
   "{{value}} hours/night": "1晩{{value}}時間",
+  "{{value}} kcal from drinks": "飲み物から{{value}} kcal",
   "{{value}} kcal today ({{pct}}% of goal).": "今日 {{value}} kcal（目標の{{pct}}%）。",
   "{{value}} kcal today.": "今日 {{value}} kcal。",
   "{{value}} min": "{{value}}分",

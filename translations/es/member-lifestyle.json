@@ -632,6 +632,7 @@
   "{{value}} h": "{{value}} h",
   "{{value}} hours": "{{value}} horas",
   "{{value}} hours/night": "{{value}} horas/noche",
+  "{{value}} kcal from drinks": "{{value}} kcal de bebidas",
   "{{value}} kcal today ({{pct}}% of goal).": "{{value}} kcal hoy ({{pct}} % del objetivo).",
   "{{value}} kcal today.": "{{value}} kcal hoy.",
   "{{value}} min": "{{value}} min",

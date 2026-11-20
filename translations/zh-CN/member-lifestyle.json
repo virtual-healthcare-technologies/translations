@@ -632,6 +632,7 @@
   "{{value}} h": "{{value}} 小时",
   "{{value}} hours": "{{value}} 小时",
   "{{value}} hours/night": "每晚 {{value}} 小时",
+  "{{value}} kcal from drinks": "饮品 {{value}} 千卡",
   "{{value}} kcal today ({{pct}}% of goal).": "今日 {{value}} 千卡（达目标的 {{pct}}%）。",
   "{{value}} kcal today.": "今日 {{value}} 千卡。",
   "{{value}} min": "{{value}} 分钟",
