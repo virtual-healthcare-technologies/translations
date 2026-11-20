@@ -4,9 +4,10 @@
   "Choose a new password for your account. Use at least 8 characters.": "Choose a new password for your account. Use at least 8 characters.",
   "Continue with LINE": "Continue with LINE",
   "Forget this device": "Forget this device",
+  "Go to sign-in": "Go to sign-in",
   "I already have an account · Sign in": "I already have an account · Sign in",
   "If LINE doesn't open, open this page in Safari or Chrome and try again.": "If LINE doesn't open, open this page in Safari or Chrome and try again.",
-  "If you continue with LINE, VHT receives your name and profile picture from LINE. You then add your email address, which we use to sign you in and send you messages about your account.": "If you continue with LINE, VHT receives your name and profile picture from LINE. You then add your email address, which we use to sign you in and send you messages about your account.",
+  "If you continue with LINE, VHT receives your name and profile picture from LINE. During setup you add your email address, which we use to sign you in and send you messages about your account.": "If you continue with LINE, VHT receives your name and profile picture from LINE. During setup you add your email address, which we use to sign you in and send you messages about your account.",
   "LINE did not share an email address. Add one so we can send you messages about your account and help you sign in if you lose access to LINE.": "LINE did not share an email address. Add one so we can send you messages about your account and help you sign in if you lose access to LINE.",
   "LINE sign-in could not finish": "LINE sign-in could not finish",
   "LINE sign-in is not available in the app yet. Use the website.": "LINE sign-in is not available in the app yet. Use the website.",
@@ -18,7 +19,7 @@
   "Save new password": "Save new password",
   "Send confirmation link": "Send confirmation link",
   "Set a new password": "Set a new password",
-  "Sign in another way": "Sign in another way",
+  "Sign-in could not finish. Please try again.": "Sign-in could not finish. Please try again.",
   "This device": "This device",
   "This device no longer remembers your account.": "This device no longer remembers your account.",
   "This reset link has expired or was already used. Request a new one.": "This reset link has expired or was already used. Request a new one.",
@@ -34,5 +35,5 @@
   "You last signed in with Google.": "You last signed in with Google.",
   "You last signed in with LINE.": "You last signed in with LINE.",
   "You last signed in with email.": "You last signed in with email.",
-  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. LINE sign-in works only on the website for now. Sign in here another way, or use LINE on a computer.": "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. LINE sign-in works only on the website for now. Sign in here another way, or use LINE on a computer."
+  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. Sign in again here in the app.": "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. Sign in again here in the app."
 }

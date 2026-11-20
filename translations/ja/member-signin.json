@@ -4,9 +4,10 @@
   "Choose a new password for your account. Use at least 8 characters.": "アカウントの新しいパスワードを決めてください。8文字以上で入力してください。",
   "Continue with LINE": "LINEで続ける",
   "Forget this device": "このデバイスの記憶を消去",
+  "Go to sign-in": "ログイン画面へ",
   "I already have an account · Sign in": "アカウントをお持ちの方 · サインイン",
   "If LINE doesn't open, open this page in Safari or Chrome and try again.": "LINEが開かない場合は、このページをSafariまたはChromeで開いてもう一度お試しください。",
-  "If you continue with LINE, VHT receives your name and profile picture from LINE. You then add your email address, which we use to sign you in and send you messages about your account.": "LINEで続ける場合、VHTはLINEからお名前とプロフィール写真を受け取ります。その後メールアドレスを追加していただき、サインインやアカウントに関するメッセージの送信に使用します。",
+  "If you continue with LINE, VHT receives your name and profile picture from LINE. During setup you add your email address, which we use to sign you in and send you messages about your account.": "LINEで続ける場合、VHTはLINEからお名前とプロフィール写真を受け取ります。初期設定の中でメールアドレスを追加していただき、サインインやアカウントに関するメッセージの送信に使用します。",
   "LINE did not share an email address. Add one so we can send you messages about your account and help you sign in if you lose access to LINE.": "LINEからメールアドレスが共有されませんでした。アカウントに関するメッセージをお送りするため、またLINEを利用できなくなった場合のサインインをサポートするため、メールアドレスを追加してください。",
   "LINE sign-in could not finish": "LINEログインを完了できませんでした",
   "LINE sign-in is not available in the app yet. Use the website.": "LINEでのサインインは、アプリではまだご利用いただけません。ウェブサイトをご利用ください。",
@@ -18,7 +19,7 @@
   "Save new password": "新しいパスワードを保存",
   "Send confirmation link": "確認リンクを送信",
   "Set a new password": "新しいパスワードを設定",
-  "Sign in another way": "別の方法でログイン",
+  "Sign-in could not finish. Please try again.": "ログインを完了できませんでした。もう一度お試しください。",
   "This device": "このデバイス",
   "This device no longer remembers your account.": "このデバイスはアカウントを記憶しなくなりました。",
   "This reset link has expired or was already used. Request a new one.": "このリセット用リンクは期限切れか、すでに使用されています。新しいリンクをリクエストしてください。",
@@ -34,5 +35,5 @@
   "You last signed in with Google.": "前回はGoogleでサインインしました。",
   "You last signed in with LINE.": "前回はLINEでサインインしました。",
   "You last signed in with email.": "前回はメールでサインインしました。",
-  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. LINE sign-in works only on the website for now. Sign in here another way, or use LINE on a computer.": "ログインを始めたブラウザではなくVHTアプリが開いたため、LINEログインを完了できませんでした。LINEログインは現在ウェブサイトでのみご利用いただけます。ここで別の方法でログインするか、パソコンからLINEでログインしてください。"
+  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. Sign in again here in the app.": "ログインを始めたブラウザではなくVHTアプリが開いたため、LINEログインを完了できませんでした。このアプリでもう一度ログインしてください。"
 }

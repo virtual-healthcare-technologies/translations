@@ -4,9 +4,10 @@
   "Choose a new password for your account. Use at least 8 characters.": "Escolha uma nova senha para sua conta. Use pelo menos 8 caracteres.",
   "Continue with LINE": "Continuar com o LINE",
   "Forget this device": "Esquecer este dispositivo",
+  "Go to sign-in": "Ir para o login",
   "I already have an account · Sign in": "Já tenho uma conta · Entrar",
   "If LINE doesn't open, open this page in Safari or Chrome and try again.": "Se o LINE não abrir, abra esta página no Safari ou no Chrome e tente novamente.",
-  "If you continue with LINE, VHT receives your name and profile picture from LINE. You then add your email address, which we use to sign you in and send you messages about your account.": "Se você continuar com o LINE, a VHT recebe do LINE seu nome e sua foto de perfil. Depois você adiciona seu endereço de e-mail, que usamos para fazer seu login e enviar mensagens sobre sua conta.",
+  "If you continue with LINE, VHT receives your name and profile picture from LINE. During setup you add your email address, which we use to sign you in and send you messages about your account.": "Se você continuar com o LINE, a VHT recebe do LINE seu nome e sua foto de perfil. Durante a configuração, você adiciona seu endereço de e-mail, que usamos para fazer seu login e enviar mensagens sobre sua conta.",
   "LINE did not share an email address. Add one so we can send you messages about your account and help you sign in if you lose access to LINE.": "O LINE não compartilhou um endereço de e-mail. Adicione um para que possamos enviar mensagens sobre sua conta e ajudar você a entrar caso perca o acesso ao LINE.",
   "LINE sign-in could not finish": "Não foi possível concluir o login com LINE",
   "LINE sign-in is not available in the app yet. Use the website.": "O login com o LINE ainda não está disponível no app. Use o site.",
@@ -18,7 +19,7 @@
   "Save new password": "Salvar nova senha",
   "Send confirmation link": "Enviar link de confirmação",
   "Set a new password": "Defina uma nova senha",
-  "Sign in another way": "Entrar de outra forma",
+  "Sign-in could not finish. Please try again.": "Não foi possível concluir o login. Tente novamente.",
   "This device": "Este dispositivo",
   "This device no longer remembers your account.": "Este dispositivo não lembra mais sua conta.",
   "This reset link has expired or was already used. Request a new one.": "Este link de redefinição expirou ou já foi usado. Solicite um novo.",
@@ -34,5 +35,5 @@
   "You last signed in with Google.": "Da última vez, você entrou com o Google.",
   "You last signed in with LINE.": "Da última vez, você entrou com o LINE.",
   "You last signed in with email.": "Da última vez, você entrou com seu e-mail.",
-  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. LINE sign-in works only on the website for now. Sign in here another way, or use LINE on a computer.": "Seu celular abriu o app VHT em vez do navegador onde você começou, então o login com LINE não foi concluído. Por enquanto, o login com LINE funciona só no site. Entre aqui de outra forma, ou use o LINE em um computador."
+  "Your phone opened the VHT app instead of the browser where you started, so LINE sign-in could not finish. Sign in again here in the app.": "Seu celular abriu o app VHT em vez do navegador onde você começou, então o login com LINE não foi concluído. Entre novamente aqui no app."
 }
