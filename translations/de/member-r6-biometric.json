@@ -2,6 +2,7 @@
   "After signing in, unlock VHT on this device with {{method}}.": "Nach der Anmeldung können Sie VHT auf diesem Gerät mit {{method}} entsperren.",
   "Biometric unlock is not available on this device. Add a fingerprint or face in Android Settings to use quick unlock.": "Biometrische Entsperrung ist auf diesem Gerät nicht verfügbar. Richten Sie in den Android-Einstellungen einen Fingerabdruck oder die Gesichtserkennung ein, um die Schnellentsperrung zu nutzen.",
   "Could not read saved unlock data. Turn off fingerprint or face unlock in Settings, then turn it on again.": "Gespeicherte Entsperrdaten konnten nicht gelesen werden. Deaktivieren Sie die Entsperrung per Fingerabdruck oder Gesichtserkennung in den Einstellungen und aktivieren Sie sie dann erneut.",
+  "Could not turn off unlock with {{method}}": "Entsperren mit {{method}} konnte nicht deaktiviert werden",
   "Could not turn on unlock with {{method}}": "Entsperren mit {{method}} konnte nicht aktiviert werden",
   "Don't ask again": "Nicht mehr fragen",
   "Face ID": "Face ID",

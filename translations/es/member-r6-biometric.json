@@ -2,6 +2,7 @@
   "After signing in, unlock VHT on this device with {{method}}.": "Después de iniciar sesión, desbloquea VHT en este dispositivo con {{method}}.",
   "Biometric unlock is not available on this device. Add a fingerprint or face in Android Settings to use quick unlock.": "El desbloqueo biométrico no está disponible en este dispositivo. Añade una huella digital o tu rostro en los Ajustes de Android para usar el desbloqueo rápido.",
   "Could not read saved unlock data. Turn off fingerprint or face unlock in Settings, then turn it on again.": "No se pudieron leer los datos de desbloqueo guardados. Desactiva el desbloqueo con huella digital o facial en Ajustes y vuelve a activarlo.",
+  "Could not turn off unlock with {{method}}": "No se pudo desactivar el desbloqueo con {{method}}",
   "Could not turn on unlock with {{method}}": "No se pudo activar el desbloqueo con {{method}}",
   "Don't ask again": "No volver a preguntar",
   "Face ID": "Face ID",

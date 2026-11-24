@@ -2,6 +2,7 @@
   "After signing in, unlock VHT on this device with {{method}}.": "サインイン後、このデバイスでは{{method}}でVHTのロックを解除できます。",
   "Biometric unlock is not available on this device. Add a fingerprint or face in Android Settings to use quick unlock.": "このデバイスでは生体認証によるロック解除を利用できません。クイックロック解除を使うには、Androidの設定で指紋または顔を登録してください。",
   "Could not read saved unlock data. Turn off fingerprint or face unlock in Settings, then turn it on again.": "保存されたロック解除データを読み取れませんでした。設定で指紋認証または顔認証によるロック解除をオフにしてから、もう一度オンにしてください。",
+  "Could not turn off unlock with {{method}}": "{{method}}でのロック解除をオフにできませんでした",
   "Could not turn on unlock with {{method}}": "{{method}}でのロック解除をオンにできませんでした",
   "Don't ask again": "今後表示しない",
   "Face ID": "Face ID",

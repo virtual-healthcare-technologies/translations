@@ -2,6 +2,7 @@
   "After signing in, unlock VHT on this device with {{method}}.": "After signing in, unlock VHT on this device with {{method}}.",
   "Biometric unlock is not available on this device. Add a fingerprint or face in Android Settings to use quick unlock.": "Biometric unlock is not available on this device. Add a fingerprint or face in Android Settings to use quick unlock.",
   "Could not read saved unlock data. Turn off fingerprint or face unlock in Settings, then turn it on again.": "Could not read saved unlock data. Turn off fingerprint or face unlock in Settings, then turn it on again.",
+  "Could not turn off unlock with {{method}}": "Could not turn off unlock with {{method}}",
   "Could not turn on unlock with {{method}}": "Could not turn on unlock with {{method}}",
   "Don't ask again": "Don't ask again",
   "Face ID": "Face ID",

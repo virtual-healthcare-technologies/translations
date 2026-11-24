@@ -2,6 +2,7 @@
   "After signing in, unlock VHT on this device with {{method}}.": "登录后，可在此设备上使用{{method}}解锁 VHT。",
   "Biometric unlock is not available on this device. Add a fingerprint or face in Android Settings to use quick unlock.": "此设备不支持生物识别解锁。请在 Android 设置中添加指纹或人脸，以使用快速解锁。",
   "Could not read saved unlock data. Turn off fingerprint or face unlock in Settings, then turn it on again.": "无法读取已保存的解锁数据。请在设置中关闭指纹或人脸解锁，然后重新开启。",
+  "Could not turn off unlock with {{method}}": "无法关闭{{method}}解锁",
   "Could not turn on unlock with {{method}}": "无法开启{{method}}解锁",
   "Don't ask again": "不再询问",
   "Face ID": "Face ID",
