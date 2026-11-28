@@ -55,6 +55,7 @@
   "Report pages": "Páginas del informe",
   "Report upload problem": "Problema al subir el informe",
   "Report uploads are off right now": "Las subidas de informes están desactivadas por ahora",
+  "Report: {{flag}}": "Informe: {{flag}}",
   "Reports are processed in the United States. For members in Canada this is cross-border processing, as described in our privacy policy.": "Los informes se procesan en Estados Unidos. Para miembros en Canadá esto es un procesamiento transfronterizo, como se describe en nuestra política de privacidad.",
   "Reports can be up to 10 MB per file and 25 MB in total.": "Los informes pueden pesar hasta 10 MB por archivo y 25 MB en total.",
   "Retake page {{n}}": "Repetir la página {{n}}",

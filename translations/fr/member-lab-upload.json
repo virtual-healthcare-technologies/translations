@@ -55,6 +55,7 @@
   "Report pages": "Pages du compte rendu",
   "Report upload problem": "Problème d’import de compte rendu",
   "Report uploads are off right now": "L’import de comptes rendus est désactivé pour le moment",
+  "Report: {{flag}}": "Compte rendu : {{flag}}",
   "Reports are processed in the United States. For members in Canada this is cross-border processing, as described in our privacy policy.": "Les comptes rendus sont traités aux États-Unis. Pour les membres au Canada, il s’agit d’un traitement transfrontalier, comme décrit dans notre politique de confidentialité.",
   "Reports can be up to 10 MB per file and 25 MB in total.": "Les comptes rendus peuvent peser jusqu’à 10 Mo par fichier et 25 Mo au total.",
   "Retake page {{n}}": "Reprendre la page {{n}}",

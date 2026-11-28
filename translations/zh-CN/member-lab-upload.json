@@ -55,6 +55,7 @@
   "Report pages": "报告页面",
   "Report upload problem": "报告上传问题",
   "Report uploads are off right now": "报告上传功能目前已关闭",
+  "Report: {{flag}}": "报告：{{flag}}",
   "Reports are processed in the United States. For members in Canada this is cross-border processing, as described in our privacy policy.": "报告在美国处理。对加拿大会员而言，这属于跨境处理，详见我们的隐私政策。",
   "Reports can be up to 10 MB per file and 25 MB in total.": "每个文件最大 10 MB，总计最大 25 MB。",
   "Retake page {{n}}": "重拍第 {{n}} 页",

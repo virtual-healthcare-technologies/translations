@@ -55,6 +55,7 @@
   "Report pages": "Páginas do laudo",
   "Report upload problem": "Problema no envio do laudo",
   "Report uploads are off right now": "Os envios de laudos estão desativados no momento",
+  "Report: {{flag}}": "Laudo: {{flag}}",
   "Reports are processed in the United States. For members in Canada this is cross-border processing, as described in our privacy policy.": "Os laudos são processados nos Estados Unidos. Para membros no Canadá, isso é um processamento transfronteiriço, conforme descrito em nossa política de privacidade.",
   "Reports can be up to 10 MB per file and 25 MB in total.": "Os laudos podem ter até 10 MB por arquivo e 25 MB no total.",
   "Retake page {{n}}": "Repetir a página {{n}}",

@@ -55,6 +55,7 @@
   "Report pages": "報告書のページ",
   "Report upload problem": "報告書アップロードの問題",
   "Report uploads are off right now": "現在、報告書のアップロードは利用できません",
+  "Report: {{flag}}": "報告書: {{flag}}",
   "Reports are processed in the United States. For members in Canada this is cross-border processing, as described in our privacy policy.": "報告書は米国で処理されます。カナダの会員の場合、プライバシーポリシーに記載のとおり越境処理となります。",
   "Reports can be up to 10 MB per file and 25 MB in total.": "ファイルは最大10 MB、合計で最大25 MBまでです。",
   "Retake page {{n}}": "ページ{{n}}を撮り直す",

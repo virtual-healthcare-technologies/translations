@@ -55,6 +55,7 @@
   "Report pages": "Befundseiten",
   "Report upload problem": "Problem beim Befund-Upload",
   "Report uploads are off right now": "Befund-Uploads sind derzeit deaktiviert",
+  "Report: {{flag}}": "Befund: {{flag}}",
   "Reports are processed in the United States. For members in Canada this is cross-border processing, as described in our privacy policy.": "Befunde werden in den USA verarbeitet. Für Mitglieder in Kanada ist dies eine grenzüberschreitende Verarbeitung, wie in unserer Datenschutzerklärung beschrieben.",
   "Reports can be up to 10 MB per file and 25 MB in total.": "Befunde dürfen bis zu 10 MB pro Datei und 25 MB insgesamt groß sein.",
   "Retake page {{n}}": "Seite {{n}} neu aufnehmen",
