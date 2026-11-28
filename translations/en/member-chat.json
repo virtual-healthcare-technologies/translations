@@ -1,4 +1,5 @@
 {
+  "+{{count}} more": "+{{count}} more",
   "+{{n}} more…": "+{{n}} more…",
   "1 Safety Notice": "1 Safety Notice",
   "ADVANCED": "ADVANCED",
@@ -165,6 +166,7 @@
   "Keep my history": "Keep my history",
   "Key Features": "Key Features",
   "Lab Result Analysis": "Lab Result Analysis",
+  "Lab results mentioned": "Lab results mentioned",
   "Laboratory Results": "Laboratory Results",
   "Learn about your Health Index methodology": "Learn about your Health Index methodology",
   "Learn about {{name}}": "Learn about {{name}}",
@@ -268,6 +270,7 @@
   "Share not supported": "Share not supported",
   "Shortness of Breath": "Shortness of Breath",
   "Show Archived": "Show Archived",
+  "Show the lab results this answer mentions": "Show the lab results this answer mentions",
   "Sinus Congestion": "Sinus Congestion",
   "Skipped Heartbeat": "Skipped Heartbeat",
   "Sleep & Dreams": "Sleep & Dreams",

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-28T00:06:15.059Z",
+  "generatedAt": "2026-11-28T00:10:42.536Z",
   "sourceRepo": "virtual-healthcare-technologies/vht-ai-production",
-  "sourceCommit": "3f0305b1c8ba4a170f659f743cb215c5bdd4fbe3",
+  "sourceCommit": "9571888963e4f605aa47a265540ad0a372c291be",
   "languages": [
     "en",
     "fr",
@@ -99,7 +99,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -107,7 +107,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -157,7 +157,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     },
     "fr": {
       "public": 3935,
@@ -173,7 +173,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -181,7 +181,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -231,7 +231,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     },
     "ja": {
       "public": 3935,
@@ -247,7 +247,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -255,7 +255,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -305,7 +305,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     },
     "zh-CN": {
       "public": 3935,
@@ -321,7 +321,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -329,7 +329,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -379,7 +379,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     },
     "es": {
       "public": 3935,
@@ -395,7 +395,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -403,7 +403,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -453,7 +453,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     },
     "de": {
       "public": 3935,
@@ -469,7 +469,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -477,7 +477,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -527,7 +527,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     },
     "pt": {
       "public": 3935,
@@ -543,7 +543,7 @@
       "dosage": 139,
       "family": 110,
       "healthcare-catalog": 110,
-      "instant": 116,
+      "instant": 126,
       "lifestyle": 102,
       "medications": 208,
       "member-ai-consent": 20,
@@ -551,7 +551,7 @@
       "member-beta-offer": 5,
       "member-billing": 47,
       "member-body": 854,
-      "member-chat": 366,
+      "member-chat": 369,
       "member-common": 539,
       "member-communication-consent": 4,
       "member-digital-twin": 676,
@@ -601,7 +601,7 @@
       "states": 180,
       "supplement-ingredients": 20,
       "surgeries": 55,
-      "total": 15382
+      "total": 15395
     }
   }
 }

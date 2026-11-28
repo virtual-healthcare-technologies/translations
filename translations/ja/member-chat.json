@@ -1,4 +1,5 @@
 {
+  "+{{count}} more": "ほか{{count}}件",
   "+{{n}} more…": "ほか {{n}} 件…",
   "1 Safety Notice": "安全に関するお知らせ 1 件",
   "ADVANCED": "アドバンスト",
@@ -165,6 +166,7 @@
   "Keep my history": "履歴を残す",
   "Key Features": "主な機能",
   "Lab Result Analysis": "検査結果の分析",
+  "Lab results mentioned": "言及された検査結果",
   "Laboratory Results": "検査結果",
   "Learn about your Health Index methodology": "Health Index の算出方法について",
   "Learn about {{name}}": "{{name}} について知る",
@@ -268,6 +270,7 @@
   "Share not supported": "共有に対応していません",
   "Shortness of Breath": "息切れ",
   "Show Archived": "アーカイブを表示",
+  "Show the lab results this answer mentions": "この回答で言及された検査結果を表示",
   "Sinus Congestion": "副鼻腔の詰まり",
   "Skipped Heartbeat": "脈が飛ぶ",
   "Sleep & Dreams": "睡眠と夢",

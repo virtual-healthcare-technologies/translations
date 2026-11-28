@@ -1,4 +1,5 @@
 {
+  "+{{count}} more": "+{{count}} de plus",
   "+{{n}} more…": "+{{n}} de plus…",
   "1 Safety Notice": "1 avis de sécurité",
   "ADVANCED": "AVANCÉ",
@@ -165,6 +166,7 @@
   "Keep my history": "Garder mon historique",
   "Key Features": "Points forts",
   "Lab Result Analysis": "Analyse des résultats d’analyses",
+  "Lab results mentioned": "Résultats d’analyses mentionnés",
   "Laboratory Results": "Résultats d’analyses",
   "Learn about your Health Index methodology": "En savoir plus sur la méthode de votre Health Index",
   "Learn about {{name}}": "En savoir plus sur {{name}}",
@@ -268,6 +270,7 @@
   "Share not supported": "Partage non pris en charge",
   "Shortness of Breath": "Essoufflement",
   "Show Archived": "Afficher les archives",
+  "Show the lab results this answer mentions": "Voir les résultats d’analyses mentionnés dans cette réponse",
   "Sinus Congestion": "Congestion des sinus",
   "Skipped Heartbeat": "Battements manqués",
   "Sleep & Dreams": "Sommeil et rêves",

@@ -1,4 +1,5 @@
 {
+  "+{{count}} more": "+{{count}} weitere",
   "+{{n}} more…": "+{{n}} weitere…",
   "1 Safety Notice": "1 Sicherheitshinweis",
   "ADVANCED": "ERWEITERT",
@@ -165,6 +166,7 @@
   "Keep my history": "Verlauf behalten",
   "Key Features": "Hauptfunktionen",
   "Lab Result Analysis": "Analyse der Laborwerte",
+  "Lab results mentioned": "Erwähnte Laborwerte",
   "Laboratory Results": "Laborwerte",
   "Learn about your Health Index methodology": "Mehr über die Methodik Ihres Health Index",
   "Learn about {{name}}": "Mehr über {{name}}",
@@ -268,6 +270,7 @@
   "Share not supported": "Teilen nicht unterstützt",
   "Shortness of Breath": "Atemnot",
   "Show Archived": "Archivierte anzeigen",
+  "Show the lab results this answer mentions": "Laborwerte anzeigen, die in dieser Antwort erwähnt werden",
   "Sinus Congestion": "Verstopfte Nebenhöhlen",
   "Skipped Heartbeat": "Herzstolpern",
   "Sleep & Dreams": "Schlaf & Träume",

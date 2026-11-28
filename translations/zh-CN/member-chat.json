@@ -1,4 +1,5 @@
 {
+  "+{{count}} more": "另有 {{count}} 项",
   "+{{n}} more…": "另有 {{n}} 项…",
   "1 Safety Notice": "1 条安全提示",
   "ADVANCED": "高级",
@@ -165,6 +166,7 @@
   "Keep my history": "保留我的记录",
   "Key Features": "主要功能",
   "Lab Result Analysis": "化验结果分析",
+  "Lab results mentioned": "提及的化验结果",
   "Laboratory Results": "化验结果",
   "Learn about your Health Index methodology": "了解您的 Health Index 计算方法",
   "Learn about {{name}}": "了解{{name}}",
@@ -268,6 +270,7 @@
   "Share not supported": "不支持分享",
   "Shortness of Breath": "呼吸急促",
   "Show Archived": "显示已归档",
+  "Show the lab results this answer mentions": "查看此回答中提及的化验结果",
   "Sinus Congestion": "鼻窦充血",
   "Skipped Heartbeat": "心跳漏搏",
   "Sleep & Dreams": "睡眠与梦境",
